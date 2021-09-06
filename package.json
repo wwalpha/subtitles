@@ -1,0 +1,13 @@
+{
+  "name": "subtitles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wwalpha/subtitles.git",
+  "author": "wwalpha <wwalpha@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
