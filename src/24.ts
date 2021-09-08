@@ -20,6 +20,7 @@ const readFile = (filename: string): string[] => {
     .map((item) => item.replace(/\"/g, ''))
     .map((item) => item.replace(/\?/g, ''))
     .map((item) => item.replace(/,/g, ''))
+    .map((item) => item.replace(/;/g, ''))
     .map((item) => item.replace(/-/g, ''))
     .map((item) => (item.indexOf("'") === -1 ? item : item.split("'")[0]))
     .filter((item) => item.trim().length > 3)
