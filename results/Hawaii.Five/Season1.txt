@@ -6,7 +6,6 @@ abductor
 abetting
 ability
 able
-about
 above
 abroad
 absence
@@ -18,7 +17,6 @@ absurd
 abuse
 academy
 accent
-accept
 access
 accessible
 accessory
@@ -57,13 +55,10 @@ adjuster
 administrator
 admiral
 admire
-admired
 admit
-admitted
 adress
 adults
 advance
-advanced
 advantage
 adventure
 adventurer
@@ -80,18 +75,13 @@ afford
 afis
 afraid
 african
-after
-afternoon
 afterwards
-again
 against
 agency
 agent
 aggravated
 aggressive-aggressive
 agitated
-agree
-agreed
 agreement
 agriculture
 agro
@@ -121,7 +111,6 @@ alarm
 alaska
 alcohol
 alert
-alex
 alias
 alibi
 alike
@@ -142,7 +131,6 @@ alone
 along
 already
 alright
-also
 altar
 alter
 altercation
@@ -171,8 +159,7 @@ analyzing
 anand
 ancestors
 ancient
-and-and
-aneurism-face
+aneurism
 angeles
 anger
 angle
@@ -233,9 +220,7 @@ aquaman
 architect
 archives
 archuleta
-area
 argue
-argued
 arguing
 arigato
 arigoto
@@ -254,7 +239,6 @@ arrest
 arrestable
 arrival
 arrive
-arrived
 arriving
 arsenal
 arthur
@@ -266,8 +250,6 @@ ashes
 asia
 asian
 aside
-asked
-asking
 asleep
 asphalt
 asphyxiated
@@ -289,7 +271,6 @@ associate
 assume
 assurance
 assure
-assured
 asylum
 asymmetric
 athletes
@@ -353,7 +334,6 @@ backwards
 backyard
 bacterial
 badge
-badged
 badly
 baggage
 bagged
@@ -390,7 +370,6 @@ barry
 bars
 base
 baseball
-based
 basic
 basically
 basketball
@@ -409,8 +388,6 @@ beat
 beautiful
 beauty
 became
-because
-becausebecause
 become
 bedroom
 bedside
@@ -432,7 +409,6 @@ belfast
 belgrade
 belief
 believe
-believed
 bell
 bellagio
 belong
@@ -487,7 +463,6 @@ blackouts
 bladder
 blade
 blame
-blamed
 blaming
 blanket
 blast
@@ -543,7 +518,6 @@ boot
 bora-bora
 border
 bore
-bored
 born
 borneo
 borrow
@@ -556,7 +530,6 @@ botched
 both
 bother
 bottle
-bottled
 bottom
 bought
 boulder
@@ -567,7 +540,6 @@ bound
 bowl
 bowles
 boxes
-box：恶搞玩具
 boyfriend
 boys
 boyz
@@ -715,7 +687,6 @@ capping
 captain
 captive
 capture
-captured
 carbunculus
 card
 cardiac
@@ -758,7 +729,6 @@ catherine
 cathk
 caught
 cause
-caused
 causing
 caution
 cayman
@@ -790,13 +760,11 @@ champions
 championship
 chance
 change
-changed
 changing
 channel
 chaos
 character
 charge
-charged
 charger
 charity
 charles
@@ -862,7 +830,6 @@ cigarette
 cinderella
 cipher
 circle
-circled
 circuit
 circuitry
 circular
@@ -902,7 +869,6 @@ clifton
 climb
 clinic
 clip
-clipped
 clo-naza-pam
 cloak-and-dagger
 clockwork
@@ -911,7 +877,6 @@ clones
 close
 close-quarter
 close-up
-closed
 closed-circuit
 closer
 closest
@@ -937,7 +902,6 @@ coco
 coconspirators
 coconut
 code
-coded
 coed
 coexisted
 coffee
@@ -977,7 +941,6 @@ commiserate
 commissioner
 commit
 commitment
-committed
 common
 comms
 communicate
@@ -1004,10 +967,8 @@ compliment
 comply
 composed
 composite
-composited
 compound
 compromise
-compromised
 compromising
 computer
 conan
@@ -1030,7 +991,6 @@ confiscated
 conflict
 confront
 confuse
-confused
 confusion
 conglomerate
 congratulate
@@ -1073,7 +1033,6 @@ contrary
 contribute
 contributor
 control
-controlled
 controlling
 controversial
 contusions
@@ -1085,13 +1044,11 @@ conversion
 convict
 conviction
 convince
-convinced
 convulse
 cook
 cool
 coolest
 cooperate
-cooperated
 cooperative
 coordinate
 cops
@@ -1157,7 +1114,6 @@ crazier
 crazy
 cream
 create
-created
 credible
 credit
 creepy
@@ -1171,7 +1127,6 @@ crops
 cross
 cross-checked
 cross-reference
-cross-referenced
 crossfire
 crowd
 crucial
@@ -1205,7 +1160,6 @@ daddy
 dairy
 dale
 damage
-damaged
 damn
 dana
 dancers
@@ -1222,7 +1176,6 @@ dash
 data
 database
 date
-dated
 dating
 daughter
 daughter-in-law
@@ -1247,7 +1200,6 @@ deceased
 december
 deception
 decide
-decided
 decisions
 deck
 declare
@@ -1310,7 +1262,6 @@ deputy
 derek
 description
 deserve
-deserved
 designed
 desk
 desperate
@@ -1328,7 +1279,6 @@ detective
 detector
 determine
 detonate
-detonated
 detonating
 detonator
 detour
@@ -1372,9 +1322,7 @@ dirty
 dis-loyal
 disability
 disable
-disabled
 disagree
-disagreed
 disagreement
 disappear
 disappearance
@@ -1423,7 +1371,6 @@ diversion
 diving
 division
 divorce
-divorced
 dizzy
 dlnr
 dock
@@ -1455,7 +1402,6 @@ doping
 doran
 dork
 dose
-dosed
 double
 double-check
 double-cross
@@ -1493,12 +1439,10 @@ driveway
 driving
 drop
 drop-off
-dropped
 dropping
 drove
 drown
 drug
-drugged
 drying
 dubai
 duck
@@ -1567,7 +1511,6 @@ elevated
 elevator
 eleventh
 eliminate
-eliminated
 eliminating
 ellers
 elliot
@@ -1610,7 +1553,6 @@ energy
 enforcement
 enforcer
 engage
-engaged
 engagement
 engine
 engineering
@@ -1619,7 +1561,6 @@ english
 engraved
 engulfing
 enhance
-enhanced
 enjoy
 enlist
 enough
@@ -1649,13 +1590,11 @@ escalated
 escalates
 escalating
 escape
-escaped
 escort
 escrow
 established
 estate
 estimate
-estimated
 estrada
 etched
 etelis
@@ -1665,7 +1604,6 @@ etienne
 europe
 evac
 evacuate
-evacuated
 evacuating
 evacuation
 evan
@@ -1697,14 +1635,12 @@ excellent
 except
 exception
 exchange
-exchanged
 excited
 exclusive
 exclusively
 excursions
 excuse
 execute
-executed
 execution
 executive
 exercise
@@ -1725,13 +1661,11 @@ expertise
 expires
 explain
 explode
-exploded
 exploit
 explorer
 explosion
 explosive
 expose
-exposed
 exposing
 exposure
 expressing
@@ -1826,9 +1760,7 @@ field
 fight
 fighter
 figure
-figured
 file
-filed
 filing
 filipino
 filled
@@ -1849,7 +1781,6 @@ fingerprint
 finish
 fire
 firearm
-fired
 firefight
 firemen
 firepower
@@ -1890,7 +1821,6 @@ flew
 flight
 flip
 flip-flops
-flipped
 flipping
 floater
 floating
@@ -1918,7 +1848,6 @@ football
 footnotes
 footwear
 force
-forced
 forcing
 ford
 forearm
@@ -1951,7 +1880,6 @@ fourth
 fractured
 fragment
 frame
-framed
 france
 franchise
 francisco
@@ -2063,7 +1991,6 @@ global
 globe
 glove
 glue
-glued
 go-to
 goatee
 godmother
@@ -2095,12 +2022,10 @@ government-issued
 governor
 governorsmooth
 grab
-grabbed
 grace
 gracie
 grade
 graduate
-graduated
 graduating
 graduation
 graffiti
@@ -2188,7 +2113,6 @@ handcuffed
 handcuffs
 handful
 handle
-handled
 handling
 handwriting
 hang
@@ -2212,7 +2136,6 @@ harrises
 harrison
 hatch
 hate
-hated
 haul
 hauli
 have
@@ -2291,7 +2214,6 @@ himself
 hint
 hippos
 hire
-hired
 hiring
 hiro
 history
@@ -2308,7 +2230,6 @@ hoffman
 hold
 holder
 hole
-holed
 holiday
 holla
 holmes
@@ -2423,7 +2344,6 @@ impressive
 imprint
 improvement
 improvise
-improvised
 improvising
 impulsive
 in-house
@@ -2446,7 +2366,6 @@ incredibly
 incriminating
 indentations
 indicate
-indicated
 indication
 indicted
 indictment
@@ -2527,7 +2446,6 @@ invented
 invention
 inventory
 investigate
-investigated
 investigating
 investigation
 investigator
@@ -2536,7 +2454,6 @@ investors
 invisible
 invitation
 invite
-invited
 inviting
 invoices
 involved
@@ -2558,7 +2475,6 @@ isner
 isolated
 isotope
 issue
-issued
 iswhat
 italian
 italy
@@ -2680,7 +2596,6 @@ kick-start
 kidding
 kiddo
 kidnap
-kidnapped
 kidnapper
 kidnapping
 kidney
@@ -2816,7 +2731,6 @@ liberation
 liberty
 librarian
 license
-licensed
 lickings
 lickins
 lied
@@ -2832,7 +2746,6 @@ lighter
 lightly
 lightweight
 like
-liked
 likely
 liko
 lily
@@ -2853,7 +2766,6 @@ literally
 lithium
 little
 live
-lived
 liver
 living
 llaves
@@ -2915,7 +2827,6 @@ louisiana
 lounge
 love
 lovebirds
-loved
 lovely
 loving
 low-level
@@ -2942,7 +2853,6 @@ lunch
 lunches
 lung
 lure
-lured
 lurking
 luther
 luxury
@@ -2984,7 +2894,6 @@ mama
 mamo
 man-eaters
 manage
-managed
 management
 manager
 managing
@@ -3209,7 +3118,6 @@ motto
 mountain
 mouth
 move
-moved
 movement
 movie
 moving
@@ -3246,7 +3154,6 @@ nagged
 nail
 naked
 name
-named
 nancy
 nanjing
 nanny
@@ -3309,7 +3216,6 @@ nice
 nicer
 nick
 nickname
-nicknamed
 nicole
 night
 nightclub
@@ -3346,7 +3252,6 @@ notch
 noted
 nothing
 notice
-noticed
 notification
 notify
 nowhere
@@ -3502,7 +3407,6 @@ palo
 pancakes
 panel
 panic
-panicked
 paniolo
 panning
 pans
@@ -3521,7 +3425,6 @@ parisi
 park
 parker
 parole
-paroled
 parolee
 part
 partial
@@ -3639,17 +3542,14 @@ pitch
 pitchers
 pizza
 place
-placed
 placekamaaina
 plague
 plain
 plan
 plane
 planet
-planned
 planning
 plantation
-planted
 plants
 plastic
 plate
@@ -3736,7 +3636,6 @@ predators
 preemptive
 prefer
 preferable
-preferred
 pregnant
 preliminary
 premeditated
@@ -3788,7 +3687,6 @@ proceed
 process
 procure
 produce
-produced
 product
 production
 professional
@@ -3802,7 +3700,6 @@ projections
 projects
 prom
 promise
-promised
 promotional
 pronounce
 proof
@@ -3824,11 +3721,9 @@ protestors
 protocol
 proud
 prove
-proved
 proven
 proverb
 provide
-provided
 proving
 provoke
 psych
@@ -3846,7 +3741,6 @@ publish
 puffs
 pukahi
 puke
-puked
 pull
 pulmonary
 pulp
@@ -3861,7 +3755,6 @@ punk
 pupils
 pupukea
 purchase
-purchased
 purchasing
 purple
 purpose
@@ -3907,7 +3800,6 @@ rain
 raines
 rainman
 raise
-raised
 raising
 rambo
 ramboette
@@ -3940,7 +3832,6 @@ ready
 real
 reality
 realize
-realized
 realizing
 really
 rear-ended
@@ -3960,7 +3851,6 @@ reception
 recklessly
 recognition
 recognize
-recognized
 recollection
 recon
 reconciliation
@@ -3983,7 +3873,6 @@ reeves
 refer
 reference
 referral
-referred
 referring
 refresh
 refrigerator
@@ -4006,18 +3895,15 @@ reinject
 reinstate
 reinvent
 relate
-related
 relation
 relationship
 relative
 relax
 relay
 release
-released
 relevant
 relief
 relieve
-relieved
 relocated
 remain
 remarried
@@ -4053,7 +3939,6 @@ research
 resent
 reservation
 reserve
-reserved
 residences
 resident
 residue
@@ -4082,7 +3967,6 @@ resuscitate
 retainer
 retaliation
 retire
-retired
 retirement
 retrace
 retrieve
@@ -4147,7 +4031,6 @@ rollins
 romeo
 roof
 roofie
-roofied
 rook
 rookie
 room
@@ -4165,7 +4048,6 @@ royal
 rubber
 ruin
 rule
-ruled
 ruling
 rumors
 runaround
@@ -4183,7 +4065,6 @@ sabrecat
 sabrina
 sacked
 sacrifice
-sacrificed
 sadistic
 safe
 safehouse
@@ -4225,7 +4106,6 @@ saturday
 sauce
 savant
 save
-saved
 saving
 saying
 says
@@ -4233,12 +4113,10 @@ scales
 scamming
 scan
 scare
-scared
 scary
 scenario
 scene
 schedule
-scheduled
 schmuck
 scholarship
 school
@@ -4317,7 +4195,6 @@ series
 serious
 seriously
 serve
-served
 server
 service
 serving
@@ -4327,7 +4204,6 @@ seth
 sets
 setting
 settle
-settled
 settlement
 setup
 seven
@@ -4349,16 +4225,13 @@ shame
 shan
 shannon
 shape
-shaped
 share
-shared
 shark
 sharp
 sharpshooter
 shattered
 shaun
 shave
-shaved
 she-she
 shed
 sheet
@@ -4375,7 +4248,6 @@ shield
 shift
 ship
 shipment
-shipped
 shipping
 shirt
 shirtless
@@ -4477,7 +4349,6 @@ slightly
 slim
 slingshot
 slip
-slipped
 slipper
 slipping
 sloppy
@@ -4494,14 +4365,12 @@ smarter
 smash
 smell
 smile
-smiled
 smiling
 smirking
 smith
 smoke
 smooth
 smuggle
-smuggled
 smuggling
 snack
 snagged
@@ -4569,7 +4438,6 @@ spearfishing
 special
 specialist
 specialize
-specialized
 specialty
 species
 specific
@@ -4602,7 +4470,6 @@ spooky
 sport
 spot
 spotless
-spotted
 spotty
 spray
 spread
@@ -4615,7 +4482,6 @@ squeeze
 squishy
 stabbed
 stabilize
-stabilized
 stable
 stack
 stadium
@@ -4661,7 +4527,6 @@ step
 step-stan
 stepfather
 stephanie
-stepped
 stereo
 steroid
 steve
@@ -4681,7 +4546,6 @@ stolen
 stone
 stood
 stop
-stopped
 stopping
 storage
 store
@@ -4697,7 +4561,6 @@ strangler
 strangling
 strangulation
 strap
-strapped
 strategic
 strategy
 streak
@@ -4716,13 +4579,11 @@ strong
 strongly
 structure
 struggle
-struggled
 stuck
 stud
 study
 stuff
 stun
-stunned
 stunning
 stunt
 stupid
@@ -4775,7 +4636,6 @@ supply
 support
 supporters
 suppose
-supposed
 suppress
 sure
 surely
@@ -4787,7 +4647,6 @@ surge
 surgeons
 surgery
 surprise
-surprised
 surrendered
 surround
 surroundings
@@ -4795,7 +4654,6 @@ surveil
 surveillance
 survival
 survive
-survived
 surviving
 survivors
 susan
@@ -4861,7 +4719,6 @@ tank
 tanning
 tanya
 tape
-taped
 tapped
 tarasova
 target
@@ -4869,7 +4726,6 @@ tarzan
 task
 taste
 taste-tester
-tasted
 tattoo
 taught
 taunting
@@ -4920,19 +4776,13 @@ testify
 testimony
 texas
 text
-th-the
 thailand
-than
-thank
-that
-that-that
 theater
 theft
 their
 thel
 them
 themselves
-then
 theoretical
 theory
 therapist
@@ -4955,8 +4805,6 @@ thinner
 third
 third-grade
 thirsty
-this
-this-this
 thomas
 thorities
 thorough
@@ -5004,7 +4852,6 @@ timing
 tiny
 tipped
 tire
-tired
 tissue
 titles
 toast
@@ -5031,7 +4878,6 @@ torch
 tore
 tornado
 torture
-tortured
 torturing
 toss
 total
@@ -5051,14 +4897,12 @@ toxicology
 toxin
 trace
 traceable
-traced
 tracing
 track
 tracksuit
 traction
 tracy
 trade
-traded
 traditional
 traffic
 trafficker
@@ -5076,13 +4920,10 @@ transaction
 transdermal
 transfer
 transference
-transferred
 translate
-translated
 translation
 transmission
 transmit
-transmitted
 transmitter
 transmitting
 transplant
@@ -5108,7 +4949,6 @@ trevor
 triad
 trial
 triangulate
-triangulated
 triathletes
 triathlon
 trick
@@ -5117,7 +4957,6 @@ tried
 tries
 trigger
 trip
-tripped
 trivial
 troops
 trophy
@@ -5237,7 +5076,6 @@ unusual
 up-and-comers
 upbringing
 update
-updated
 upheads
 upon
 upped
@@ -5371,13 +5209,11 @@ warren
 wars
 washington
 waste
-wasted
 wasting
 watch
 water
 watermen
 wave
-waved
 waving
 ways
 we-we
@@ -5451,9 +5287,7 @@ wings
 winner
 winter
 wipe
-wiped
 wire
-wired
 wireless
 wiretap
 wiser
@@ -5495,7 +5329,6 @@ worth
 would
 wound
 wrap
-wrapped
 wrapping
 wreck
 wright
@@ -5508,7 +5341,6 @@ wrong
 wrote
 wyoming
 x-ray
-y-you
 yakuza
 yank
 yankee
@@ -5522,7 +5354,6 @@ yelling
 yesterday
 yoga
 york
-you-you
 young
 younger
 your

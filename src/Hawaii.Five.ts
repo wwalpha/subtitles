@@ -65,7 +65,9 @@ const start = () => {
     .filter((item, idx, array) =>
       item.endsWith('ies') ? !array.includes(`${item.substring(0, item.length - 3)}y`) : true
     )
-    .filter((item, idx, array) => (item.endsWith('ed') ? !array.includes(item.substring(0, item.length - 2)) : true));
+    .filter((item, idx, array) => (item.endsWith('ed') ? !array.includes(item.substring(0, item.length - 2)) : true))
+    .filter((item, idx, array) => (item.endsWith('ed') ? !array.includes(item.substring(0, item.length - 1)) : true))
+    .filter((item, idx, array) => (item.endsWith('ed') ? !array.includes(item.substring(0, item.length - 3)) : true));
 
   result.sort();
 
