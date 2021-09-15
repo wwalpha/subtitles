@@ -71,9 +71,15 @@ const start = () => {
 
   result.sort();
 
-  fs.writeFileSync('./results/Hawaii.Five/Season1.txt', Array.from(new Set(result)).join('\n'), {
-    flag: 'w',
-  });
+  const fileTexts = Array.from(new Set(result));
+
+  for (let i = 1; fileTexts.length > 0; i++) {
+    const lines = fileTexts.length > 1000 ? fileTexts.splice(0, 1000) : fileTexts.splice(0, fileTexts.length);
+
+    fs.writeFileSync(`./results/Hawaii.Five/Season1_${i}.txt`, lines.join('\n'), {
+      flag: 'w',
+    });
+  }
 };
 
 start();
