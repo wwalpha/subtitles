@@ -199,7 +199,6 @@ dragge
 dress
 drive
 driver
-driving
 drop
 drugge
 during
@@ -399,7 +398,6 @@ like
 listen
 little
 live
-living
 location
 lonely
 long
@@ -774,7 +772,7 @@ while
 whoa
 wife
 will
-william
+williams
 wire
 wish
 with
