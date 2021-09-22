@@ -619,7 +619,6 @@ squishy
 stadium
 stain
 start
-starte
 state
 stay
 steal
