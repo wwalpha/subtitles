@@ -238,7 +238,6 @@ favor
 feel
 file
 find
-finding
 fine
 finger
 fire
@@ -492,7 +491,7 @@ payback
 payment
 payoff
 pearl
-pending
+pend
 people
 perfect
 permanent
