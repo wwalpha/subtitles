@@ -68,7 +68,6 @@ assigned
 assignment
 assoc
 associate
-associated
 assume
 assure
 attached
@@ -153,7 +152,6 @@ candidates
 cape
 captain
 care
-cared
 carry
 case
 cash
@@ -166,7 +164,6 @@ chain
 chambers
 chance
 change
-changed
 charge
 charm
 cheated
@@ -192,7 +189,6 @@ client
 clone
 clooney
 close
-closed
 closer
 clubs
 cocktail
@@ -208,7 +204,6 @@ command
 common
 company
 complete
-completed
 completely
 computer
 conducted
@@ -221,7 +216,6 @@ continue
 contract
 conveniently
 convince
-convinced
 cool
 cooper
 cops
@@ -260,7 +254,6 @@ dealer
 dean
 death
 decide
-decided
 definitely
 definition
 degree
@@ -364,15 +357,12 @@ feet
 fernandez
 fight
 figure
-figured
 file
-filed
 fill
 finally
 find
 fine
 fire
-fired
 firm
 first
 fishing
@@ -451,7 +441,6 @@ hamptons
 hand
 handbook
 handle
-handled
 hang
 happen
 happy
@@ -463,7 +452,6 @@ harsh
 harvard
 harvey
 hate
-hated
 have
 head
 health
@@ -479,7 +467,6 @@ high
 higher
 hilarious
 hire
-hired
 hitting
 holding
 home
@@ -522,12 +509,10 @@ interview
 intimidate
 into
 investigate
-investigated
 investigation
 investigator
 invite
 issue
-issued
 iwhat
 jail
 january
@@ -786,7 +771,6 @@ professional
 profile
 projects
 promise
-promised
 promoted
 promotion
 prosecute
@@ -1060,7 +1044,6 @@ trevor
 trial
 tried
 trouble
-troubled
 true
 trust
 truth
@@ -1088,7 +1071,6 @@ very
 vice
 violation
 vote
-voted
 vulnerable
 wait
 waitress

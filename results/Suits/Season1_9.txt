@@ -30,7 +30,6 @@ anything
 apart
 apartment
 apologize
-apologized
 apple
 applied
 approach
@@ -281,16 +280,13 @@ felt
 fifth-year
 fight
 figure
-figured
 file
-filed
 film
 finance
 find
 fine
 finish
 fire
-fired
 firm
 first
 first-year
@@ -308,7 +304,6 @@ fought
 found
 four
 frame
-framed
 freaking
 free
 fresh
@@ -516,7 +511,6 @@ morning
 most
 mouth
 move
-moved
 much
 must
 myself
@@ -618,7 +612,6 @@ quitting
 rachel
 radar
 raise
-raised
 rash
 rattle
 ready
@@ -657,7 +650,6 @@ same
 satisfied
 sauvignon
 save
-saved
 saying
 says
 scared
@@ -749,7 +741,6 @@ suit
 supposed
 sure
 surprise
-surprised
 suspended
 sweet
 take

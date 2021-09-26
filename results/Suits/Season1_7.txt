@@ -14,7 +14,6 @@ afternoon
 again
 against
 agree
-agreed
 agreement
 aires
 alert
@@ -151,7 +150,6 @@ control
 convenient
 conversation
 convince
-convinced
 cool
 copying
 correct
@@ -168,7 +166,6 @@ courtroom
 cowboy
 coworkers
 create
-created
 crop
 cross
 crown
@@ -180,7 +177,6 @@ deal
 debeque
 debutante
 decide
-decided
 deep
 defamation
 defendant
@@ -263,7 +259,6 @@ female
 fifth
 fight
 figure
-figured
 filed
 final
 finally
@@ -328,7 +323,6 @@ hardman
 harvard
 harvey
 hate
-hated
 have
 head
 hear
@@ -576,7 +570,6 @@ prague
 preliminary
 prep
 prepare
-prepared
 prerequisite
 present
 pressure
@@ -619,7 +612,6 @@ ready
 real
 realist
 realize
-realized
 really
 reason
 reasonable
@@ -742,7 +734,6 @@ superior
 supreme
 sure
 surprise
-surprised
 sustained
 swords
 sydney

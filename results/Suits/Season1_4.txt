@@ -82,7 +82,6 @@ beginning
 behavior
 being
 believe
-believed
 belongs
 below
 best
@@ -493,7 +492,6 @@ life
 light
 lightning
 like
-liked
 line
 lisa
 literally
@@ -509,7 +507,6 @@ loser
 lost
 louis
 love
-loved
 lower
 lunch
 lying
@@ -550,7 +547,6 @@ most
 mother
 motive
 move
-moved
 much
 multiply
 murdoch
@@ -631,7 +627,6 @@ pitchers
 pizza
 place
 placebos
-placed
 plaintiffs
 play
 please
@@ -653,7 +648,6 @@ prizes
 problem
 profit
 promise
-promised
 promptly
 proof
 properties
@@ -749,7 +743,6 @@ settlement
 seven
 shakedown
 share
-shared
 shelled
 shelves
 shift

@@ -12,7 +12,6 @@ after
 again
 against
 agree
-agreed
 agreement
 ahead
 airtight
@@ -363,7 +362,6 @@ higher
 highly
 hint
 hire
-hired
 hoboken
 holds
 home
@@ -512,7 +510,6 @@ murder
 must
 myself
 name
-named
 near
 need
 negligence
@@ -580,7 +577,6 @@ photo
 pissed
 pizza
 place
-placed
 planted
 plastic
 plate
@@ -623,7 +619,6 @@ reaction
 read
 real
 realize
-realized
 really
 reasonable
 recognize
@@ -667,16 +662,13 @@ same
 santana
 sarah
 save
-saved
 say-so
 saying
 scam
 scapegoats
 scare
-scared
 scenery
 schedule
-scheduled
 school
 scold
 scratch
@@ -762,7 +754,6 @@ summarized
 supposed
 sure
 surprise
-surprised
 sustained
 sway
 sweet

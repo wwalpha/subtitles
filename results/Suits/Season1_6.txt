@@ -72,7 +72,6 @@ behalf
 behavior
 behind
 believe
-believed
 bell
 benefiting
 best
@@ -256,12 +255,10 @@ felon
 felt
 fight
 figure
-figured
 finally
 find
 fine
 fire
-fired
 firm
 first
 first-year
@@ -492,7 +489,6 @@ mypien
 myself
 nachos
 name
-named
 need
 negotiated
 neighborhood
@@ -590,7 +586,6 @@ prove
 provide
 pull
 purchase
-purchased
 purse
 pursue
 push
@@ -657,7 +652,6 @@ scared
 scene
 school
 score
-scored
 scott
 scraps
 search
@@ -667,7 +661,6 @@ security
 seen
 sending
 serve
-served
 seven
 several
 shakespeare

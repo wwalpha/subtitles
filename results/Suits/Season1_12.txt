@@ -94,14 +94,12 @@ cameron
 camisole
 captain
 care
-cared
 case
 catch
 caught
 chain
 chance
 change
-changed
 charges
 cheetos
 chemical
@@ -123,7 +121,6 @@ come
 commit
 compelling
 compromise
-compromised
 concerned
 confer
 confessed
@@ -369,7 +366,6 @@ letter
 leverage
 life
 like
-liked
 line
 litt
 little
@@ -517,7 +513,6 @@ read
 ready
 real
 realize
-realized
 really
 reason
 record

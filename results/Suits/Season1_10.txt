@@ -291,7 +291,6 @@ find
 fine
 finish
 fire
-fired
 firm
 first
 five
@@ -357,7 +356,6 @@ hide
 high
 hilarious
 hire
-hired
 history
 hold
 home
@@ -389,7 +387,6 @@ introduce
 invested
 investigate
 invite
-invited
 involves
 irresistible
 irrevocable
@@ -664,7 +661,6 @@ severance
 shakes
 shall
 share
-shared
 shelf
 shell
 shocked

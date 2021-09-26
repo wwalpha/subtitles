@@ -115,14 +115,12 @@ canvas
 capable
 capitalists
 care
-cared
 careful
 case
 catch
 caught
 chance
 change
-changed
 chase
 chat
 cheated
@@ -242,12 +240,10 @@ field
 fighting
 figure
 file
-filed
 filled
 final
 find
 fine
-fined
 finish
 fire
 first
@@ -324,7 +320,6 @@ hiding
 high
 highly
 hire
-hired
 hockey
 hoffa
 hold
@@ -458,7 +453,6 @@ nature
 necessary
 need
 negotiate
-negotiated
 nerd
 nervous
 never
@@ -510,7 +504,6 @@ phone
 pick
 piece
 place
-placed
 plans
 play
 please
@@ -539,7 +532,6 @@ proclivities
 product
 project
 promise
-promised
 proof
 prototype
 proves
@@ -608,7 +600,6 @@ send
 sent
 seriously
 serve
-served
 sets
 settle
 settlement
@@ -635,7 +626,6 @@ slept
 smart
 smell
 smoke
-smoked
 snapping
 solid
 solutions

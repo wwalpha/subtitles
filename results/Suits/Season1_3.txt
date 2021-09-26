@@ -100,7 +100,6 @@ came
 cancel
 candidate
 care
-cared
 cars
 case
 cash
@@ -137,7 +136,6 @@ considered
 convenes
 conversation
 convince
-convinced
 coordinate
 corporate
 corporations
@@ -247,7 +245,6 @@ find
 fine
 finish
 fire
-fired
 firm
 first
 fiscal
@@ -398,7 +395,6 @@ liberty
 lied
 life
 like
-liked
 limited
 line
 lipton
@@ -459,7 +455,6 @@ much
 myself
 naive
 name
-named
 natural
 neck
 need
@@ -534,7 +529,6 @@ prefer
 premise
 prep
 prepare
-prepared
 presented
 pressure
 pretending
@@ -552,7 +546,6 @@ progress
 prom
 promise
 promote
-promoted
 proper
 protect
 protocol
@@ -573,7 +566,6 @@ read
 ready
 real
 realize
-realized
 really
 reason
 recall
@@ -762,7 +754,6 @@ very
 view
 violation
 vote
-voted
 wachtell
 wait
 want
