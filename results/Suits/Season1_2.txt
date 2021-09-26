@@ -111,7 +111,6 @@ busy
 button
 calculations
 call
-called
 calling
 calm
 came
@@ -206,7 +205,6 @@ dumb
 dumped
 earlier
 earn
-earned
 easy
 engagement
 enjoyed
@@ -234,7 +232,6 @@ eyes
 face
 fact
 fail
-failed
 failing
 fair
 fake
@@ -261,14 +258,12 @@ finding
 fine
 fined
 finish
-finished
 fire
 first
 fits
 five
 flushed
 follow
-followed
 footballers
 force
 forever
@@ -320,7 +315,6 @@ handling
 hang
 hanging
 happen
-happened
 happy
 hard
 harder
@@ -337,7 +331,6 @@ held
 hell
 hello
 help
-helped
 herd
 here
 hiding
@@ -406,7 +399,6 @@ knock-offs
 know
 ladies
 land
-landed
 last
 late
 later
@@ -436,7 +428,6 @@ little
 long
 longer
 look
-looked
 losing
 louis
 loyalty
@@ -450,7 +441,6 @@ many
 marriage
 married
 matter
-mattered
 maybe
 mean
 meant
@@ -460,7 +450,6 @@ meeting
 memorandum
 memory
 mention
-mentioned
 mentor
 might
 mike
@@ -521,7 +510,6 @@ outside
 outta
 over
 overturn
-overturned
 pages
 pain
 palmer
@@ -531,7 +519,6 @@ papery
 paranoid
 park
 pass
-passed
 passing
 patent
 pawn
@@ -547,12 +534,10 @@ place
 placed
 plans
 play
-played
 playing
 please
 pocket
 point
-pointed
 policy
 ponies
 pony
@@ -563,9 +548,7 @@ pothead
 premiere
 prepared
 present
-presented
 press
-pressed
 pretty
 prevent
 price
@@ -580,12 +563,10 @@ project
 promise
 promised
 proof
-proofed
 proofing
 prototype
 proves
 pull
-pulled
 punch
 purview
 puts
@@ -642,7 +623,6 @@ saying
 says
 school
 screw
-screwed
 screwing
 second
 secret
@@ -666,7 +646,6 @@ shot
 should
 shove
 show
-showed
 showers
 showing
 shown
@@ -674,7 +653,6 @@ shut
 sick
 side
 sign
-signed
 signing
 similar
 since
@@ -709,7 +687,6 @@ stack
 stalled
 stand
 start
-started
 starting
 starving
 sterling
@@ -738,7 +715,6 @@ table
 take
 taking
 talk
-talked
 talking
 team
 technology
@@ -805,7 +781,6 @@ wait
 walk
 wanna
 want
-wanted
 warm
 waste
 watch

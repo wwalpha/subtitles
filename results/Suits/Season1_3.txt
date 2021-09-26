@@ -97,7 +97,6 @@ buy-in
 buyer
 bylaw
 call
-called
 came
 cancel
 candidate
@@ -170,7 +169,6 @@ delay
 deniability
 deserves
 design
-designed
 destination
 devil
 died
@@ -255,7 +253,6 @@ find
 finding
 fine
 finish
-finished
 fire
 fired
 firing
@@ -267,7 +264,6 @@ flagship
 flow
 fold
 follow
-followed
 food
 foodie
 fool
@@ -324,7 +320,6 @@ hallmark
 hand
 handling
 happen
-happened
 happy
 hardman
 harvard
@@ -434,7 +429,6 @@ long
 long-standing
 longer
 look
-looked
 looking
 loose
 losing
@@ -471,7 +465,6 @@ mind
 mine
 minute
 miss
-missed
 mistake
 misunderstand
 misunderstanding
@@ -628,7 +621,6 @@ rookie
 room
 ross
 ruin
-ruined
 runs
 russia
 said
@@ -641,7 +633,6 @@ says
 scared
 school
 screw
-screwed
 search
 season
 second
@@ -664,13 +655,11 @@ shit
 shopping
 should
 show
-showed
 shrimp
 shut
 shutting
 sights
 sign
-signed
 simple
 since
 sleep
@@ -696,13 +685,11 @@ sport
 spot
 square
 stack
-stacked
 stake
 stall
 stand
 standard
 start
-started
 starting
 states
 statutes
@@ -720,7 +707,6 @@ stuff
 suck
 suddenly
 suggest
-suggested
 suited
 suits
 summary
@@ -735,7 +721,6 @@ take
 taketh
 taking
 talk
-talked
 talking
 taste
 teach
@@ -842,7 +827,6 @@ without
 wondering
 word
 work
-worked
 workers
 working
 workplace

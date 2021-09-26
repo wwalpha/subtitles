@@ -118,7 +118,6 @@ bush
 business
 caddy
 call
-called
 calling
 came
 camel
@@ -144,7 +143,6 @@ changed
 charitable
 charity
 check
-checked
 checking
 child
 children
@@ -259,7 +257,6 @@ distract
 distraction
 distributed
 document
-documented
 doggie
 doing
 dollar
@@ -411,7 +408,6 @@ hair
 half
 halfway
 hand
-handed
 handle
 happened
 happens
@@ -478,7 +474,6 @@ inquisition
 insignificant
 instructions
 interest
-interested
 internal
 into
 invented
@@ -508,7 +503,6 @@ kidding
 kidney
 kids
 kill
-killed
 killing
 kind
 knew
@@ -552,7 +546,6 @@ locksley
 lola
 long
 look
-looked
 looking
 lose
 losses
@@ -609,7 +602,6 @@ nail
 name
 named
 need
-needed
 negotiated
 neither
 never
@@ -632,7 +624,6 @@ okay
 once
 only
 open
-opened
 operation
 ordering
 organization
@@ -656,7 +647,6 @@ part
 partner
 party
 pass
-passed
 passing
 past
 payments
@@ -713,7 +703,6 @@ proud
 prove
 public
 pull
-pulled
 pulmonary
 punitive
 punk
@@ -749,7 +738,6 @@ reserves
 resignation
 respect
 respond
-responded
 responsibilities
 rest
 result
@@ -854,7 +842,6 @@ spoken
 stable
 stand
 start
-started
 starting
 states
 steal
@@ -978,14 +965,12 @@ victory
 vigorous
 visual
 wait
-waited
 waived
 walked
 walking
 wanna
 wanna-be
 want
-wanted
 wanting
 warn
 watch
@@ -1021,7 +1006,6 @@ witness
 woman
 word
 work
-worked
 workers
 working
 worried

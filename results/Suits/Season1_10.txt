@@ -4,7 +4,6 @@ about
 absolutely
 accept
 acceptable
-accepted
 access
 accomplish
 account
@@ -114,7 +113,6 @@ business
 busy
 buys
 call
-called
 calling
 came
 camera
@@ -136,7 +134,6 @@ charisse
 charity
 charter
 cheat
-cheated
 check
 checking
 chemical
@@ -244,7 +241,6 @@ effort
 either
 else
 email
-emailed
 emanating
 emergency
 empathizing
@@ -352,7 +348,6 @@ habit
 half
 hand
 happen
-happened
 happy
 hard
 hardman
@@ -464,7 +459,6 @@ likeness
 lining
 links
 list
-listed
 listen
 litigation
 litt
@@ -477,7 +471,6 @@ long
 long-term
 longer
 look
-looked
 looking
 lose
 lost
@@ -531,7 +524,6 @@ mysteriously
 name
 nature
 need
-needed
 negative
 network
 networking
@@ -555,7 +547,6 @@ only
 open
 orchestrating
 order
-ordered
 original
 other
 ours
@@ -614,7 +605,6 @@ public
 publicity
 queens
 question
-questioned
 quickly
 quiet
 quite
@@ -706,7 +696,6 @@ should
 show
 shut
 sign
-signed
 signing
 sleep
 sleeping
@@ -741,7 +730,6 @@ staff
 stan
 stand
 start
-started
 staying
 stealing
 stellar
@@ -757,7 +745,6 @@ stuck
 stuff
 subject
 subpoena
-subpoenaed
 subsidiary
 such
 sucks
@@ -853,10 +840,8 @@ wait
 waiting
 waiver
 walk
-walked
 wall
 want
-wanted
 watch
 watching
 water
@@ -885,7 +870,6 @@ woman
 women
 word
 work
-worked
 working
 workplace
 world

@@ -19,7 +19,6 @@ agreement
 aires
 alert
 allow
-allowed
 allowing
 alma
 almost
@@ -61,7 +60,6 @@ away
 awesome
 baby
 back
-backed
 ball
 bankrupt
 bass
@@ -106,7 +104,6 @@ business
 businesses
 buying
 call
-called
 calling
 came
 candyland
@@ -178,7 +175,6 @@ create
 created
 crop
 cross
-crossed
 crown
 damage
 damaging
@@ -205,7 +201,6 @@ different
 diligence
 director
 disappear
-disappeared
 disappointment
 discussed
 disguising
@@ -251,7 +246,6 @@ excuse
 exercise
 exist
 expect
-expected
 expedited
 explain
 face
@@ -406,7 +400,6 @@ keep
 kent
 kicked
 kill
-killed
 kind
 kirk
 kissed
@@ -490,7 +483,6 @@ mining
 minus
 minute
 miss
-missed
 mission
 mistake
 misunderstood
@@ -518,7 +510,6 @@ name
 national
 necessary
 need
-needed
 negatively
 negotiation
 nervous
@@ -606,7 +597,6 @@ prepare
 prepared
 prerequisite
 present
-presented
 pressure
 pretended
 pretty
@@ -654,7 +644,6 @@ reason
 reasonable
 recant
 record
-recorded
 recovery
 reel
 remember
@@ -786,7 +775,6 @@ taken
 takeover
 talent
 talk
-talked
 talking
 target
 taught
@@ -837,7 +825,6 @@ trek
 trekkie
 trial
 trick
-tricked
 tried
 trouble
 true
@@ -874,7 +861,6 @@ walk
 walking
 wanna
 want
-wanted
 waste
 watch
 water

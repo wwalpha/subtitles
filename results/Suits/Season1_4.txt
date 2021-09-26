@@ -104,7 +104,6 @@ body
 bold
 bono
 book
-booked
 bore
 born
 both
@@ -127,7 +126,6 @@ business
 buying
 calculations
 call
-called
 came
 canadian
 care
@@ -389,7 +387,6 @@ hamstrung
 handling
 hands
 happen
-happened
 happy
 harassment
 hard
@@ -516,7 +513,6 @@ locked
 long
 longer
 look
-looked
 looking
 lose
 loser
@@ -579,7 +575,6 @@ name
 near
 nearly
 need
-needed
 negotiation
 neighborhood
 never
@@ -823,7 +818,6 @@ square
 stake
 stand
 start
-started
 states
 stay
 staying
@@ -957,12 +951,10 @@ violations
 vivien
 vouched
 wait
-waited
 walked
 walking
 wanna
 want
-wanted
 warn
 warranty
 watch
@@ -999,7 +991,6 @@ without
 wonder
 word
 work
-worked
 working
 worry
 worth

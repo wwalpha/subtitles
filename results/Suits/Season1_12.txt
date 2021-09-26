@@ -12,7 +12,6 @@ advises
 after
 again
 allow
-allowed
 alone
 already
 always
@@ -90,7 +89,6 @@ burning
 bury
 business
 call
-called
 calvin
 came
 cameron
@@ -193,7 +191,6 @@ downtown
 dozen
 drag
 dress
-dressed
 drilling
 drink
 drop
@@ -297,7 +294,6 @@ halfway
 hand
 handle
 happen
-happened
 happy
 hardest
 harvey
@@ -357,7 +353,6 @@ keep
 kept
 kidding
 kill
-killed
 killing
 kiss
 kitchen
@@ -437,7 +432,6 @@ mouth
 movie
 much
 murder
-murdered
 murderer
 must
 myself
@@ -488,7 +482,6 @@ person
 phone
 phony
 pick
-picked
 piece
 pierson
 piss
@@ -498,7 +491,6 @@ plea
 please
 plenty
 point
-pointed
 police
 poll
 poor
@@ -550,7 +542,6 @@ relationship
 release
 remember
 reopen
-reopened
 reopening
 report
 represent
@@ -628,7 +619,6 @@ squash
 stake
 stand
 start
-started
 starting
 state
 stay
@@ -640,7 +630,6 @@ stump
 submitted
 such
 suffer
-suffered
 sufficient
 suicide
 suit
@@ -656,7 +645,6 @@ take
 taken
 taking
 talk
-talked
 talking
 tampering
 taught
@@ -670,7 +658,6 @@ testify
 testifying
 testimony
 text
-texted
 texting
 than
 that
@@ -731,7 +718,6 @@ volunteered
 wait
 wanna
 want
-wanted
 warrant
 wasting
 watch

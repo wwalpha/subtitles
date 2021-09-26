@@ -117,7 +117,6 @@ business
 busy
 cahill
 call
-called
 came
 cancer
 card
@@ -134,7 +133,6 @@ change
 changing
 charged
 cheat
-cheated
 cheating
 checked
 checks
@@ -146,7 +144,6 @@ christmas
 civil
 clean
 clear
-cleared
 client
 climb
 close
@@ -178,7 +175,6 @@ course
 court
 courtesy
 cover
-covered
 crappy
 crime
 crook
@@ -216,7 +212,6 @@ doing
 done
 donna
 doubt
-doubted
 down
 drag
 dragon
@@ -338,7 +333,6 @@ guys
 half
 hand
 handcuffs
-handed
 hang
 happen
 happy
@@ -399,7 +393,6 @@ instance
 instinct
 integrated
 interest
-interested
 intern
 internship
 interview
@@ -427,7 +420,6 @@ kept
 keycard
 kick
 kill
-killed
 kimball
 kind
 king
@@ -461,13 +453,11 @@ limb
 limited
 list
 listen
-listened
 little
 live
 living
 long
 look
-looked
 looking
 loose
 lose
@@ -577,7 +567,6 @@ person
 pharmaceuticals
 phone
 pick
-picked
 pictured
 piper
 pissed
@@ -647,7 +636,6 @@ reason
 reassess
 reassured
 recommend
-recommended
 record
 references
 reger
@@ -721,7 +709,6 @@ showing
 shredded
 shut
 sign
-signed
 since
 single
 sink
@@ -746,7 +733,6 @@ sometimes
 soon
 sorry
 sort
-sorted
 spare
 speak
 specter
@@ -789,7 +775,6 @@ tainted
 take
 taking
 talk
-talked
 talking
 teach
 teacher
@@ -862,7 +847,6 @@ wait
 walk
 wall
 want
-wanted
 water
 week
 weekend
@@ -891,7 +875,6 @@ without
 woman
 wondering
 work
-worked
 working
 world
 world-class

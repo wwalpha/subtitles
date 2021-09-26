@@ -59,7 +59,6 @@ arise
 around
 arranged
 arrest
-arrested
 arrow
 asked
 asking
@@ -127,7 +126,6 @@ bombed
 bono
 bonus
 book
-booked
 both
 bother
 bottle
@@ -174,7 +172,6 @@ changed
 charge
 charging
 charm
-charmed
 cheated
 check
 checking
@@ -297,9 +294,7 @@ discovery
 discreet
 dismiss
 dismissal
-dismissed
 ditch
-ditched
 dockery
 doctor
 does
@@ -313,7 +308,6 @@ dozens
 drag
 dream
 dress
-dressed
 drill
 drop
 drug
@@ -354,7 +348,6 @@ exclusive
 excuse
 existsi
 expect
-expected
 expense
 explain
 extra
@@ -364,7 +357,6 @@ facility
 fact
 factors
 fail
-failed
 fair
 faith
 fake
@@ -387,7 +379,6 @@ file
 filed
 filing
 fill
-filled
 finally
 find
 finding
@@ -479,11 +470,9 @@ handled
 hang
 hanging
 happen
-happened
 happening
 happy
 harass
-harassed
 harassment
 hard
 hardman
@@ -551,7 +540,6 @@ interested
 interests
 interim
 interview
-interviewed
 intimidate
 into
 investigate
@@ -583,14 +571,12 @@ keep
 keeping
 kendrick
 kick
-kicked
 kids
 kill
 kilmer
 kind
 knew
 knock
-knocked
 know
 knowledge
 lack
@@ -605,7 +591,6 @@ lawyer
 lead
 league
 learn
-learned
 least
 leave
 left
@@ -631,7 +616,6 @@ live
 living
 location
 lock
-locked
 long
 look
 looking
@@ -711,7 +695,6 @@ nancy
 nature
 naughty
 need
-needed
 negotiated
 never
 next
@@ -749,7 +732,6 @@ operate
 opportunity
 option
 order
-ordered
 orientation
 other
 ourselves
@@ -767,7 +749,6 @@ park
 partner
 party
 pass
-passed
 past
 path
 patronizing
@@ -791,7 +772,6 @@ petramco
 phone
 phrasing
 pick
-picked
 pictures
 piece
 pills
@@ -888,7 +868,6 @@ research
 researcher
 resources
 respond
-responded
 results
 return
 rick
@@ -926,7 +905,6 @@ score
 scratching
 screw
 screw-up
-screwed
 screwing
 sealed
 seat
@@ -963,13 +941,11 @@ shoot
 shot
 should
 show
-showed
 showoff
 shrager
 shred
 side
 sign
-signed
 signing
 since
 sister
@@ -1011,7 +987,6 @@ spent
 sportscenter
 stand
 start
-started
 state
 stating
 statute
@@ -1065,7 +1040,6 @@ taken
 takeover
 taking
 talk
-talked
 talking
 tampering
 tate
@@ -1078,7 +1052,6 @@ tennis
 tenure
 terrific
 test
-tested
 testify
 testifying
 testimony
@@ -1173,7 +1146,6 @@ waitstaff
 walk
 walking
 want
-wanted
 warning
 waste
 water
@@ -1221,7 +1193,6 @@ wonder
 wondering
 word
 work
-worked
 working
 workout
 world

@@ -31,7 +31,6 @@ anchor
 angels
 another
 answer
-answered
 anymore
 anyone
 anything
@@ -115,12 +114,10 @@ bump
 burger
 business
 bust
-busted
 butler
 buying
 cabbie
 call
-called
 calling
 came
 capital
@@ -351,7 +348,6 @@ handle
 hang
 hanging
 happen
-happened
 happening
 happy
 harassment
@@ -465,7 +461,6 @@ loan
 long
 long-time
 look
-looked
 looking
 loose
 lose
@@ -500,12 +495,10 @@ meant
 medallion
 meeting
 mention
-mentioned
 mentoring
 merits
 mess
 messages
-messed
 metaphor
 michael
 microwave
@@ -538,7 +531,6 @@ name
 named
 near
 need
-needed
 negligence
 never
 next
@@ -575,7 +567,6 @@ other
 ought
 over
 overturn
-overturned
 owed
 owes
 owner-operator
@@ -707,7 +698,6 @@ scheduled
 school
 scold
 scratch
-scratched
 screen
 screw
 scrimped
@@ -772,7 +762,6 @@ stacy
 stake
 stand
 start
-started
 statement
 status
 stay
@@ -806,7 +795,6 @@ take
 taken
 taking
 talk
-talked
 talking
 taller
 taser
@@ -865,7 +853,6 @@ trick
 tried
 trouble
 trust
-trusted
 trying
 type
 understand
@@ -887,12 +874,10 @@ wall
 wallet
 wanna
 want
-wanted
 warn
 warrant
 wasted
 watch
-watched
 wealthy
 weed
 week
@@ -915,7 +900,6 @@ without
 witness
 wonderful
 work
-worked
 working
 workload
 world
