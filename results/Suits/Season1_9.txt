@@ -1,6 +1,5 @@
 about
 accept
-accepting
 access
 accusing
 action
@@ -90,7 +89,6 @@ bounds
 brain
 breach
 break
-breaking
 briefs
 brilliant
 broadcast
@@ -108,7 +106,6 @@ button
 cabernet
 cady
 call
-calling
 came
 cancel
 cancer
@@ -284,7 +281,6 @@ feet
 felt
 fifth-year
 fight
-fighting
 figure
 figured
 figuring
@@ -368,7 +364,6 @@ hand
 handle
 handling
 happen
-happening
 happy
 harbor
 hardman
@@ -388,7 +383,6 @@ heavy
 height
 hell
 help
-helping
 here
 herself
 hide
@@ -462,7 +456,6 @@ lawsuit
 lawyer
 lead
 leak
-leaking
 learned
 least
 lebron
@@ -484,7 +477,6 @@ lived
 loan
 long
 look
-looking
 lord
 lose
 louis
@@ -505,7 +497,6 @@ mavericks
 maybe
 mean
 meet
-meeting
 memory
 mention
 message
@@ -556,7 +547,6 @@ oaky
 obvious
 occurred
 offer
-offering
 office
 officially
 okay
@@ -606,7 +596,6 @@ plaintiff
 plans
 planted
 play
-playing
 please
 point
 porn
@@ -689,7 +678,6 @@ security
 seeing
 seem
 send
-sending
 senior
 sense
 sent
@@ -745,14 +733,11 @@ spread
 stack
 stairs
 stand
-standing
 staring
 start
 starters
-starting
 state
 stay
-staying
 step
 still
 stomach
@@ -778,7 +763,6 @@ sweet
 take
 taken
 talk
-talking
 tanner
 tapped
 tattoo
@@ -804,7 +788,6 @@ these
 they
 thing
 think
-thinking
 this
 those
 thought
@@ -825,7 +808,6 @@ tomorrow
 tonight
 took
 touch
-touching
 tower
 town
 tracks
@@ -839,7 +821,6 @@ tried
 true
 trying
 turn
-turning
 type
 ugly
 under
@@ -872,7 +853,6 @@ wasit
 watch
 weak
 wear
-wearing
 weather
 week
 weird
@@ -894,7 +874,6 @@ wife
 wikipedia
 will
 williams
-willing
 wine
 wiretap
 wish
@@ -903,7 +882,6 @@ without
 witness
 words
 work
-working
 world
 worry
 would

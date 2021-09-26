@@ -110,7 +110,6 @@ both
 bought
 breached
 break
-breaking
 breathing
 breyer
 bring
@@ -295,11 +294,9 @@ extortion
 extra
 fact
 fail
-failing
 fair
 falsified
 falsify
-falsifying
 faster
 father
 fault
@@ -399,7 +396,6 @@ hawthorne
 head
 hear
 heard
-hearing
 heart
 heat
 heels
@@ -417,7 +413,6 @@ hilarious
 himself
 hire
 hold
-holding
 honey
 honor
 hoop
@@ -466,7 +461,6 @@ justices
 kagan
 karinski
 keep
-keeping
 keller
 kidding
 killing
@@ -475,7 +469,6 @@ kind
 kissing
 knew
 know
-knowing
 known
 knox
 last
@@ -513,7 +506,6 @@ locked
 long
 longer
 look
-looking
 lose
 loser
 losing
@@ -539,7 +531,6 @@ mater
 matter
 maybe
 mean
-meaning
 medical
 meeting
 mention
@@ -592,7 +583,6 @@ number
 obligation
 obviously
 offer
-offering
 office
 okay
 oldest
@@ -659,7 +649,6 @@ presence
 presents
 presidents
 pretend
-pretending
 pretty
 prevent
 printed
@@ -687,7 +676,6 @@ quality
 quarter
 quentin
 question
-questioning
 rachel
 rattled
 ready
@@ -778,7 +766,6 @@ short
 should
 shoulders
 show
-showing
 shut
 sick
 side
@@ -792,7 +779,6 @@ sinking
 sisters
 situation
 sleep
-sleeping
 slept
 small
 smell
@@ -820,7 +806,6 @@ stand
 start
 states
 stay
-staying
 steady
 steal
 step
@@ -836,7 +821,6 @@ strengths
 stressed
 struggling
 study
-studying
 stupid
 sub-chapter
 such
@@ -856,20 +840,17 @@ take
 taken
 taking
 talk
-talking
 taller
 tanaka
 team
 tearing
 technically
 tell
-telling
 tenants
 tenuous
 terminal
 terrific
 testify
-testifying
 testimony
 texture
 than
@@ -884,7 +865,6 @@ these
 they
 thing
 think
-thinking
 third
 this
 those
@@ -895,7 +875,6 @@ three-piece
 threw
 through
 throw
-throwing
 thunder
 thursday
 time
@@ -958,7 +937,6 @@ want
 warn
 warranty
 watch
-watching
 water
 weaknesses
 wear
@@ -981,7 +959,6 @@ wide
 widespread
 wife
 will
-willing
 winner
 winning
 wish
@@ -991,7 +968,6 @@ without
 wonder
 word
 work
-working
 worry
 worth
 would

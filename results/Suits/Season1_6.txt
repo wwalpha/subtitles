@@ -82,13 +82,11 @@ bigger
 biggest
 bill
 billables
-billing
 bitch
 blood
 blow
 body
 bomb
-bombing
 bonus
 boring
 borrow
@@ -133,7 +131,6 @@ change
 changing
 charged
 cheat
-cheating
 checked
 checks
 chewing
@@ -186,7 +183,6 @@ damn
 dare
 days
 deal
-dealing
 dean
 decided
 decision
@@ -256,7 +252,6 @@ features
 february
 federal
 feel
-feeling
 feet
 fell
 fellow
@@ -346,12 +341,10 @@ head
 headline
 hear
 heard
-hearing
 hedge
 hell
 help
 helpful
-helping
 henderson
 here
 hers
@@ -426,7 +419,6 @@ king
 knew
 knock
 know
-knowing
 knowledge
 known
 ladies
@@ -458,7 +450,6 @@ live
 living
 long
 look
-looking
 loose
 lose
 losing
@@ -495,7 +486,6 @@ mind
 mine
 minute
 miss
-missing
 mistake
 money
 month
@@ -574,7 +564,6 @@ place
 plan
 planning
 play
-playing
 please
 pleasure
 point
@@ -614,7 +603,6 @@ purchased
 purse
 pursue
 push
-pushing
 pussies
 pussy
 puts
@@ -705,7 +693,6 @@ should
 shoulder
 show
 showdown
-showing
 shredded
 shut
 sign
@@ -716,7 +703,6 @@ sister
 sitting
 situation
 sleep
-sleeping
 slept
 slight
 slightest
@@ -741,7 +727,6 @@ stallone
 stand
 stars
 start
-starting
 steakhouse
 stickler
 still
@@ -775,18 +760,14 @@ tainted
 take
 taking
 talk
-talking
 teach
 teacher
-teaching
 technical
 technically
 tell
-telling
 test
 than
 thank
-thanking
 that
 their
 them
@@ -797,7 +778,6 @@ these
 they
 thing
 think
-thinking
 this
 those
 thought
@@ -875,7 +855,6 @@ without
 woman
 wondering
 work
-working
 world
 world-class
 worry

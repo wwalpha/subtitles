@@ -68,7 +68,6 @@ away
 awesome
 baby
 back
-backing
 band
 bank
 based
@@ -118,7 +117,6 @@ bush
 business
 caddy
 call
-calling
 came
 camel
 camp
@@ -143,7 +141,6 @@ changed
 charitable
 charity
 check
-checking
 child
 children
 china
@@ -198,7 +195,6 @@ corporate
 cost
 could
 counsel
-counseling
 counselor
 count
 couple
@@ -423,13 +419,11 @@ having
 head
 hear
 heard
-hearing
 hearsay
 heat
 hell
 hello
 help
-helping
 here
 hers
 herself
@@ -439,7 +433,6 @@ himself
 hire
 history
 hold
-holding
 home
 hood
 hope
@@ -498,16 +491,13 @@ jury
 just
 kansas
 keep
-keeping
 kidding
 kidney
 kids
 kill
-killing
 kind
 knew
 know
-knowing
 knowledge
 known
 labor
@@ -546,7 +536,6 @@ locksley
 lola
 long
 look
-looking
 lose
 losses
 lost
@@ -577,7 +566,6 @@ maybemaybe
 mazlo
 mean
 meet
-meeting
 memory
 mentioning
 might
@@ -647,7 +635,6 @@ part
 partner
 party
 pass
-passing
 past
 payments
 payout
@@ -812,11 +799,9 @@ single
 sits
 skiing
 slack
-slacking
 slap
 sleep
 sleepaway
-sleeping
 slipped
 smells
 so-called
@@ -842,14 +827,11 @@ spoken
 stable
 stand
 start
-starting
 states
 steal
-stealing
 step
 steroids
 stick
-sticking
 still
 stole
 stolen
@@ -883,12 +865,10 @@ take
 taken
 taking
 talk
-talking
 tattoo
 team
 technically
 tell
-telling
 tenacity
 tequila
 terms
@@ -897,7 +877,6 @@ testify
 texts
 than
 thank
-thanking
 that
 their
 them
@@ -910,7 +889,6 @@ thief
 thin
 thing
 think
-thinking
 this
 those
 thought
@@ -947,7 +925,6 @@ trying
 tuesday
 tulsa
 turn
-turning
 under
 undermined
 understand
@@ -971,7 +948,6 @@ walking
 wanna
 wanna-be
 want
-wanting
 warn
 watch
 water
@@ -996,7 +972,6 @@ whose
 widow
 wife
 will
-willing
 wire
 wish
 wisnewski
@@ -1007,7 +982,6 @@ woman
 word
 work
 workers
-working
 worried
 worth
 would

@@ -87,7 +87,6 @@ boyfriend
 brain
 breaking
 bring
-bringing
 broad
 broke
 broken
@@ -394,11 +393,9 @@ keep
 kelsey
 kept
 kick
-kicking
 kill
 kind
 kiss
-kissing
 knack
 knew
 know
@@ -431,7 +428,6 @@ little
 locked
 long
 look
-looking
 lose
 loss
 lost
@@ -456,7 +452,6 @@ meaningless
 meant
 mediate
 meet
-meeting
 mention
 mentor
 mess
@@ -473,7 +468,6 @@ miss
 mistake
 mixing
 mock
-mocking
 money
 month
 more
@@ -552,14 +546,12 @@ plank
 planned
 play
 playacting
-playing
 point
 poison
 pond
 possible
 pregnant
 pretend
-pretending
 price
 pricks
 printed
@@ -570,7 +562,6 @@ proposal
 propose
 prosecutor
 protect
-protecting
 proud
 prove
 public
@@ -637,7 +628,6 @@ seem
 seen
 sell
 sellars
-selling
 sending
 serious
 servant
@@ -720,17 +710,14 @@ tactics
 taints
 take
 talk
-talking
 tampering
 taught
 teach
 teacher
 team
 tell
-telling
 tennille
 testify
-testifying
 tests
 than
 thank
@@ -777,7 +764,6 @@ trouble
 truth
 trying
 turn
-turning
 twice
 twins
 unbiased
@@ -796,7 +782,6 @@ violation
 volunteering
 wager
 wait
-waiting
 walk
 wall
 wanna
@@ -804,7 +789,6 @@ want
 warn
 wasting
 watch
-watching
 wavy
 wearing
 week
@@ -822,7 +806,6 @@ whisperer
 whoever
 whole
 will
-willing
 winning
 wins
 wiped
@@ -832,7 +815,6 @@ without
 women
 word
 work
-working
 world
 worry
 worse

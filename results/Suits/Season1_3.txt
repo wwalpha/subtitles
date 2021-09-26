@@ -53,7 +53,6 @@ ball
 barone
 batting
 beat
-beating
 beauty
 because
 been
@@ -159,7 +158,6 @@ damn
 days
 dead
 deal
-dealing
 decade
 deceptive
 decide
@@ -188,7 +186,6 @@ double
 down
 dozen
 draft
-drafting
 drats
 drive
 drivers
@@ -241,7 +238,6 @@ fast
 fault
 favor
 feel
-feeling
 feet
 fell
 fellow
@@ -250,7 +246,6 @@ figure
 finally
 financials
 find
-finding
 fine
 finish
 fire
@@ -311,7 +306,6 @@ grandpa
 great
 ground
 grow
-growing
 grown
 guess
 gunslinger
@@ -343,7 +337,6 @@ highly
 himself
 hits
 hold
-holding
 honest
 honor
 host
@@ -429,7 +422,6 @@ long
 long-standing
 longer
 look
-looking
 loose
 losing
 loss
@@ -452,7 +444,6 @@ mckernon
 meal
 mean
 meet
-meeting
 member
 menu
 michael
@@ -467,7 +458,6 @@ minute
 miss
 mistake
 misunderstand
-misunderstanding
 money
 months
 more
@@ -504,7 +494,6 @@ only
 opposite
 option
 order
-ordering
 original
 other
 ourselves
@@ -577,7 +566,6 @@ promote
 promoted
 proper
 protect
-protecting
 protocol
 proud
 puberty
@@ -663,7 +651,6 @@ sign
 simple
 since
 sleep
-sleeping
 smart
 smell
 smoke
@@ -690,7 +677,6 @@ stall
 stand
 standard
 start
-starting
 states
 statutes
 stay
@@ -721,12 +707,10 @@ take
 taketh
 taking
 talk
-talking
 taste
 teach
 technically
 tell
-telling
 tend
 terms
 tesla
@@ -742,7 +726,6 @@ they
 thick
 thing
 think
-thinking
 this
 thorough
 those
@@ -751,7 +734,6 @@ three
 threw
 through
 throw
-throwing
 thursday
 tightwad
 till
@@ -768,7 +750,6 @@ torpedo
 tradition
 transactions
 transition
-transitioning
 trevor
 tried
 trip
@@ -797,7 +778,6 @@ voted
 voting
 wachtell
 wait
-waiting
 want
 watching
 website
@@ -817,7 +797,6 @@ while
 whole
 will
 williamsburg
-willing
 wines
 wins
 wish
@@ -828,7 +807,6 @@ wondering
 word
 work
 workers
-working
 workplace
 world
 worse

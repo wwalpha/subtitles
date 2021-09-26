@@ -42,7 +42,6 @@ anchor
 announce
 another
 answer
-answering
 anybody
 anymore
 anyone
@@ -174,7 +173,6 @@ charging
 charm
 cheated
 check
-checking
 cheese
 cheeseburger
 children
@@ -210,7 +208,6 @@ come
 comfortable
 coming
 command
-commanding
 common
 company
 complete
@@ -247,7 +244,6 @@ court
 courtesy
 cousin
 cover
-covering
 crap
 crazy
 credible
@@ -264,7 +260,6 @@ daughter-in-law
 dazzling
 deal
 dealer
-dealing
 dean
 death
 decide
@@ -336,7 +331,6 @@ escrow
 established
 ethics
 even
-evening
 ever
 every
 everything
@@ -372,7 +366,6 @@ feel
 feet
 fernandez
 fight
-fighting
 figure
 figured
 file
@@ -381,7 +374,6 @@ filing
 fill
 finally
 find
-finding
 fine
 fire
 fired
@@ -464,13 +456,10 @@ half
 hamptons
 hand
 handbook
-handing
 handle
 handled
 hang
-hanging
 happen
-happening
 happy
 harass
 harassment
@@ -484,11 +473,9 @@ hated
 have
 having
 head
-heading
 health
 hear
 heard
-hearing
 hearts
 hell
 help
@@ -568,7 +555,6 @@ justi
 justices
 justify
 keep
-keeping
 kendrick
 kick
 kids
@@ -618,7 +604,6 @@ location
 lock
 long
 look
-looking
 lose
 loser
 lost
@@ -650,7 +635,6 @@ mean
 meant
 medium
 meet
-meeting
 meltdown
 melted
 memo
@@ -667,7 +651,6 @@ mind
 mine
 minute
 miss
-missing
 mistake
 mistaken
 mitchell
@@ -715,7 +698,6 @@ object
 obligated
 obtain
 offer
-offering
 office
 officer
 officially
@@ -784,7 +766,6 @@ plan
 plane
 plant
 play
-playing
 pleasant
 please
 point
@@ -905,7 +886,6 @@ score
 scratching
 screw
 screw-up
-screwing
 sealed
 seat
 second
@@ -917,7 +897,6 @@ seem
 seen
 sell
 send
-sending
 senior
 sensitive
 sent
@@ -946,7 +925,6 @@ shrager
 shred
 side
 sign
-signing
 since
 sister
 sitting
@@ -978,7 +956,6 @@ sorry
 sort
 sound
 speak
-speaking
 special
 specialize
 specter
@@ -992,7 +969,6 @@ stating
 statute
 stay
 stay-at-home
-staying
 stealing
 stenographer
 step
@@ -1040,22 +1016,18 @@ taken
 takeover
 taking
 talk
-talking
 tampering
 tate
 teach
 teaches
 team
 tell
-telling
 tennis
 tenure
 terrific
 test
 testify
-testifying
 testimony
-testing
 texas
 text
 than
@@ -1070,7 +1042,6 @@ these
 they
 thing
 think
-thinking
 third
 this
 thomas
@@ -1080,7 +1051,6 @@ threaten
 three
 through
 throw
-throwing
 thrown
 tight
 till
@@ -1110,7 +1080,6 @@ trouble
 troubled
 true
 trust
-trusting
 truth
 truthful
 trying
@@ -1140,11 +1109,9 @@ voted
 voting
 vulnerable
 wait
-waiting
 waitress
 waitstaff
 walk
-walking
 want
 warning
 waste
@@ -1190,10 +1157,8 @@ witness
 woke
 woman
 wonder
-wondering
 word
 work
-working
 workout
 world
 wormer

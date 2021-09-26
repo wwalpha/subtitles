@@ -78,7 +78,6 @@ break
 breakfast
 briefcase
 bring
-bringing
 broke
 broken
 bruise
@@ -111,7 +110,6 @@ citizen
 claimed
 class
 clean
-cleaning
 clear
 client
 clifford
@@ -231,7 +229,6 @@ father
 fault
 favor
 feel
-feeling
 felon
 felt
 fidgeting
@@ -302,10 +299,8 @@ have
 head
 hear
 heard
-hearing
 hell
 help
-helping
 here
 hero
 hers
@@ -353,7 +348,6 @@ keep
 kept
 kidding
 kill
-killing
 kiss
 kitchen
 knew
@@ -405,7 +399,6 @@ matty
 maximum
 maybe
 mean
-meaning
 meant
 mechanical
 meet
@@ -463,7 +456,6 @@ ones
 only
 open
 opener
-opening
 other
 outside
 over
@@ -542,7 +534,6 @@ relationship
 release
 remember
 reopen
-reopening
 report
 represent
 reputation
@@ -577,12 +568,10 @@ secretary
 security
 seeing
 seek
-seeking
 seem
 seen
 selling
 send
-sending
 senior
 sentence
 separate
@@ -619,7 +608,6 @@ squash
 stake
 stand
 start
-starting
 state
 stay
 stop
@@ -640,25 +628,20 @@ surprise
 swear
 switched
 taint
-tainting
 take
 taken
 taking
 talk
-talking
 tampering
 taught
 teach
 team
 teeth
 tell
-telling
 test
 testify
-testifying
 testimony
 text
-texting
 than
 that
 theater
@@ -670,7 +653,6 @@ these
 they
 thing
 think
-thinking
 this
 those
 thought
@@ -721,7 +703,6 @@ want
 warrant
 wasting
 watch
-watching
 weaker
 week
 welcome
@@ -737,7 +718,6 @@ which
 while
 whole
 will
-willing
 wind
 window
 wins
@@ -751,7 +731,6 @@ woman
 wondering
 words
 work
-working
 world
 worried
 worse

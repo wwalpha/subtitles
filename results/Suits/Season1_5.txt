@@ -65,7 +65,6 @@ babysit
 back
 badgering
 bail
-bailing
 balls
 bank
 beautiful
@@ -118,7 +117,6 @@ butler
 buying
 cabbie
 call
-calling
 came
 capital
 cards
@@ -186,7 +184,6 @@ daughters
 days
 dead
 deal
-dealing
 debbie
 debt
 deep
@@ -249,7 +246,6 @@ epiphany
 equals
 esprit
 even
-evening
 ever
 every
 everybody
@@ -346,9 +342,7 @@ hallmark
 hand
 handle
 hang
-hanging
 happen
-happening
 happy
 harassment
 harvard
@@ -358,7 +352,6 @@ head
 headlight
 health
 hear
-hearing
 heavier
 heels
 held
@@ -411,7 +404,6 @@ jury
 just
 justice
 keep
-keeping
 kick
 kidding
 kidnapping
@@ -419,7 +411,6 @@ killing
 kind
 knew
 know
-knowing
 knowledge
 label
 ladies
@@ -461,7 +452,6 @@ loan
 long
 long-time
 look
-looking
 loose
 lose
 loser
@@ -507,7 +497,6 @@ might
 mike
 million
 mind
-minding
 minute
 misdemeanor
 missed
@@ -601,7 +590,6 @@ planted
 plastic
 plate
 play
-playing
 please
 pled
 plenty
@@ -654,7 +642,6 @@ repairs
 replacement
 report
 represent
-representing
 reputation
 reruns
 reschedule
@@ -707,7 +694,6 @@ security
 seem
 seen
 sell
-selling
 send
 sent
 september
@@ -765,7 +751,6 @@ start
 statement
 status
 stay
-staying
 still
 stones
 stop
@@ -795,7 +780,6 @@ take
 taken
 taking
 talk
-talking
 taller
 taser
 taxi
@@ -818,7 +802,6 @@ they
 thicker
 thing
 think
-thinking
 thinner
 third
 this
@@ -867,7 +850,6 @@ video
 view
 visit
 wait
-waiting
 waive
 walk
 wall
@@ -900,7 +882,6 @@ without
 witness
 wonderful
 work
-working
 workload
 world
 worried

@@ -19,7 +19,6 @@ agreement
 aires
 alert
 allow
-allowing
 alma
 almost
 alone
@@ -104,7 +103,6 @@ business
 businesses
 buying
 call
-calling
 came
 candyland
 cannot
@@ -122,7 +120,6 @@ character
 charge
 charming
 cheat
-cheating
 check
 cheer
 chop
@@ -267,7 +264,6 @@ feet
 female
 fifth
 fight
-fighting
 figure
 figured
 figuring
@@ -344,7 +340,6 @@ heard
 hearsay
 held
 help
-helping
 here
 hide
 high
@@ -359,7 +354,6 @@ hostile
 hotel
 hours
 hurt
-hurting
 hydrate
 idea
 immediate
@@ -413,7 +407,6 @@ lashed
 last
 late
 laugh
-laughing
 lawyer
 league
 leave
@@ -438,7 +431,6 @@ living
 london
 long
 look
-looking
 lose
 losers
 lottery
@@ -578,7 +570,6 @@ place
 plaintiff
 plane
 play
-playing
 plead
 please
 point
@@ -633,7 +624,6 @@ rash
 rate
 rather
 read
-reading
 ready
 real
 realist
@@ -705,7 +695,6 @@ shopper
 should
 show
 shower
-showing
 shown
 side
 signatures
@@ -775,13 +764,11 @@ taken
 takeover
 talent
 talk
-talking
 target
 taught
 team
 tear
 tell
-telling
 termination
 terms
 testifying
@@ -799,7 +786,6 @@ they
 theyand
 thing
 think
-thinking
 third-world
 this
 thompson
@@ -829,14 +815,12 @@ tried
 trouble
 true
 trust
-trusting
 trustworthy
 trying
 type
 under
 undermines
 understand
-understanding
 undesirable
 unload
 unprepared
@@ -858,7 +842,6 @@ wager
 wait
 wake
 walk
-walking
 wanna
 want
 waste
@@ -881,7 +864,6 @@ whitely
 whole
 whose
 will
-willing
 win-win
 winner
 wins
@@ -896,7 +878,6 @@ women
 wonder
 word
 work
-working
 world
 worried
 worry

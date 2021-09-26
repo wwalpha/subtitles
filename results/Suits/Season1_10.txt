@@ -8,7 +8,6 @@ access
 accomplish
 account
 accountant
-accounting
 acknowledge
 acts
 actually
@@ -35,7 +34,6 @@ amount
 animal
 another
 answer
-answering
 anthony
 anticipated
 anymore
@@ -113,7 +111,6 @@ business
 busy
 buys
 call
-calling
 came
 camera
 cannot
@@ -135,7 +132,6 @@ charity
 charter
 cheat
 check
-checking
 chemical
 children
 choice
@@ -265,7 +261,6 @@ excuse
 existed
 exists
 expect
-expecting
 expenses
 explaining
 explanation
@@ -286,7 +281,6 @@ fast
 favor
 feed
 feel
-feeling
 field
 figure
 filed
@@ -340,7 +334,6 @@ gray
 great
 guard
 guess
-guessing
 guidelines
 guilty
 guys
@@ -372,7 +365,6 @@ hire
 hired
 history
 hold
-holding
 home
 honest
 honey
@@ -396,7 +388,6 @@ information
 insinuating
 instance
 interest
-interesting
 internal
 into
 introduce
@@ -420,7 +411,6 @@ june
 just
 justi
 keep
-keeping
 kidding
 kind
 knew
@@ -438,7 +428,6 @@ lawyer
 lawyer-client
 league
 learn
-learning
 least
 leave
 leaving
@@ -471,7 +460,6 @@ long
 long-term
 longer
 look
-looking
 lose
 lost
 louis
@@ -526,7 +514,6 @@ nature
 need
 negative
 network
-networking
 never
 next
 nice
@@ -591,7 +578,6 @@ presenting
 presents
 president
 pretend
-pretending
 pretty
 print
 prison
@@ -639,7 +625,6 @@ remember
 remind
 represent
 representation
-representing
 requires
 resources
 respect
@@ -696,9 +681,7 @@ should
 show
 shut
 sign
-signing
 sleep
-sleeping
 slept
 sleuth
 sloth
@@ -768,11 +751,9 @@ take
 taking
 talented
 talk
-talking
 taste
 team
 tell
-telling
 termination
 terrorist
 text
@@ -787,7 +768,6 @@ these
 they
 thing
 think
-thinking
 third
 this
 thorough
@@ -837,13 +817,11 @@ victory
 virgin
 visiting
 wait
-waiting
 waiver
 walk
 wall
 want
 watch
-watching
 water
 waves
 waxing
@@ -862,7 +840,6 @@ whole
 wife
 will
 williams
-willing
 wine
 with
 without
@@ -870,7 +847,6 @@ woman
 women
 word
 work
-working
 workplace
 world
 worries
