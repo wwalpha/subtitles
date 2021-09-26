@@ -336,7 +336,6 @@ expense
 explain
 extra
 face
-facilities
 facility
 fact
 factors

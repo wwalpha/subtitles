@@ -159,7 +159,6 @@ come
 commandments
 committing
 common
-companies
 company
 compares
 compiled
@@ -307,7 +306,6 @@ face
 fact
 failure
 fake
-families
 family
 father
 favorite
@@ -623,7 +621,6 @@ payments
 payout
 pearson
 peed
-penalties
 penalty
 penchant
 penny
@@ -744,7 +741,6 @@ scrutiny
 seat
 second
 secret
-securities
 security
 seeing
 seem
