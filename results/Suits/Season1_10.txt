@@ -149,7 +149,6 @@ code
 college
 color
 come
-coming
 committed
 committing
 common
@@ -293,14 +292,12 @@ fine
 finish
 fire
 fired
-firing
 firm
 first
 five
 follow
 forget
 forgive
-forgiving
 forgot
 former
 fought
@@ -321,7 +318,6 @@ girl
 girlfriend
 give
 given
-giving
 going
 gone
 gonna
@@ -347,7 +343,6 @@ hardman
 harvard
 harvey
 have
-having
 headed
 hear
 heard
@@ -430,7 +425,6 @@ league
 learn
 least
 leave
-leaving
 left
 legal
 legitimate
@@ -453,7 +447,6 @@ litigation
 litt
 little
 live
-living
 lobby
 locker
 long
@@ -504,7 +497,6 @@ more
 morning
 most
 move
-moving
 much
 must
 myself
@@ -741,14 +733,12 @@ supposed
 surcharges
 sure
 surprise
-surprising
 survive
 sympathizing
 system
 table
 tagged
 take
-taking
 talented
 talk
 taste
@@ -798,7 +788,6 @@ trusted
 truth
 trying
 type
-typing
 under
 understand
 undisclosed

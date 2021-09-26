@@ -165,7 +165,6 @@ columbia
 combined
 come
 comfortable
-coming
 commitment
 companies
 company
@@ -419,7 +418,6 @@ hoop
 horse
 hour
 house
-housing
 human
 hundreds
 hurt
@@ -508,7 +506,6 @@ longer
 look
 lose
 loser
-losing
 lost
 louis
 love
@@ -519,7 +516,6 @@ lying
 made
 make
 manage
-managing
 manhattan
 manipulating
 manner
@@ -555,7 +551,6 @@ mother
 motive
 move
 moved
-moving
 much
 multiply
 murdoch
@@ -729,7 +724,6 @@ sainz
 same
 sandbag
 save
-saving
 saying
 says
 school
@@ -752,12 +746,10 @@ setback
 seth
 settle
 settlement
-settling
 seven
 shakedown
 share
 shared
-sharing
 shelled
 shelves
 shift
@@ -838,7 +830,6 @@ system
 tactics
 take
 taken
-taking
 talk
 taller
 tanaka

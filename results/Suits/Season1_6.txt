@@ -128,7 +128,6 @@ caught
 causwell
 chance
 change
-changing
 charged
 cheat
 checked
@@ -144,12 +143,10 @@ clear
 client
 climb
 close
-closing
 club
 coincidence
 coma
 come
-coming
 commonplace
 company
 computer
@@ -310,7 +307,6 @@ ginthesizer
 girl
 give
 given
-giving
 goddamn
 going
 gone
@@ -336,7 +332,6 @@ harder
 harvard
 harvey
 have
-having
 head
 headline
 hear
@@ -433,7 +428,6 @@ lead
 league
 lear
 leave
-leaving
 left
 less
 letting
@@ -447,12 +441,10 @@ list
 listen
 little
 live
-living
 long
 look
 loose
 lose
-losing
 louis
 love
 lower
@@ -462,7 +454,6 @@ lunardi
 lying
 made
 make
-making
 malfeasance
 manage
 management
@@ -611,7 +602,6 @@ quarter
 question
 quick
 quote
-quoting
 rache
 rachel
 rattling
@@ -758,7 +748,6 @@ system
 table
 tainted
 take
-taking
 talk
 teach
 teacher
@@ -796,7 +785,6 @@ tour
 town
 trade
 trader
-trading
 trial
 trick
 tried

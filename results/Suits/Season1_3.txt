@@ -124,7 +124,6 @@ cocky
 come
 comfort
 comfortable
-coming
 common
 company
 compared
@@ -139,7 +138,6 @@ convenes
 conversation
 convince
 convinced
-convincing
 coordinate
 corporate
 corporations
@@ -250,7 +248,6 @@ fine
 finish
 fire
 fired
-firing
 firm
 first
 fiscal
@@ -285,7 +282,6 @@ gentlemen
 getting
 give
 given
-giving
 glad
 glendon
 gloat
@@ -320,7 +316,6 @@ harvard
 harvey
 hates
 have
-having
 head
 headhunter
 hear
@@ -332,7 +327,6 @@ help
 here
 hide
 hideous
-hiding
 highly
 himself
 hits
@@ -395,7 +389,6 @@ learn
 lease
 least
 leave
-leaving
 left
 legal
 legitimate
@@ -406,7 +399,6 @@ lied
 life
 like
 liked
-liking
 limited
 line
 lipton
@@ -415,7 +407,6 @@ listen
 litigation
 litt
 live
-living
 loaded
 location
 long
@@ -434,7 +425,6 @@ lying
 made
 maintaining
 make
-making
 management
 manufacturing
 many
@@ -465,7 +455,6 @@ morning
 most
 motors
 move
-moving
 much
 myself
 naive
@@ -705,7 +694,6 @@ tactical
 tactics
 take
 taketh
-taking
 talk
 taste
 teach
@@ -775,7 +763,6 @@ view
 violation
 vote
 voted
-voting
 wachtell
 wait
 want

@@ -120,7 +120,6 @@ coerced
 coffee
 coke
 come
-coming
 commit
 compelling
 compromise
@@ -372,15 +371,12 @@ life
 like
 liked
 line
-lining
 litt
 little
 live
-living
 long
 look
 lose
-losing
 lost
 louis
 loved
@@ -390,7 +386,6 @@ made
 mail
 majority
 make
-making
 match
 matt
 matter
@@ -515,7 +510,6 @@ puts
 putting
 quit
 quote
-quoting
 rachel
 rather
 rattlesnakes
@@ -630,7 +624,6 @@ switched
 taint
 take
 taken
-taking
 talk
 tampering
 taught

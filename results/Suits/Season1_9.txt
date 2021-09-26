@@ -144,7 +144,6 @@ coin
 collateral
 college
 come
-coming
 comma
 commit
 common
@@ -283,7 +282,6 @@ fifth-year
 fight
 figure
 figured
-figuring
 file
 filed
 film
@@ -362,7 +360,6 @@ hall
 hammer
 hand
 handle
-handling
 happen
 happy
 harbor
@@ -373,7 +370,6 @@ harvard
 harvey
 hated
 have
-having
 haywire
 head
 hear
@@ -417,7 +413,6 @@ intention
 interrupt
 interview
 intimidate
-intimidating
 intimidation
 into
 intoxication
@@ -490,7 +485,6 @@ machine
 made
 majesty
 make
-making
 math
 matter
 mavericks
@@ -616,7 +610,6 @@ problem
 procedure
 proud
 prove
-proving
 public
 pulled
 punished
@@ -685,7 +678,6 @@ serious
 server
 settle
 settlement
-settling
 several
 shattered
 ship

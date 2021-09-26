@@ -101,7 +101,6 @@ boxes
 break
 bribe
 bribed
-bribing
 bridge
 brilliant
 bring
@@ -162,7 +161,6 @@ collaborate
 colleague
 combination
 come
-coming
 commandments
 committing
 common
@@ -316,7 +314,6 @@ face
 fact
 failure
 fake
-faking
 families
 family
 father
@@ -373,7 +370,6 @@ gesture
 getting
 girl
 give
-giving
 glass
 glitch
 godfather
@@ -415,7 +411,6 @@ harvard
 harvey
 hatchet
 have
-having
 head
 hear
 heard
@@ -530,7 +525,6 @@ listed
 litt
 little
 live
-living
 loan
 locksley
 lola
@@ -551,7 +545,6 @@ made
 magnum
 major
 make
-making
 malfeasance
 manage
 manner
@@ -683,7 +676,6 @@ probably
 problem
 projects
 promise
-promising
 prosecution
 protection
 proud
@@ -863,7 +855,6 @@ table
 tactic
 take
 taken
-taking
 talk
 tattoo
 team

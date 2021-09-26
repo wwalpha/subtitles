@@ -210,7 +210,6 @@ done
 donna
 doors
 double
-doubling
 down
 downtown
 dozen
@@ -434,14 +433,12 @@ liability
 liable
 liar
 license
-licensing
 life
 light
 like
 limitations
 limo
 line
-lining
 lips
 listen
 little
@@ -455,7 +452,6 @@ look
 loose
 lose
 loser
-losing
 losses
 lost
 louis
@@ -466,7 +462,6 @@ made
 mail
 maintain
 make
-making
 malt
 mani-pedi
 manners
@@ -725,7 +720,6 @@ skin
 slate
 slipped
 smoke
-smoking
 sold
 solved
 some
@@ -778,7 +772,6 @@ tabloids
 tahiti
 take
 taken
-taking
 talk
 taller
 taser

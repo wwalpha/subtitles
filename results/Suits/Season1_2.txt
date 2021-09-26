@@ -65,7 +65,6 @@ bainbridge
 bank
 barely
 barge
-barging
 basically
 basis
 beat
@@ -139,7 +138,6 @@ code
 color
 combination
 come
-coming
 communications
 company
 concerns
@@ -245,7 +243,6 @@ fighting
 figure
 file
 filed
-filing
 filled
 final
 find
@@ -287,7 +284,6 @@ gets
 getting
 give
 given
-giving
 global
 goddamn
 going
@@ -313,7 +309,6 @@ hard
 harder
 harvey
 have
-having
 head
 headband
 headquarters
@@ -400,7 +395,6 @@ lawyer
 league
 learning
 leave
-leaving
 left
 legally
 lemonade
@@ -426,7 +420,6 @@ lunch
 lying
 made
 make
-making
 many
 marriage
 married
@@ -619,7 +612,6 @@ served
 sets
 settle
 settlement
-settling
 shares
 shark
 shit
@@ -691,7 +683,6 @@ surprised
 swear
 table
 take
-taking
 talk
 team
 technology

@@ -65,7 +65,6 @@ bass
 beat
 because
 become
-becoming
 been
 before
 began
@@ -174,7 +173,6 @@ crop
 cross
 crown
 damage
-damaging
 dana
 daniel
 days
@@ -266,7 +264,6 @@ fifth
 fight
 figure
 figured
-figuring
 filed
 final
 finally
@@ -333,7 +330,6 @@ harvey
 hate
 hated
 have
-having
 head
 hear
 heard
@@ -410,7 +406,6 @@ laugh
 lawyer
 league
 leave
-leaving
 lecture
 legend
 legendary
@@ -443,10 +438,8 @@ made
 maintenance
 make
 make-believe
-making
 malt
 manage
-managing
 maneuver
 many
 marathon
@@ -471,7 +464,6 @@ might
 mike
 mind
 mine
-mining
 minus
 minute
 miss
@@ -491,7 +483,6 @@ more
 mortgage
 most
 move
-moving
 much
 multiple
 murdered
@@ -686,7 +677,6 @@ serious
 seriously
 settle
 settlement
-settling
 shaky
 shell
 sherlock
@@ -795,7 +785,6 @@ three
 through
 till
 time
-timing
 today
 together
 told
