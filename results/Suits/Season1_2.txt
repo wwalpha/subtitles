@@ -56,7 +56,6 @@ asking
 asks
 assets
 associate
-associates
 assumed
 assure
 attorney
@@ -78,7 +77,6 @@ begs
 being
 believe
 belong
-belongs
 bench
 benefit
 best
@@ -101,7 +99,6 @@ bottle
 boxing
 brand
 brief
-briefs
 bring
 brother
 brought
@@ -128,29 +125,23 @@ case
 catch
 caught
 chance
-chances
 change
 changed
 chase
 chat
 cheated
 check
-checks
 choice
-choices
 claim
 clear
 client
-clients
 close
 cloudy
 club
 code
-codes
 color
 combination
 come
-comes
 coming
 communications
 company
@@ -181,7 +172,6 @@ dearly
 decided
 denied
 design
-designs
 desk
 detail
 determine
@@ -211,7 +201,6 @@ down
 downtown
 draft
 drink
-drinks
 drug
 dumb
 dumped
@@ -244,7 +233,6 @@ extra
 eyes
 face
 fact
-facts
 fail
 failed
 failing
@@ -266,7 +254,6 @@ figure
 file
 filed
 filing
-filings
 filled
 final
 find
@@ -293,7 +280,6 @@ four
 fraternity
 free
 friend
-friends
 from
 front
 fundraiser
@@ -335,7 +321,6 @@ hang
 hanging
 happen
 happened
-happens
 happy
 hard
 harder
@@ -367,7 +352,6 @@ holding
 home
 honor
 hour
-hours
 house
 huge
 humiliated
@@ -420,7 +404,6 @@ knew
 knock
 knock-offs
 know
-knows
 ladies
 land
 landed
@@ -444,7 +427,6 @@ lied
 life
 light
 like
-likes
 line
 listed
 listen
@@ -455,7 +437,6 @@ long
 longer
 look
 looked
-looks
 losing
 louis
 loyalty
@@ -464,7 +445,6 @@ lunch
 lying
 made
 make
-makes
 making
 many
 marriage
@@ -473,7 +453,6 @@ matter
 mattered
 maybe
 mean
-means
 meant
 meantnot
 meet
@@ -487,16 +466,13 @@ might
 mike
 million
 millionaires
-millions
 mine
 minute
-minutes
 miserably
 missed
 mommy
 money
 month
-months
 moral
 more
 morning
@@ -511,7 +487,6 @@ name
 nature
 necessary
 need
-needs
 negotiate
 negotiated
 nerd
@@ -575,7 +550,6 @@ play
 played
 playing
 please
-pleases
 pocket
 point
 pointed
@@ -612,7 +586,6 @@ prototype
 proves
 pull
 pulled
-pulls
 punch
 purview
 puts
@@ -633,14 +606,11 @@ reasonable
 recall
 recommended
 record
-records
 remember
 remind
-reminds
 represent
 reputation
 request
-requests
 required
 reserved
 respect
@@ -700,7 +670,6 @@ showed
 showers
 showing
 shown
-shows
 shut
 sick
 side
@@ -710,7 +679,6 @@ signing
 similar
 since
 situation
-situations
 sixth
 sleep
 slept
@@ -768,7 +736,6 @@ surprised
 swear
 table
 take
-takes
 taking
 talk
 talked
@@ -785,7 +752,6 @@ text
 than
 thank
 thanking
-thanks
 that
 their
 them
@@ -794,16 +760,13 @@ there
 these
 they
 thing
-things
 think
-thinks
 this
 those
 thought
 three
 through
 time
-times
 tipsy
 today
 together
@@ -843,7 +806,6 @@ walk
 wanna
 want
 wanted
-wants
 warm
 waste
 watch
@@ -877,7 +839,6 @@ wonder
 wondering
 work
 working
-works
 world
 worry
 worth
@@ -889,7 +850,6 @@ wyatt
 yards
 yeah
 year
-years
 yesterday
 young
 your

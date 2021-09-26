@@ -40,7 +40,6 @@ anything
 anyway
 apart
 apartment
-apartments
 apologize
 approval
 approved
@@ -77,7 +76,6 @@ battle
 beautiful
 because
 bedbug
-bedbugs
 been
 before
 beginning
@@ -85,7 +83,6 @@ behavior
 being
 believe
 believed
-believes
 belongs
 below
 best
@@ -108,7 +105,6 @@ bold
 bono
 book
 booked
-books
 bore
 born
 both
@@ -123,7 +119,6 @@ brothers
 brought
 bugs
 building
-buildings
 built
 bullied
 bullshit
@@ -137,10 +132,8 @@ came
 canadian
 care
 career
-careers
 carpet
 case
-cases
 catcher
 catching
 caught
@@ -154,23 +147,19 @@ charges
 charging
 charm
 check
-checks
 child
 church
 city
 claim
-claims
 class
 clean
 clear
 client
-clients
 clinical
 close
 clothing
 cocktail
 code
-codes
 coffee
 cold
 colleague
@@ -185,7 +174,6 @@ companies
 company
 compensation
 complaint
-complaints
 concern
 condo
 conference
@@ -193,7 +181,6 @@ conflict
 connection
 consider
 consultant
-consultants
 contractor
 control
 conversation
@@ -217,7 +204,6 @@ crisis
 crux
 current
 damage
-damages
 damn
 date
 daughter
@@ -258,9 +244,7 @@ donna
 door
 dormant
 dose
-doses
 double
-doubles
 doubloons
 down
 downstairs
@@ -269,14 +253,12 @@ drinking
 drive
 drove
 drug
-drugs
 dying
 each
 earth
 easier
 edition
 effect
-effects
 eight
 either
 eleanor
@@ -314,10 +296,8 @@ exposure
 extortion
 extra
 fact
-facts
 fail
 failing
-fails
 fair
 falsified
 falsify
@@ -325,7 +305,6 @@ falsifying
 faster
 father
 fault
-faults
 favorite
 feel
 feisty
@@ -335,15 +314,12 @@ fifth
 fighting
 figure
 file
-files
 financial
-financials
 find
 fine
 finish
 fired
 firm
-firms
 first
 fits
 five
@@ -383,7 +359,6 @@ ginsberg
 girlfriend
 give
 given
-gives
 glenda
 goal
 goes
@@ -415,7 +390,6 @@ handling
 hands
 happen
 happened
-happens
 happy
 harassment
 hard
@@ -457,7 +431,6 @@ housing
 human
 hundreds
 hurt
-hurts
 idea
 ilook
 imagine
@@ -507,13 +480,11 @@ knew
 know
 knowing
 known
-knows
 knox
 last
 late
 lawsuit
 lawyer
-lawyers
 league
 leak
 learned
@@ -535,22 +506,18 @@ light
 lightning
 like
 liked
-likes
 line
 lisa
 literally
 little
 live
 liver
-livers
-lives
 locked
 long
 longer
 look
 looked
 looking
-looks
 lose
 loser
 losing
@@ -563,7 +530,6 @@ lunch
 lying
 made
 make
-makes
 manage
 managing
 manhattan
@@ -578,7 +544,6 @@ matter
 maybe
 mean
 meaning
-means
 medical
 meeting
 mention
@@ -590,17 +555,14 @@ million
 mind
 mine
 minute
-minutes
 miracle
 miraculous
 missing
 mitigate
 money
 month
-months
 more
 morning
-mornings
 most
 mother
 motive
@@ -614,12 +576,10 @@ must
 myself
 naked
 name
-names
 near
 nearly
 need
 needed
-needs
 negotiation
 neighborhood
 never
@@ -647,7 +607,6 @@ open
 opportunity
 order
 other
-others
 outcome
 outlay
 outpouring
@@ -685,7 +644,6 @@ pertinent
 petty
 pfizer
 pharmaceutical
-pharmaceuticals
 phrased
 picking
 picture
@@ -697,9 +655,7 @@ placed
 plaintiffs
 play
 please
-pleases
 point
-points
 posture
 practice
 precise
@@ -716,7 +672,6 @@ prior
 private
 prizes
 problem
-problems
 profit
 promise
 promised
@@ -738,7 +693,6 @@ quarter
 quentin
 question
 questioning
-questions
 rachel
 rattled
 ready
@@ -750,7 +704,6 @@ receipts
 receptive
 recognize
 record
-records
 rectify
 recycling
 reinstalled
@@ -765,7 +718,6 @@ reopened
 repairs
 replace
 represent
-represents
 reputation
 request
 research
@@ -838,7 +790,6 @@ side
 sideswiped
 sign
 significant
-signs
 silly
 since
 single
@@ -860,7 +811,6 @@ sooner
 sorry
 sound
 speak
-speaks
 spectate
 spectator
 specter
@@ -874,7 +824,6 @@ stake
 stand
 start
 started
-starts
 states
 stay
 staying
@@ -911,7 +860,6 @@ system
 tactics
 take
 taken
-takes
 taking
 talk
 talking
@@ -941,10 +889,8 @@ therefore
 these
 they
 thing
-things
 think
 thinking
-thinks
 third
 this
 those
@@ -959,7 +905,6 @@ throwing
 thunder
 thursday
 time
-times
 titanic
 today
 together
@@ -974,7 +919,6 @@ trait
 transfer
 trapped
 trial
-trials
 trivia
 trust
 truth
@@ -987,7 +931,6 @@ unable
 under
 understand
 unit
-units
 unknowingly
 unless
 until
@@ -1020,7 +963,6 @@ walking
 wanna
 want
 wanted
-wants
 warn
 warranty
 watch
@@ -1067,7 +1009,6 @@ wrong
 yankees
 yeah
 year
-years
 yesterday
 york
 young

@@ -12,7 +12,6 @@ actually
 address
 admire
 admission
-admissions
 admit
 adores
 advancement
@@ -24,7 +23,6 @@ afford
 afraid
 after
 afternoon
-afternoons
 again
 against
 agency
@@ -73,14 +71,12 @@ assignment
 assoc
 associate
 associated
-associates
 assume
 assure
 attached
 attack
 attitude
 attorney
-attorneys
 atwater
 authority
 away
@@ -132,14 +128,12 @@ bono
 bonus
 book
 booked
-books
 both
 bother
 bottle
 breakfast
 breath
 briefcase
-briefcases
 bright
 brightened
 bring
@@ -156,7 +150,6 @@ business
 busy
 cache
 call
-calls
 came
 canceled
 candidates
@@ -167,7 +160,6 @@ cared
 caring
 carry
 case
-cases
 cash
 caught
 cause
@@ -186,7 +178,6 @@ charmed
 cheated
 check
 checking
-checks
 cheese
 cheeseburger
 children
@@ -205,7 +196,6 @@ clear
 clemenza
 clever
 client
-clients
 clone
 clooney
 close
@@ -220,7 +210,6 @@ college
 comb
 combination
 come
-comes
 comfortable
 coming
 command
@@ -299,7 +288,6 @@ died
 different
 dignity
 dinner
-dinners
 directly
 dirty
 disagree
@@ -320,7 +308,6 @@ done
 donna
 door
 douche
-douches
 down
 dozens
 drag
@@ -330,7 +317,6 @@ dressed
 drill
 drop
 drug
-drugs
 dumb
 duress
 during
@@ -347,7 +333,6 @@ emailing
 emotional
 emotionally
 employee
-employees
 ends
 enjoyed
 enjoying
@@ -374,7 +359,6 @@ expense
 explain
 extra
 face
-faces
 facilities
 facility
 fact
@@ -401,20 +385,17 @@ figure
 figured
 file
 filed
-files
 filing
 fill
 filled
 finally
 find
 finding
-finds
 fine
 fire
 fired
 firing
 firm
-firms
 first
 fishing
 fist
@@ -472,7 +453,6 @@ good-bye
 gotta
 grade
 graduate
-graduates
 grand
 grandmother
 grandson
@@ -543,7 +523,6 @@ horrible
 hotel
 hotshot
 hour
-hours
 house
 huge
 human
@@ -551,7 +530,6 @@ humanized
 humiliated
 hunt
 hurt
-hurts
 husband
 idea
 identical
@@ -574,7 +552,6 @@ interests
 interim
 interview
 interviewed
-interviews
 intimidate
 into
 investigate
@@ -642,7 +619,6 @@ lies
 life
 like
 likely
-likes
 limitations
 line
 lining
@@ -652,7 +628,6 @@ listen
 litt
 little
 live
-lives
 living
 location
 lock
@@ -660,7 +635,6 @@ locked
 long
 look
 looking
-looks
 lose
 loser
 lost
@@ -675,7 +649,6 @@ lying
 made
 mail
 make
-makes
 making
 mall
 manage
@@ -690,7 +663,6 @@ math
 matter
 mcgreggor
 mean
-means
 meant
 medium
 meet
@@ -707,11 +679,9 @@ middle
 might
 mike
 million
-millions
 mind
 mine
 minute
-minutes
 miss
 missing
 mistake
@@ -722,7 +692,6 @@ model
 monday
 money
 month
-months
 moot
 more
 morning
@@ -753,7 +722,6 @@ nobody
 noon
 normally
 note
-notes
 nothing
 noticed
 notify
@@ -767,7 +735,6 @@ offer
 offering
 office
 officer
-offices
 officially
 often
 ogling
@@ -779,15 +746,12 @@ ones
 only
 open
 operate
-operates
 opportunity
 option
-options
 order
 ordered
 orientation
 other
-others
 ourselves
 outrank
 over
@@ -801,7 +765,6 @@ paralegal
 parents
 park
 partner
-partners
 party
 pass
 passed
@@ -842,7 +805,6 @@ plane
 plant
 play
 playing
-plays
 pleasant
 please
 point
@@ -889,7 +851,6 @@ pulling
 pursuing
 putting
 question
-questions
 quick
 quit
 quite
@@ -910,7 +871,6 @@ reasonable
 received
 recommendation
 record
-records
 recruiting
 reflection
 refusing
@@ -936,7 +896,6 @@ rickety
 ride
 ridiculous
 right
-rights
 ripped
 risks
 rode
@@ -1016,7 +975,6 @@ since
 sister
 sitting
 situation
-situations
 sixth
 skinny
 skip
@@ -1043,10 +1001,8 @@ sorkin
 sorry
 sort
 sound
-sounds
 speak
 speaking
-speaks
 special
 specialize
 specter
@@ -1057,7 +1013,6 @@ stand
 start
 started
 state
-states
 stating
 statute
 stay
@@ -1090,7 +1045,6 @@ success
 successful
 suggest
 suit
-suits
 summer
 supervisor
 support
@@ -1109,7 +1063,6 @@ sword
 take
 taken
 takeover
-takes
 taking
 talk
 talked
@@ -1130,12 +1083,10 @@ testify
 testifying
 testimony
 testing
-tests
 texas
 text
 than
 thank
-thanks
 that
 their
 them
@@ -1145,7 +1096,6 @@ there
 these
 they
 thing
-things
 think
 thinking
 third
@@ -1194,7 +1144,6 @@ trying
 tuesday
 tuition
 turn
-turns
 twist
 under
 understand
@@ -1225,7 +1174,6 @@ walk
 walking
 want
 wanted
-wants
 warning
 waste
 water
@@ -1238,7 +1186,6 @@ wedding
 weed
 week
 weekend
-weeks
 weight
 weird
 welcome
@@ -1273,12 +1220,10 @@ woman
 wonder
 wondering
 word
-words
 work
 worked
 working
 workout
-works
 world
 wormer
 worried
@@ -1293,10 +1238,8 @@ wrong
 wuss
 yeah
 year
-years
 yielded
 york
 your
-yours
 yourself
 zane

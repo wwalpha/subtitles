@@ -5,7 +5,6 @@ accept
 accessed
 accessing
 account
-accounts
 across
 acted
 actually
@@ -38,7 +37,6 @@ always
 amends
 american
 amount
-amounts
 anniversary
 another
 answer
@@ -73,7 +71,6 @@ back
 backing
 band
 bank
-banks
 based
 basically
 basket
@@ -123,7 +120,6 @@ caddy
 call
 called
 calling
-calls
 came
 camel
 camp
@@ -154,13 +150,11 @@ child
 children
 china
 choice
-choices
 chose
 churning
 city
 civil
 claim
-claims
 clarity
 class
 classified
@@ -168,7 +162,6 @@ clean
 clear
 clearly
 client
-clients
 close
 collaborate
 colleague
@@ -211,7 +204,6 @@ counseling
 counselor
 count
 couple
-couples
 course
 court
 cover
@@ -250,7 +242,6 @@ desperate
 desperately
 destroying
 detail
-details
 detect
 devote
 dibutoxyethanol
@@ -259,7 +250,6 @@ different
 difficult
 direct
 director
-directors
 directory
 dirty
 disappeared
@@ -297,7 +287,6 @@ elevated
 elliot
 else
 email
-emails
 embezzled
 embezzles
 embolism
@@ -332,7 +321,6 @@ eyeliner
 fabrication
 face
 fact
-facts
 failure
 fake
 faking
@@ -352,7 +340,6 @@ financial
 find
 findings
 fine
-fines
 fired
 firm
 first
@@ -393,7 +380,6 @@ gesture
 getting
 girl
 give
-gives
 giving
 glass
 glitch
@@ -427,7 +413,6 @@ halfway
 hand
 handed
 handle
-hands
 happened
 happens
 happy
@@ -466,7 +451,6 @@ hormones
 horrible
 hospital
 hour
-hours
 houses
 housing
 humpback
@@ -501,7 +485,6 @@ invented
 investigation
 investigator
 investment
-investments
 investors
 invitation
 invited
@@ -571,7 +554,6 @@ long
 look
 looked
 looking
-looks
 lose
 losses
 lost
@@ -596,13 +578,11 @@ many
 masseuse
 mathematics
 matter
-matters
 mattress
 maybe
 maybemaybe
 mazlo
 mean
-means
 meet
 meeting
 memory
@@ -613,7 +593,6 @@ mildred
 million
 mind
 minute
-minutes
 mitzvah
 mm-hmm
 money
@@ -631,7 +610,6 @@ name
 named
 need
 needed
-needs
 negotiated
 neither
 never
@@ -646,11 +624,9 @@ notice
 noticed
 novel
 number
-numbers
 oblige
 offer
 office
-offices
 offshore
 okay
 once
@@ -658,7 +634,6 @@ only
 open
 opened
 operation
-operations
 ordering
 organization
 organized
@@ -709,7 +684,6 @@ pictures
 picturing
 pissing
 place
-places
 plan
 planet
 play
@@ -750,7 +724,6 @@ push
 pyrrhic
 queen
 question
-questions
 raise
 raised
 rank
@@ -766,7 +739,6 @@ really
 recall
 reconcile
 record
-records
 recover
 relationship
 relatives
@@ -776,7 +748,6 @@ research
 reserves
 resignation
 respect
-respects
 respond
 responded
 responsibilities
@@ -799,7 +770,6 @@ room
 roommate
 ross
 rule
-rules
 rumor
 running
 rushed
@@ -823,7 +793,6 @@ securities
 security
 seeing
 seem
-seems
 seen
 send
 senior
@@ -898,7 +867,6 @@ still
 stole
 stolen
 stop
-stops
 story
 straight
 street
@@ -910,7 +878,6 @@ stripper
 stuck
 stuff
 subpoena
-subpoenas
 such
 suggested
 suit
@@ -927,7 +894,6 @@ table
 tactic
 take
 taken
-takes
 taking
 talk
 talking
@@ -956,7 +922,6 @@ they
 thief
 thin
 thing
-things
 think
 thinking
 this
@@ -990,14 +955,12 @@ trip
 trouble
 true
 trust
-trusts
 truth
 trying
 tuesday
 tulsa
 turn
 turning
-turns
 under
 undermined
 understand
@@ -1024,7 +987,6 @@ wanna-be
 want
 wanted
 wanting
-wants
 warn
 watch
 water
@@ -1071,9 +1033,7 @@ wrong
 wuss
 yeah
 year
-years
 york
 your
-yours
 yourself
 yourselves

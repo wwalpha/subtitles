@@ -63,7 +63,6 @@ baby
 back
 backed
 ball
-balls
 bankrupt
 bass
 beat
@@ -139,7 +138,6 @@ classic
 clean
 clerked
 client
-clients
 clinic
 closing
 club
@@ -199,7 +197,6 @@ defense
 define
 demi
 deserve
-deserves
 desk
 details
 devious
@@ -224,7 +221,6 @@ down
 drafted
 drama
 drink
-drinks
 drop
 during
 each
@@ -252,7 +248,6 @@ evidence
 exactly
 exchange
 excuse
-excuses
 exercise
 exist
 expect
@@ -262,12 +257,10 @@ explain
 face
 fact
 fact-finding
-facts
 failure
 fair
 fake
 fall
-falls
 false
 famous
 fast
@@ -275,7 +268,6 @@ faster
 fault
 favor
 feeling
-feelings
 feels
 feet
 female
@@ -307,7 +299,6 @@ freak
 fresh
 friday
 friend
-friends
 from
 full
 fully
@@ -315,7 +306,6 @@ funny
 further
 gallery
 game
-games
 gave
 gentlemen
 gets
@@ -343,7 +333,6 @@ hand
 handled
 handshake
 happen
-happens
 happy
 hard
 harder
@@ -356,7 +345,6 @@ hated
 have
 having
 head
-heads
 hear
 heard
 hearsay
@@ -371,12 +359,10 @@ highlight
 himself
 holds
 home
-homes
 honestly
 honor
 hostile
 hotel
-hotels
 hours
 hurt
 hurting
@@ -407,9 +393,7 @@ into
 jenny
 jessica
 jewel
-jewels
 joke
-jokes
 jones
 judge
 judgment
@@ -428,7 +412,6 @@ kirk
 kissed
 knew
 know
-knows
 kyle
 label
 lacks
@@ -439,7 +422,6 @@ late
 laugh
 laughing
 lawyer
-lawyers
 league
 leave
 leaving
@@ -464,7 +446,6 @@ london
 long
 look
 looking
-looks
 lose
 losers
 lottery
@@ -477,7 +458,6 @@ made
 maintenance
 make
 make-believe
-makes
 making
 malt
 manage
@@ -494,7 +474,6 @@ mater
 matter
 maybe
 mean
-means
 meant
 mediocre
 meet
@@ -510,7 +489,6 @@ mine
 mining
 minus
 minute
-minutes
 miss
 missed
 mission
@@ -541,10 +519,8 @@ national
 necessary
 need
 needed
-needs
 negatively
 negotiation
-negotiations
 nervous
 networking
 never
@@ -556,7 +532,6 @@ nora
 normally
 notch
 note
-notes
 nothing
 notice
 nowhere
@@ -589,7 +564,6 @@ park
 part
 parties
 partner
-partners
 party
 passed
 passion
@@ -614,11 +588,9 @@ plaintiff
 plane
 play
 playing
-plays
 plead
 please
 point
-points
 popped
 possibility
 potential
@@ -641,7 +613,6 @@ pretty
 private
 probably
 problem
-problems
 proceed
 productive
 promise
@@ -664,7 +635,6 @@ pursue
 pushed
 qualities
 question
-questions
 quick
 quickly
 rachel
@@ -754,7 +724,6 @@ signed
 single
 site
 situation
-situations
 skills
 skirt
 small-minded
@@ -769,7 +738,6 @@ sometimes
 sorry
 sort
 sound
-sounds
 source
 speak
 specter
@@ -778,7 +746,6 @@ spend
 spent
 spiteful
 stand
-stands
 started
 statements
 stay
@@ -817,7 +784,6 @@ table
 take
 taken
 takeover
-takes
 talent
 talk
 talked
@@ -834,7 +800,6 @@ testifying
 than
 thank
 thank-you
-thanks
 that
 their
 them
@@ -845,7 +810,6 @@ these
 they
 theyand
 thing
-things
 think
 thinking
 third-world
@@ -857,7 +821,6 @@ three
 through
 till
 time
-times
 timing
 today
 together
@@ -873,7 +836,6 @@ traffic
 trek
 trekkie
 trial
-trials
 trick
 tricked
 tried
@@ -884,7 +846,6 @@ trusting
 trustworthy
 trying
 type
-types
 under
 undermines
 understand
@@ -914,7 +875,6 @@ walking
 wanna
 want
 wanted
-wants
 waste
 watch
 water
@@ -938,7 +898,6 @@ will
 willing
 win-win
 winner
-winners
 wins
 wishes
 wishing
@@ -950,7 +909,6 @@ woman
 women
 wonder
 word
-words
 work
 working
 world
@@ -967,10 +925,8 @@ wrote
 xanax
 yeah
 year
-years
 yelled
 yesterday
 younger
 your
-yours
 yourself

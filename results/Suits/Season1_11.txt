@@ -38,7 +38,6 @@ aside
 asked
 asking
 asset
-assets
 asshole
 assistant
 associate
@@ -51,7 +50,6 @@ awful
 baby
 back
 backfire
-backs
 badly
 bait
 bank
@@ -111,7 +109,6 @@ care
 careful
 caring
 case
-cases
 catch
 caught
 center
@@ -134,13 +131,11 @@ clams
 clean
 clear
 client
-clients
 close
 closed-door
 closely
 code
 come
-comes
 coming
 companies
 complaints
@@ -151,7 +146,6 @@ confessions
 connected
 conscience
 contract
-contracts
 conversation
 convictions
 convince
@@ -184,7 +178,6 @@ daughters
 days
 dead
 deal
-deals
 decade
 decide
 decision
@@ -238,7 +231,6 @@ election
 else
 elvis
 employee
-employees
 ending
 enough
 equals
@@ -305,7 +297,6 @@ found
 four
 free
 friend
-friends
 from
 front
 funny
@@ -319,7 +310,6 @@ girlfriend
 girls
 give
 given
-gives
 glad
 goes
 going
@@ -344,13 +334,11 @@ handled
 hanging
 happen
 happened
-happens
 happy
 hard
 harvey
 hate
 hated
-hates
 have
 having
 head
@@ -392,7 +380,6 @@ into
 investigating
 investigation
 issue
-issues
 jail
 james
 jealous
@@ -424,7 +411,6 @@ knew
 know
 knowingly
 known
-knows
 kyle
 ladder
 laid
@@ -435,7 +421,6 @@ late
 later
 laws
 lawyer
-lawyers
 learn
 learned
 leave
@@ -468,7 +453,6 @@ maddie
 made
 madison
 make
-makes
 making
 manage
 mandate
@@ -477,7 +461,6 @@ marrying
 matter
 mean
 meaningless
-means
 meant
 mediate
 meet
@@ -494,7 +477,6 @@ mile
 mind
 mine
 minute
-minutes
 miserable
 miserably
 miss
@@ -505,7 +487,6 @@ mocked
 mocking
 money
 month
-months
 more
 morning
 most
@@ -522,7 +503,6 @@ need
 needed
 negotiating
 negotiation
-negotiations
 never
 news
 next
@@ -540,7 +520,6 @@ obligation
 obvious
 occurred
 offer
-offers
 office
 okay
 once
@@ -561,7 +540,6 @@ overpay
 overturn
 owned
 page
-pages
 paper
 paralegal
 part
@@ -643,7 +621,6 @@ return
 rich
 ridiculous
 right
-rights
 road
 room
 rope
@@ -652,7 +629,6 @@ rotting
 rubbing
 ruin
 rule
-rules
 run-in
 rungs
 running
@@ -669,7 +645,6 @@ screwed
 seat
 second
 secret
-secrets
 section
 seeing
 seem
@@ -683,7 +658,6 @@ servant
 server
 settle
 settlement
-settlements
 seven
 shadow
 shallow
@@ -700,7 +674,6 @@ side
 simple
 since
 sister
-sisters
 skeletons
 skill
 skirting
@@ -733,7 +706,6 @@ stay
 steal
 step
 stepping
-steps
 still
 stop
 stores
@@ -762,7 +734,6 @@ tabloid
 tactics
 taints
 take
-takes
 talk
 talking
 tampering
@@ -778,7 +749,6 @@ testifying
 tests
 than
 thank
-thanks
 that
 their
 them
@@ -788,9 +758,7 @@ there
 these
 they
 thing
-things
 think
-thinks
 third
 this
 those
@@ -802,7 +770,6 @@ throw
 tickets
 tides
 time
-times
 tires
 tofu
 together
@@ -848,12 +815,10 @@ wait
 waiting
 walk
 walked
-walks
 wall
 wanna
 want
 wanted
-wants
 warn
 warned
 wasting
@@ -862,7 +827,6 @@ watching
 wavy
 wearing
 week
-weeks
 weird
 well
 went
@@ -889,7 +853,6 @@ word
 work
 worked
 working
-works
 world
 worry
 worse
@@ -899,9 +862,7 @@ write
 wrong
 yeah
 year
-years
 yesterday
 york
 your
-yours
 yourself

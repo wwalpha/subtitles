@@ -46,12 +46,10 @@ asked
 asking
 asses
 associate
-associates
 attack
 attended
 attention
 attorney
-attorneys
 autograph
 average
 avoids
@@ -114,7 +112,6 @@ cady
 call
 called
 calling
-calls
 came
 cancel
 cancer
@@ -122,14 +119,12 @@ care
 career
 careful
 case
-cases
 caught
 cave
 chain
 challenge
 champion
 championship
-championships
 chance
 charge
 charts
@@ -146,14 +141,12 @@ class
 clean
 clear
 client
-clients
 close
 club
 cluster
 clyde-macphee
 coach
 code
-codes
 coin
 collateral
 college
@@ -167,7 +160,6 @@ company
 competition
 composure
 computer
-computers
 condition
 conference
 confidence
@@ -190,7 +182,6 @@ course
 court
 courtesy
 cover
-covers
 crashes
 cream
 credit
@@ -213,7 +204,6 @@ declared
 deliver
 department
 deposition
-depositions
 dermatological
 diagnosed
 dial
@@ -232,11 +222,9 @@ dodd
 does
 doing
 dollar
-dollars
 done
 donna
 door
-doors
 doorstep
 douchebag
 down
@@ -263,7 +251,6 @@ elusive
 emerson
 emily
 emotion
-emotions
 employee
 empty
 ended
@@ -315,7 +302,6 @@ finish
 finished
 fire
 fired
-fires
 firm
 first
 first-year
@@ -390,7 +376,6 @@ handling
 happen
 happened
 happening
-happens
 happy
 harbor
 hardman
@@ -482,7 +467,6 @@ late
 later
 laughing
 lawsuit
-lawsuits
 lawyer
 lead
 leak
@@ -507,11 +491,9 @@ litt
 little
 lived
 loan
-loans
 long
 look
 looking
-looks
 lord
 lose
 louis
@@ -522,25 +504,21 @@ loyalty
 lunch
 lung
 machine
-machines
 made
 majesty
 make
-makes
 making
 math
 matter
 mavericks
 maybe
 mean
-means
 meet
 meeting
 memory
 mention
 mentioned
 message
-messages
 michael
 microwave
 mike
@@ -550,7 +528,6 @@ million
 mind
 mine
 minute
-minutes
 missed
 mistake
 mitch
@@ -559,7 +536,6 @@ monday
 money
 monica
 month
-months
 more
 morning
 most
@@ -587,7 +563,6 @@ noon
 nope
 nothing
 number
-numbers
 oaky
 obvious
 occurred
@@ -603,7 +578,6 @@ open
 operated
 operates
 other
-others
 ours
 outskirts
 over
@@ -634,7 +608,6 @@ personal
 pesticide
 petroleum
 phone
-phones
 photographic
 physique
 piece
@@ -642,7 +615,6 @@ pinot
 pitch
 place
 plaintiff
-plaintiffs
 plans
 planted
 play
@@ -678,7 +650,6 @@ rachel
 radar
 raise
 raised
-raises
 rash
 rattle
 ready
@@ -688,7 +659,6 @@ reasonable
 reasons
 record
 recorded
-records
 reference
 regretted
 regular
@@ -718,7 +688,6 @@ said
 same
 satisfied
 sauvignon
-sauvignons
 save
 saved
 saying
@@ -734,7 +703,6 @@ security
 seeing
 seem
 seemed
-seems
 send
 sending
 senior
@@ -824,7 +792,6 @@ suspended
 sweet
 take
 taken
-takes
 talk
 talking
 tanner
@@ -842,7 +809,6 @@ test
 testify
 than
 thank
-thanks
 that
 their
 them
@@ -852,10 +818,8 @@ there
 these
 they
 thing
-things
 think
 thinking
-thinks
 this
 those
 thought
@@ -867,7 +831,6 @@ thrown
 tights
 till
 time
-times
 tobacco
 today
 together
@@ -894,7 +857,6 @@ trying
 turn
 turned
 turning
-turns
 type
 ugly
 under
@@ -924,7 +886,6 @@ walked
 wanna
 want
 wanted
-wants
 warrant
 wasit
 watch
@@ -964,7 +925,6 @@ words
 work
 worked
 working
-works
 world
 worry
 would
@@ -973,7 +933,6 @@ wrong
 yale
 yeah
 year
-years
 york
 youngest
 your

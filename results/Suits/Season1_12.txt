@@ -99,7 +99,6 @@ captain
 care
 cared
 case
-cases
 catch
 caught
 chain
@@ -117,7 +116,6 @@ clean
 cleaning
 clear
 client
-clients
 clifford
 close
 clothing
@@ -126,7 +124,6 @@ coerced
 coffee
 coke
 come
-comes
 coming
 commit
 compelling
@@ -151,7 +148,6 @@ couple
 court
 cousin
 crime
-crimes
 criminal
 custody
 cutting
@@ -164,7 +160,6 @@ daughter
 days
 dead
 deal
-deals
 decade
 decided
 decline
@@ -189,7 +184,6 @@ disinfectant
 disregard
 district
 document
-documents
 does
 doing
 done
@@ -232,7 +226,6 @@ explain
 expunge
 eyes
 face
-faces
 facilitate
 fact
 failure
@@ -240,7 +233,6 @@ fair
 father
 fault
 favor
-favors
 feel
 feeling
 felon
@@ -252,7 +244,6 @@ file
 fill
 finally
 find
-finds
 fine
 finger
 firing
@@ -305,7 +296,6 @@ gymnastics
 halfway
 hand
 handle
-hands
 happen
 happened
 happy
@@ -317,7 +307,6 @@ head
 hear
 heard
 hearing
-hears
 hell
 help
 helping
@@ -339,7 +328,6 @@ horse
 hours
 housing
 hurt
-hurts
 idea
 important
 improprieties
@@ -377,7 +365,6 @@ knew
 knob
 know
 known
-knows
 kobe
 last
 late
@@ -396,7 +383,6 @@ life
 like
 liked
 line
-lines
 lining
 litt
 little
@@ -415,7 +401,6 @@ made
 mail
 majority
 make
-makes
 making
 match
 matt
@@ -426,7 +411,6 @@ maximum
 maybe
 mean
 meaning
-means
 meant
 mechanical
 meet
@@ -438,7 +422,6 @@ might
 mike
 mind
 minute
-minutes
 misconduct
 mississippi
 mm-hmm
@@ -449,7 +432,6 @@ months
 more
 mother
 motion
-motions
 mountain
 mouth
 movie
@@ -457,7 +439,6 @@ much
 murder
 murdered
 murderer
-murderers
 must
 myself
 mysterious
@@ -465,7 +446,6 @@ nailed
 name
 near
 need
-needs
 negotiate
 nerve
 never
@@ -491,7 +471,6 @@ open
 opener
 opening
 other
-others
 outside
 over
 overturn
@@ -501,7 +480,6 @@ painting
 paper
 paralegal
 partner
-partners
 past
 patrick
 penalty
@@ -515,7 +493,6 @@ piece
 pierson
 piss
 place
-places
 planted
 plea
 please
@@ -565,7 +542,6 @@ realize
 realized
 really
 reason
-reasons
 record
 redemption
 refuse
@@ -629,7 +605,6 @@ should
 showed
 shut
 side
-sides
 simple
 sins
 situation
@@ -669,7 +644,6 @@ suffered
 sufficient
 suicide
 suit
-suits
 sunshine
 supposed
 sure
@@ -708,10 +682,8 @@ there
 these
 they
 thing
-things
 think
 thinking
-thinks
 this
 those
 thought
@@ -722,7 +694,6 @@ through
 throw
 till
 time
-times
 today
 together
 told
@@ -743,7 +714,6 @@ trust
 truth
 trying
 turn
-turns
 unauthorized
 understand
 unless
@@ -796,7 +766,6 @@ wondering
 words
 work
 working
-works
 world
 worried
 worse
@@ -805,8 +774,6 @@ wrong
 wrote
 yeah
 year
-years
 young
 your
-yours
 yourself

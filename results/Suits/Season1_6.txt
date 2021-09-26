@@ -12,7 +12,6 @@ actual
 actually
 address
 admit
-admits
 adorable
 adrian
 afraid
@@ -39,20 +38,16 @@ anyone
 anything
 apologize
 appreciate
-appreciates
 appreciation
 approval
 argument
-arguments
 around
 arrest
 asked
 asking
 asset
-assets
 asshole
 associate
-associates
 assuming
 attention
 attorney
@@ -130,7 +125,6 @@ care
 career
 careless
 case
-cases
 cash
 cats
 caught
@@ -154,7 +148,6 @@ clean
 clear
 cleared
 client
-clients
 climb
 close
 closing
@@ -162,12 +155,10 @@ club
 coincidence
 coma
 come
-comes
 coming
 commonplace
 company
 computer
-computers
 concerned
 confession
 confronted
@@ -232,7 +223,6 @@ dragon
 draw
 dream
 drink
-drinks
 drogin
 drunk
 dude
@@ -276,7 +266,6 @@ feet
 fell
 fellow
 felon
-felons
 felt
 fight
 figure
@@ -350,10 +339,8 @@ half
 hand
 handcuffs
 handed
-hands
 hang
 happen
-happens
 happy
 hard
 harder
@@ -375,7 +362,6 @@ henderson
 here
 hers
 hiccup
-hiccups
 hiding
 high
 high-profile
@@ -414,7 +400,6 @@ instinct
 integrated
 interest
 interested
-interests
 intern
 internship
 interview
@@ -423,7 +408,6 @@ investigate
 investigation
 investigative
 investment
-investments
 inviting
 involved
 irritated
@@ -432,7 +416,6 @@ jeopardize
 jeopardy
 jessica
 joke
-jokes
 jump
 jumper
 just
@@ -462,7 +445,6 @@ last
 later
 latte
 lawyer
-lawyers
 lead
 league
 lear
@@ -509,12 +491,10 @@ math
 maybe
 meal
 mean
-means
 meant
 meeting
 mention
 merger
-mergers
 mess
 metal
 micro
@@ -524,14 +504,11 @@ million
 mind
 mine
 minute
-minutes
 miss
 missing
 mistake
-mistakes
 money
 month
-months
 montroluxx
 more
 morello
@@ -553,7 +530,6 @@ next
 nice
 nick
 night
-nights
 nipple
 noises
 norma
@@ -563,7 +539,6 @@ number
 nurtured
 offense
 office
-offices
 officially
 okay
 once
@@ -572,7 +547,6 @@ only
 opening
 order
 other
-others
 outside
 outstanding
 over
@@ -583,9 +557,7 @@ paid
 panties
 pants
 paper
-papers
 paralegal
-paralegals
 parties
 partners
 party
@@ -660,7 +632,6 @@ puts
 putting
 quarter
 question
-questions
 quick
 quote
 quoting
@@ -678,7 +649,6 @@ reassured
 recommend
 recommended
 record
-records
 references
 reger
 register
@@ -690,7 +660,6 @@ relieved
 remember
 remind
 reminder
-reminds
 represented
 reputation
 request
@@ -721,7 +690,6 @@ say-so
 scared
 scene
 school
-schools
 score
 scored
 scott
@@ -738,7 +706,6 @@ seven
 several
 shakespeare
 sheet
-sheets
 shenanigans
 shit
 shithoused
@@ -755,7 +722,6 @@ shredded
 shut
 sign
 signed
-signs
 since
 single
 sink
@@ -794,7 +760,6 @@ steakhouse
 stickler
 still
 stock
-stocks
 stone
 stonewall
 stop
@@ -819,7 +784,6 @@ sweet
 swindon
 swing
 system
-systems
 table
 tainted
 take
@@ -834,13 +798,10 @@ technical
 technically
 tell
 telling
-tells
 test
-tests
 than
 thank
 thanking
-thanks
 that
 their
 them
@@ -850,10 +811,8 @@ theresa
 these
 they
 thing
-things
 think
 thinking
-thinks
 this
 those
 thought
@@ -861,7 +820,6 @@ three
 through
 tickets
 time
-times
 together
 told
 tomorrow
@@ -873,8 +831,6 @@ tour
 town
 trade
 trader
-traders
-trades
 trading
 trial
 trick
@@ -888,7 +844,6 @@ truth
 trying
 tune
 turn
-turns
 under
 understand
 unique
@@ -911,7 +866,6 @@ wanted
 water
 week
 weekend
-weeks
 welcome
 well
 went
@@ -939,7 +893,6 @@ wondering
 work
 worked
 working
-works
 world
 world-class
 worry
@@ -953,10 +906,8 @@ wrong
 yankee
 yeah
 year
-years
 yell
 yesterday
 your
-yours
 zane
 zegan
