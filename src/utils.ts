@@ -252,7 +252,7 @@ export const convert2 = (origin: string): string => {
     const e = origin.charAt(origin.length - 5);
 
     // ied
-    if (c === 'i' && !vowel.includes(d)) {
+    if (c === 'i') {
       return `${origin.substring(0, origin.length - 3)}y`;
     }
 
@@ -268,6 +268,12 @@ export const convert2 = (origin: string): string => {
     // analyzed
     if (c === 'z' && d === 'y') {
       return `${origin.substring(0, origin.length - 1)}`;
+    }
+
+    if (c === 'c') {
+      if (['r', 'n', 'a'].includes(d)) {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
     }
 
     if (c === 'd') {
@@ -315,12 +321,6 @@ export const convert2 = (origin: string): string => {
 
     if (c === 's') {
       if (['i', 'u', 'o', 'p'].includes(d)) {
-        return `${origin.substring(0, origin.length - 1)}`;
-      }
-    }
-
-    if (c === 'c') {
-      if (['r', 'n'].includes(d)) {
         return `${origin.substring(0, origin.length - 1)}`;
       }
     }
@@ -373,7 +373,7 @@ export const convert2 = (origin: string): string => {
 // console.log('charges', convert2('charges'));
 // console.log('collapsed', convert2('collapsed'));
 // console.log('collapsing', convert2('collapsing'));
-console.log('trading', convert2('trading'));
+console.log('tried', convert2('tried'));
 // console.log('feeds', convert2('feeds'));
 
 // man→men

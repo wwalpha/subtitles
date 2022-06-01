@@ -1195,7 +1195,7 @@ elude
 elyse
 email
 embed
-embrac
+embrace
 emergency
 emily
 emotion
@@ -2281,7 +2281,7 @@ misfortune
 misguid
 misinformation
 mismatch
-misplac
+misplace
 misread
 miss
 missile
@@ -2624,7 +2624,7 @@ piece
 pierce
 pilot
 pilote
-pimply-fac
+pimply-face
 pitch
 plac
 place
@@ -2962,7 +2962,6 @@ rendezvous
 repair
 repeat
 repercussion
-replac
 replace
 report
 reposition
@@ -3639,7 +3638,6 @@ toward
 towel
 tower
 town
-trac
 trace
 track
 tracker
