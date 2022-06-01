@@ -362,7 +362,6 @@ steer
 casualty
 worker
 leave
-caus
 compound
 occur
 x-ray
@@ -408,7 +407,7 @@ shak
 attack
 excus
 deny
-abus
+abuse
 code
 hundr
 staunch
@@ -459,7 +458,6 @@ transferre
 partition
 volume
 etude
-charg
 avert
 richard
 authorise
@@ -794,6 +792,7 @@ rendezvous
 travel
 inclin
 flirt
+caus
 wilderness
 radicalise
 handler
@@ -803,7 +802,7 @@ please
 interrogate
 basi
 increase
-focus
+focuse
 panick
 imagin
 cougar
@@ -925,7 +924,7 @@ yard
 step
 redirect
 bypass
-diffus
+diffuse
 tamper-proof
 disguise
 dismantl
@@ -991,7 +990,6 @@ everthing
 vector
 patch
 explod
-focuse
 decrypt
 high-rank
 official
@@ -1174,6 +1172,7 @@ nation
 enemy
 restart
 wage
+urge
 geare
 invit
 thik
@@ -1257,7 +1256,7 @@ transmit
 terrify
 even
 windowless
-accus
+accuse
 fairness
 believ
 reconstitute
