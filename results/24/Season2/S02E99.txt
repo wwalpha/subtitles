@@ -328,13 +328,13 @@ file
 upload
 nervous
 depend
-scar
+scare
 locate
 slap
 walk
 break
 unless
-spar
+spare
 threaten
 debate
 claim
@@ -348,7 +348,7 @@ respond
 team
 seiz
 blackmail
-clear
+cleare
 curious
 poison
 symptom
@@ -376,7 +376,6 @@ rumour
 recommend
 begin
 stage
-prepar
 story
 assure
 area
@@ -594,7 +593,7 @@ dissent
 hypothesi
 trouble
 solve
-shar
+share
 allocation
 service
 conversation
@@ -691,7 +690,6 @@ delet
 themselve
 self-delet
 meter
-scare
 hostile
 committ
 designate
@@ -723,7 +721,7 @@ imped
 death
 transport
 prisoner
-infrar
+infrare
 robert
 convulsion
 photograph
@@ -875,6 +873,7 @@ game
 qualification
 communicate
 empty
+clear
 attend
 distil
 backfire
@@ -1006,7 +1005,7 @@ bail
 speech
 minister
 congratulation
-squar
+square
 cypru
 transmission
 exclude
@@ -1055,7 +1054,6 @@ assassinate
 authenticate
 denial
 erroneous
-share
 escort
 revise
 doubt

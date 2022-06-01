@@ -80,6 +80,7 @@ export const convert = (origin: string): string => {
 
   if (origin.endsWith('aced')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('aped')) return `${origin.substring(0, origin.length - 1)}`;
+  if (origin.endsWith('ared')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('osed')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('yzed')) return `${origin.substring(0, origin.length - 1)}`;
