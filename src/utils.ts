@@ -12,6 +12,8 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('ccused')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('ccusing')) return `${origin.substring(0, origin.length - 3)}e`;
 
+  if (origin.endsWith('ailed')) return `${origin.substring(0, origin.length - 2)}`;
+
   if (origin.endsWith('rases')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('eating')) return `${origin.substring(0, origin.length - 3)}`;
 

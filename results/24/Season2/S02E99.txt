@@ -597,7 +597,6 @@ solve
 shar
 allocation
 service
-detaile
 conversation
 investigation
 task
@@ -867,7 +866,6 @@ mirror
 jury-rig
 office
 tick
-faile
 exceed
 horizon
 bean
