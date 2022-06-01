@@ -108,6 +108,7 @@ advisor
 convince
 suffer
 loss
+save
 upstair
 look
 issue
@@ -228,7 +229,7 @@ forgery
 process
 turn
 testify
-arriv
+arrive
 spend
 snif
 less
@@ -447,11 +448,10 @@ learn
 misunderstand
 officer
 obvious
-prov
+prove
 disturb
 thought
 benefit
-arrive
 downstair
 word
 transferre
@@ -783,7 +783,7 @@ one-sid
 locker
 simmon
 suspicious
-receiv
+receive
 position
 inch
 misplace
@@ -802,7 +802,7 @@ please
 interrogate
 basi
 increase
-focuse
+focus
 panick
 imagin
 cougar
@@ -990,6 +990,7 @@ everthing
 vector
 patch
 explod
+focuse
 decrypt
 high-rank
 official
@@ -1012,7 +1013,6 @@ cypru
 transmission
 exclud
 operative
-prove
 interrogator
 obtain
 deconstruct
@@ -1155,7 +1155,7 @@ joule
 advantage
 launch
 squadron
-achiv
+achive
 mobilise
 sense
 overwhelm
@@ -1185,7 +1185,7 @@ hoop
 dump
 provide
 duty
-remov
+remove
 become
 vis-a-vi
 lobby
@@ -1256,9 +1256,8 @@ transmit
 terrify
 even
 windowless
-accuse
+accus
 fairness
-believ
 reconstitute
 strap
 volt
