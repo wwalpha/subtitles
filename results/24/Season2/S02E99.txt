@@ -230,6 +230,7 @@ arriv
 spend
 snif
 less
+agree
 hurt
 tangl
 record
@@ -245,7 +246,7 @@ chance
 stop
 warn
 follow
-manag
+manage
 fact
 armu
 pack
@@ -253,6 +254,7 @@ shut
 upgrad
 open
 short-hand
+disagree
 radiu
 move
 carry
@@ -347,7 +349,7 @@ clear
 curious
 poison
 symptom
-haemorrhag
+haemorrhage
 lesion
 bleed
 function
@@ -388,6 +390,7 @@ realiz
 intercept
 your
 inconsistency
+hire
 finance
 daughter
 precious
@@ -431,7 +434,6 @@ myer
 approach
 schematic
 connect
-agre
 transfer
 agent
 stand
@@ -475,7 +477,7 @@ writ
 confine
 notic
 cancel
-flagge
+flag
 restrict
 topic
 demand
@@ -488,7 +490,6 @@ starv
 back
 across
 activity
-hire
 accept
 sickness
 replac
@@ -519,6 +520,7 @@ pretend
 sacrifice
 round
 cellphone
+tire
 introduc
 hint
 force
@@ -543,12 +545,12 @@ manipulation
 sort
 park
 ruthless
-manage
 kill
 murder
 fund
 bruis
-drugge
+wire
+drug
 phillip
 harris
 transit
@@ -560,7 +562,6 @@ mistake
 misfortune
 sequester
 surprise
-drug
 array
 well-route
 so-cal
@@ -573,6 +574,7 @@ collin
 collectible
 vehicle
 paper
+fire
 appoint
 yield
 raid
@@ -622,9 +624,7 @@ lock
 offer
 network
 password
-dragge
 investigator
-requir
 terrorist-relate
 statement
 apology
@@ -719,14 +719,12 @@ purpos
 gather
 fall
 conjecture
-fire
 chao
 imped
 death
 transport
 prisoner
 infrar
-logge
 robert
 convulsion
 photograph
@@ -737,7 +735,7 @@ print
 torture
 cooperate
 freelance
-retir
+retire
 collect
 belong
 talent
@@ -758,7 +756,7 @@ sheriff
 project
 consensu
 mercenary
-sabotag
+sabotage
 ramification
 deploy
 identify
@@ -766,7 +764,6 @@ spot
 plac
 admitt
 base
-wire
 agitate
 bolt
 distress
@@ -801,7 +798,6 @@ radicalise
 handler
 clothing
 forensic
-imag
 pleas
 interrogate
 basi
@@ -839,7 +835,7 @@ compel
 eyeball
 email
 orchestrate
-fare
+faree
 refer
 flight
 f-16
@@ -852,13 +848,11 @@ custom
 ball
 incom
 towel
-inde
-engag
+indeed
 uncontrol
 exception
 surround
 sub-unit
-stag
 idiot
 close
 hate
@@ -869,7 +863,7 @@ databas
 boot
 knock
 mirror
-jury-rigge
+jury-rig
 office
 tick
 faile
@@ -884,7 +878,7 @@ communicate
 empty
 attend
 distil
-backfir
+backfire
 bomber
 search
 register
@@ -894,7 +888,6 @@ scan
 station
 configuration
 tamper
-rigge
 read
 load
 player
@@ -949,7 +942,6 @@ radiation-relate
 diseas
 lane
 freighter
-flag
 unregister
 vessel
 capsiz
@@ -1004,7 +996,6 @@ supply
 rush
 refin
 collaborate
-tagge
 government
 succeed
 option
@@ -1021,7 +1012,6 @@ transmission
 exclud
 operative
 prove
-conspir
 interrogator
 obtain
 deconstruct
@@ -1074,7 +1064,7 @@ collud
 colleague
 incriminate
 bogu
-continue
+continu
 unidentify
 unconfirm
 partner
@@ -1181,6 +1171,7 @@ re-edit
 nation
 enemy
 restart
+wage
 geare
 invit
 thik
@@ -1246,7 +1237,6 @@ power
 design
 situation
 incapacitate
-agree
 stress
 undispute
 babbl
@@ -1289,7 +1279,7 @@ stream
 programmer
 hacker
 recurre
-repair
+repaire
 capture
 contract
 engineer
