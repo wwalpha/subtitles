@@ -412,7 +412,7 @@ blanket
 blast
 blaze
 blee
-bleede
+bleed
 bleeder
 blend
 bless
@@ -1280,7 +1280,7 @@ exactly
 exam
 examin
 example
-exceede
+exceed
 except
 exception
 exchange
@@ -1375,7 +1375,6 @@ favourite
 fear
 federal
 feed
-feede
 feel
 feeling
 feet
@@ -1732,7 +1731,7 @@ hopefully
 horizon
 horrible
 horse
-horse-trade
+horse-trad
 hospital
 hostage
 hostile
@@ -1783,7 +1782,7 @@ immediately
 imminent
 immunity
 impact
-impede
+imped
 implant
 implement
 implicate
@@ -1807,6 +1806,7 @@ inch
 incidence
 incident
 inclin
+includ
 include
 incom
 incompetent
@@ -2018,7 +2018,6 @@ kresge
 kristen
 lack
 ladder
-lade
 lady
 laie
 land
@@ -2098,7 +2097,6 @@ listen
 little
 live
 load
-loade
 loan
 lobbie
 local
@@ -2364,7 +2362,6 @@ necessarily
 necessary
 neck
 need
-neede
 needle
 needn
 negative
@@ -2745,7 +2742,7 @@ probably
 problem
 procedure
 procee
-proceede
+proceed
 proceeding
 process
 produce
@@ -3339,7 +3336,6 @@ specy
 spee
 speech
 speed
-speede
 spell
 spend
 spent
@@ -3647,6 +3643,7 @@ trace
 track
 tracker
 traction
+trad
 trade
 traffic
 tragic
@@ -3772,7 +3769,7 @@ upcom
 update
 upgrad
 upgrade
-uploade
+upload
 upon
 upper
 upset

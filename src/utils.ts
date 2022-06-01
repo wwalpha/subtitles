@@ -157,22 +157,228 @@ export const convert = (origin: string): string => {
   return '';
 };
 
-// console.log('kisses', convert('kisses'));
-// console.log('dishes', convert('dishes'));
-// console.log('mixes', convert('mixes'));
-// console.log('teaches', convert('teaches'));
-// console.log('goes', convert('goes'));
+const vowel = ['a', 'e', 'i', 'o', 'u'];
+const esRules1 = ['s', 'z', 'sh', 'ch', 'x'];
 
-// console.log('studies', convert('studies'));
-// console.log('lilies', convert('lilies'));
-// console.log('plays', convert('plays'));
+export const convert2 = (origin: string): string => {
+  if (origin.endsWith('morning')) return origin;
+  if (origin.endsWith('thing')) return origin;
+  if (origin.endsWith('ss')) return origin;
 
-// console.log('liked', convert('liked'));
-// console.log('stopped', convert('stopped'));
-// console.log('studied', convert('studied'));
-// console.log('played', convert('played'));
-// console.log('taking', convert('taking'));
-// console.log('running', convert('running'));
+  if (origin.endsWith('ing')) {
+    const d = origin.charAt(origin.length - 4);
+    const e = origin.charAt(origin.length - 5);
+    const f = origin.charAt(origin.length - 6);
 
-// console.log('tabs', convert('tabs'));
-console.log('accused', convert('accused'));
+    if (`${e}${d}` === 'ss' || `${e}${d}` === 'ch') {
+      return `${origin.substring(0, origin.length - 3)}`;
+    }
+
+    if (d === e) {
+      return `${origin.substring(0, origin.length - 4)}`;
+    }
+
+    if (d === 'd') {
+      if (`${f}${e}` === 'ea') {
+        return `${origin.substring(0, origin.length - 3)}`;
+      }
+    }
+
+    if (d === 't') {
+      if (vowel.includes(e) && !(e === 'i' || `${f}${e}` === 'ea')) {
+        return `${origin.substring(0, origin.length - 3)}e`;
+      }
+    }
+
+    if (d === 'y') {
+      return `${origin.substring(0, origin.length - 4)}ie`;
+    }
+
+    if (`${e}${d}` === 'el') {
+      return `${origin.substring(0, origin.length - 3)}`;
+    }
+
+    if (d === 'g') {
+      if (['n', 'r'].includes(e)) {
+        return `${origin.substring(0, origin.length - 3)}e`;
+      }
+    }
+
+    if (d === 's') {
+      return `${origin.substring(0, origin.length - 3)}e`;
+    }
+
+    return `${origin.substring(0, origin.length - 3)}`;
+  }
+
+  if (origin.endsWith('es')) {
+    const c = origin.charAt(origin.length - 3);
+    const d = origin.charAt(origin.length - 4);
+
+    if (esRules1.includes(c) || esRules1.includes(`${d}${c}`)) {
+      return `${origin.substring(0, origin.length - 2)}`;
+    }
+
+    if (c === 'o' && !vowel.includes(d)) {
+      return `${origin.substring(0, origin.length - 2)}`;
+    }
+
+    if (c === 'i' && !vowel.includes(d)) {
+      return `${origin.substring(0, origin.length - 3)}y`;
+    }
+
+    if (c === 'v') {
+      // if (!vowel.includes(d)) {
+      //   return `${origin.substring(0, origin.length - 3)}fe`;
+      // }
+    }
+
+    if (c === 'g') {
+      // if (d === 'n') {
+      //   return `${origin.substring(0, origin.length - 1)}`;
+      // }
+    }
+
+    return `${origin.substring(0, origin.length - 1)}`;
+  }
+
+  if (origin.endsWith('ed')) {
+    const c = origin.charAt(origin.length - 3);
+    const d = origin.charAt(origin.length - 4);
+    const e = origin.charAt(origin.length - 5);
+
+    // ied
+    if (c === 'i' && !vowel.includes(d)) {
+      return `${origin.substring(0, origin.length - 3)}y`;
+    }
+
+    if (`${d}${c}` === 'ss' || `${d}${c}` === 'ch') {
+      return `${origin.substring(0, origin.length - 2)}`;
+    }
+
+    // hopped
+    if (c === d && vowel.includes(e)) {
+      return `${origin.substring(0, origin.length - 3)}`;
+    }
+
+    // analyzed
+    if (c === 'z' && d === 'y') {
+      return `${origin.substring(0, origin.length - 1)}`;
+    }
+
+    if (c === 'd') {
+      if (['u', 'o'].includes(d)) {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
+    }
+
+    if (c === 'g') {
+      if (['n', 'r'].includes(d)) {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
+    }
+
+    if (c === 'l') {
+      // detailed
+      if (d === 'i' && !vowel.includes(e)) {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
+    }
+
+    if (c === 'r') {
+      // informed
+      if (d === 'e') {
+        return `${origin.substring(0, origin.length - 2)}`;
+      }
+
+      // injured
+      if (d === 'u') {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
+    }
+
+    if (c === 't') {
+      if (['a', 'i'].includes(d) && `${e}${d}` !== 'ai') {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
+
+      if (['n', 'u'].includes(d)) {
+        if (!vowel.includes(e)) {
+          return `${origin.substring(0, origin.length - 1)}`;
+        }
+      }
+    }
+
+    if (c === 's') {
+      if (['i', 'u', 'o', 'p'].includes(d)) {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
+    }
+
+    if (c === 'c') {
+      if (['r', 'n'].includes(d)) {
+        return `${origin.substring(0, origin.length - 1)}`;
+      }
+    }
+
+    if (vowel.includes(c)) {
+      return `${origin.substring(0, origin.length - 1)}`;
+    }
+
+    return `${origin.substring(0, origin.length - 2)}`;
+  }
+
+  if (origin.endsWith('s')) {
+    const b = origin.charAt(origin.length - 2);
+
+    if (vowel.includes(b)) {
+      return origin;
+    }
+
+    return `${origin.substring(0, origin.length - 1)}`;
+  }
+
+  return origin;
+};
+
+// console.log('discovered', convert2('discovered'));
+// console.log('triple-sourced', convert2('triple-sourced'));
+// console.log('injured', convert2('injured'));
+// console.log('analyzed', convert2('analyzed'));
+// console.log('operating', convert2('operating'));
+// console.log('operated', convert2('operated'));
+// console.log('leveled', convert2('leveled'));
+// console.log('united', convert2('united'));
+// console.log('recognised', convert2('recognised'));
+// console.log('awaiting', convert2('awaiting'));
+// console.log('changed', convert2('changed'));
+// console.log('proofing', convert2('proofing'));
+// console.log('seating', convert2('seating'));
+// console.log('rerouted', convert2('rerouted'));
+// console.log('resulted', convert2('resulted'));
+// console.log('wanted', convert2('wanted'));
+// console.log('listening', convert2('listening'));
+// console.log('listened', convert2('listened'));
+// console.log('compiled', convert2('compiled'));
+// console.log('issued', convert2('issued'));
+// console.log('convinced', convert2('convinced'));
+// console.log('waited', convert2('waited'));
+// console.log('belonging', convert2('belonging'));
+// console.log('challenging', convert2('challenged'));
+// console.log('changing', convert2('changing'));
+// console.log('charges', convert2('charges'));
+// console.log('collapsed', convert2('collapsed'));
+// console.log('collapsing', convert2('collapsing'));
+console.log('feeding', convert2('feeding'));
+console.log('feeds', convert2('feeds'));
+
+// man→men
+// woman→women
+// child→children
+// mouse→mice
+// tooth→teeth
+// knife→knives
+// life→lives
+// foot→feet
+// person→people
+// a e i o u
