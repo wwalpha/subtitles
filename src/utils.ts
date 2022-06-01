@@ -7,7 +7,10 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('called')) return `${origin.substring(0, origin.length - 2)}`;
   if (origin.endsWith('thing')) return origin;
 
-  if (origin.endsWith('cused')) return `${origin.substring(0, origin.length - 2)}`;
+  if (origin.endsWith('ocused')) return `${origin.substring(0, origin.length - 2)}`;
+  if (origin.endsWith('ocusing')) return `${origin.substring(0, origin.length - 3)}`;
+  if (origin.endsWith('ccused')) return `${origin.substring(0, origin.length - 1)}`;
+  if (origin.endsWith('ccusing')) return `${origin.substring(0, origin.length - 3)}e`;
 
   if (origin.endsWith('rases')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('eating')) return `${origin.substring(0, origin.length - 3)}`;
@@ -167,4 +170,4 @@ export const convert = (origin: string): string => {
 // console.log('running', convert('running'));
 
 // console.log('tabs', convert('tabs'));
-console.log('charges', convert('charges'));
+console.log('accused', convert('accused'));

@@ -990,7 +990,6 @@ everthing
 vector
 patch
 explod
-focuse
 decrypt
 high-rank
 official
@@ -1256,7 +1255,7 @@ transmit
 terrify
 even
 windowless
-accus
+accuse
 fairness
 reconstitute
 strap
