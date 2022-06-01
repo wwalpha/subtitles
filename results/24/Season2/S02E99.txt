@@ -371,7 +371,7 @@ fracture
 finger
 treate
 limit
-includ
+include
 rumour
 recommend
 begin
@@ -1010,7 +1010,7 @@ congratulation
 squar
 cypru
 transmission
-exclud
+exclude
 operative
 interrogator
 obtain
@@ -1039,7 +1039,7 @@ telecommunication
 capability
 express
 miracle
-elud
+elude
 difference
 dedicate
 grigg
@@ -1060,7 +1060,7 @@ share
 escort
 revise
 doubt
-collud
+collude
 colleague
 incriminate
 bogu
@@ -1292,7 +1292,7 @@ bombing
 disallow
 expend
 success
-conclud
+conclude
 untreate
 unforge
 ransack
@@ -1336,7 +1336,6 @@ phrase
 gross
 tape
 restrain
-include
 squeez
 folk
 situate

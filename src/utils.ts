@@ -32,17 +32,20 @@ export const convert = (origin: string): string => {
 
   if (origin.endsWith('rred')) return `${origin.substring(0, origin.length - 3)}`;
 
-  if (origin.endsWith('rging')) return `${origin.substring(0, origin.length - 3)}e`;
-  if (origin.endsWith('rged')) return `${origin.substring(0, origin.length - 1)}`;
-
-  if (origin.endsWith('ating')) return `${origin.substring(0, origin.length - 3)}e`;
-  if (origin.endsWith('ated')) return `${origin.substring(0, origin.length - 1)}`;
+  if (origin.endsWith('uding')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('uded')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('aging')) return `${origin.substring(0, origin.length - 3)}e`;
   if (origin.endsWith('aged')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('eging')) return `${origin.substring(0, origin.length - 3)}e`;
   if (origin.endsWith('eged')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('rging')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('rged')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('ating')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('ated')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('using')) return `${origin.substring(0, origin.length - 3)}e`;
   if (origin.endsWith('used')) return `${origin.substring(0, origin.length - 1)}`;
