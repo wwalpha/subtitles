@@ -651,6 +651,7 @@ clean
 clean-energy
 clear
 clearance
+cleare
 clearly
 click
 client
@@ -767,7 +768,6 @@ conform
 confusion
 congratulation
 congress
-conjectur
 conjecture
 connect
 connection
@@ -888,7 +888,6 @@ crisis
 critical
 criticism
 cross
-cross-referenc
 cross-reference
 crowd
 crucial
@@ -1155,6 +1154,7 @@ dump
 dumpster
 dunlop
 duration
+dure
 duty
 e-mail
 each
@@ -1445,7 +1445,6 @@ food
 foot
 foote
 forbid
-forc
 force
 forearm
 foreign
@@ -1485,7 +1484,6 @@ fraud
 freak
 free
 freedom
-freelanc
 freelance
 freeway
 freighter
@@ -1524,7 +1522,7 @@ gate
 gather
 gauze
 gave
-gear
+geare
 gendler
 general
 generate
@@ -1664,6 +1662,7 @@ heal
 health
 hear
 heard
+heare
 heart
 heat
 heather
@@ -1840,7 +1839,7 @@ inexcusable
 influence
 inform
 information
-infrar
+infrare
 infrared
 infrastructure
 inhabite
@@ -2357,6 +2356,7 @@ nature
 nausea
 navy
 near
+neare
 nearest
 nearly
 necessarily
@@ -2626,7 +2626,6 @@ pilot
 pilote
 pimply-face
 pitch
-plac
 place
 placement
 plaie
@@ -2703,7 +2702,6 @@ preliminary
 premature
 premis
 prep
-prepar
 preparation
 prepare
 prescott
@@ -3114,6 +3112,7 @@ save
 scan
 scanner
 scar
+scare
 scenario
 scenarios
 scene
@@ -3190,7 +3189,6 @@ shall
 shame
 shape
 shapiro
-shar
 share
 sheet
 shelf
@@ -3322,7 +3320,6 @@ southern
 southwest
 soviet
 space
-spar
 spare
 speak
 speaker
@@ -3356,7 +3353,6 @@ spread
 spring
 squad
 squadron
-squar
 square
 squeez
 stab
@@ -3627,7 +3623,6 @@ topic
 topo
 tore
 torn
-tortur
 torture
 total
 totally
@@ -3869,6 +3864,7 @@ weakness
 weapon
 weapons-grade
 wear
+weare
 weather
 wednesday
 week

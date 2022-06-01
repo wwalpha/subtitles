@@ -178,6 +178,12 @@ export const convert2 = (origin: string): string => {
       return `${origin.substring(0, origin.length - 4)}`;
     }
 
+    if (d === 'c') {
+      if (['n', 'a', 'r'].includes(e)) {
+        return `${origin.substring(0, origin.length - 3)}e`;
+      }
+    }
+
     if (d === 'd') {
       if (['ea', 'oa'].includes(`${f}${e}`)) {
         return `${origin.substring(0, origin.length - 3)}`;
@@ -204,6 +210,18 @@ export const convert2 = (origin: string): string => {
 
     if (d === 'g') {
       if (['n', 'r'].includes(e)) {
+        return `${origin.substring(0, origin.length - 3)}e`;
+      }
+    }
+
+    if (d === 'r') {
+      // informed
+      if (['e'].includes(e)) {
+        return `${origin.substring(0, origin.length - 3)}`;
+      }
+
+      // injured
+      if (['u', 'a'].includes(e)) {
         return `${origin.substring(0, origin.length - 3)}e`;
       }
     }
@@ -271,7 +289,7 @@ export const convert2 = (origin: string): string => {
     }
 
     if (c === 'c') {
-      if (['r', 'n', 'a'].includes(d)) {
+      if (['n', 'a', 'r'].includes(d)) {
         return `${origin.substring(0, origin.length - 1)}`;
       }
     }
@@ -297,12 +315,12 @@ export const convert2 = (origin: string): string => {
 
     if (c === 'r') {
       // informed
-      if (d === 'e') {
+      if (['e'].includes(d)) {
         return `${origin.substring(0, origin.length - 2)}`;
       }
 
       // injured
-      if (d === 'u') {
+      if (['u', 'a'].includes(d)) {
         return `${origin.substring(0, origin.length - 1)}`;
       }
     }
@@ -373,8 +391,8 @@ export const convert2 = (origin: string): string => {
 // console.log('charges', convert2('charges'));
 // console.log('collapsed', convert2('collapsed'));
 // console.log('collapsing', convert2('collapsing'));
-console.log('tried', convert2('tried'));
-// console.log('feeds', convert2('feeds'));
+console.log('prepared', convert2('prepared'));
+console.log('preparing', convert2('preparing'));
 
 // man→men
 // woman→women
