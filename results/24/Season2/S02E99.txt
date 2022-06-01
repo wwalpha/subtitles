@@ -1731,7 +1731,7 @@ hopefully
 horizon
 horrible
 horse
-horse-trad
+horse-trade
 hospital
 hostage
 hostile
@@ -2018,6 +2018,7 @@ kresge
 kristen
 lack
 ladder
+lade
 lady
 laie
 land
@@ -3643,7 +3644,6 @@ trace
 track
 tracker
 traction
-trad
 trade
 traffic
 tragic

@@ -179,8 +179,12 @@ export const convert2 = (origin: string): string => {
     }
 
     if (d === 'd') {
-      if (`${f}${e}` === 'ea') {
+      if (['ea', 'oa'].includes(`${f}${e}`)) {
         return `${origin.substring(0, origin.length - 3)}`;
+      }
+
+      if (e === 'a') {
+        return `${origin.substring(0, origin.length - 3)}e`;
       }
     }
 
@@ -369,8 +373,8 @@ export const convert2 = (origin: string): string => {
 // console.log('charges', convert2('charges'));
 // console.log('collapsed', convert2('collapsed'));
 // console.log('collapsing', convert2('collapsing'));
-console.log('feeding', convert2('feeding'));
-console.log('feeds', convert2('feeds'));
+console.log('trading', convert2('trading'));
+// console.log('feeds', convert2('feeds'));
 
 // man→men
 // woman→women
