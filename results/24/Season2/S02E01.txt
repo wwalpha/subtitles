@@ -31,7 +31,7 @@ serious
 inform
 representative
 branch
-triple-sourc
+triple-source
 detail
 angeles
 rash
@@ -65,7 +65,7 @@ method
 arrest
 member
 camp
-operat
+operate
 unimped
 thing
 plan
@@ -104,13 +104,13 @@ need
 avoid
 require
 advisor
-convinc
+convince
 suffer
 loss
 upstair
 look
-issu
-filtere
+issue
+filter
 anything
 come
 redundancy
@@ -127,7 +127,7 @@ guess
 previous
 cover
 thousand
-debri
+debris
 time
 configure
 detonate
@@ -151,7 +151,7 @@ charge
 convict
 establish
 meeting
-alleg
+allege
 track
 address
 witness
@@ -163,7 +163,7 @@ date
 jealous
 brother
 marry
-damag
+damage
 good
 button
 wrap
@@ -171,7 +171,7 @@ seat
 concern
 show
 nothing
-chang
+change
 dealing
 proof
 organisation
