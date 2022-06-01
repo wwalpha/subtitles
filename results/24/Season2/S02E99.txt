@@ -43,6 +43,7 @@ result
 fatality
 injure
 discover
+kill
 lyon
 grab
 everything
@@ -492,7 +493,7 @@ across
 activity
 accept
 sickness
-replac
+replace
 schedul
 moment
 crash
@@ -545,7 +546,6 @@ manipulation
 sort
 park
 ruthless
-kill
 murder
 fund
 bruis
@@ -744,7 +744,7 @@ investment
 abduct
 manager
 director
-embrac
+embrace
 engage
 mosque
 debrief
@@ -787,7 +787,7 @@ suspicious
 receiv
 position
 inch
-misplac
+misplace
 loyalty
 rendezvous
 travel
@@ -831,6 +831,7 @@ letter
 side
 plate
 civilian
+face
 compel
 eyeball
 email
@@ -917,6 +918,7 @@ tower
 outbuild
 isolate
 exonerate
+fill
 blanket
 yard
 step
@@ -1288,7 +1290,6 @@ reflect
 recruit
 revamp
 decision-mak
-trac
 unguard
 bombing
 disallow
@@ -1321,7 +1322,7 @@ announce
 price
 acquire
 vaporise
-pimply-fac
+pimply-face
 legality
 occupy
 outgo
