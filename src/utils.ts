@@ -169,8 +169,10 @@ export const convert2 = (origin: string): string => {
     const d = origin.charAt(origin.length - 4);
     const e = origin.charAt(origin.length - 5);
     const f = origin.charAt(origin.length - 6);
+    const de = `${e}${d}`;
+    const ef = `${f}${e}`;
 
-    if (`${e}${d}` === 'ss' || `${e}${d}` === 'ch') {
+    if (de === 'ss' || de === 'ch') {
       return `${origin.substring(0, origin.length - 3)}`;
     }
 
@@ -204,7 +206,7 @@ export const convert2 = (origin: string): string => {
       return `${origin.substring(0, origin.length - 4)}ie`;
     }
 
-    if (`${e}${d}` === 'el') {
+    if (de === 'el') {
       return `${origin.substring(0, origin.length - 3)}`;
     }
 
@@ -217,6 +219,10 @@ export const convert2 = (origin: string): string => {
     if (d === 'r') {
       // informed
       if (['e'].includes(e)) {
+        return `${origin.substring(0, origin.length - 3)}`;
+      }
+
+      if (['ea'].includes(ef)) {
         return `${origin.substring(0, origin.length - 3)}`;
       }
 
@@ -391,8 +397,12 @@ export const convert2 = (origin: string): string => {
 // console.log('charges', convert2('charges'));
 // console.log('collapsed', convert2('collapsed'));
 // console.log('collapsing', convert2('collapsing'));
-console.log('prepared', convert2('prepared'));
+console.log('gearing', convert2('gearing'));
+console.log('hearing', convert2('hearing'));
+console.log('nearing', convert2('nearing'));
+console.log('scaring', convert2('scaring'));
 console.log('preparing', convert2('preparing'));
+console.log('prepared', convert2('prepared'));
 
 // man→men
 // woman→women

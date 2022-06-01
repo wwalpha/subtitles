@@ -1522,7 +1522,7 @@ gate
 gather
 gauze
 gave
-geare
+gear
 gendler
 general
 generate
@@ -1662,7 +1662,6 @@ heal
 health
 hear
 heard
-heare
 heart
 heat
 heather
@@ -2356,7 +2355,6 @@ nature
 nausea
 navy
 near
-neare
 nearest
 nearly
 necessarily
@@ -3864,7 +3862,6 @@ weakness
 weapon
 weapons-grade
 wear
-weare
 weather
 wednesday
 week
