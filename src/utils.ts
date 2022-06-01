@@ -23,6 +23,8 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('rning')) return `${origin.substring(0, origin.length - 3)}`;
 
   if (origin.endsWith('pping')) return `${origin.substring(0, origin.length - 4)}`;
+  if (origin.endsWith('pped')) return `${origin.substring(0, origin.length - 3)}`;
+
   if (origin.endsWith('tting')) return `${origin.substring(0, origin.length - 4)}`;
   if (origin.endsWith('ssing')) return `${origin.substring(0, origin.length - 3)}`;
   if (origin.endsWith('lling')) return `${origin.substring(0, origin.length - 4)}`;
@@ -56,13 +58,8 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('ved')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('ping')) return `${origin.substring(0, origin.length - 3)}e`;
-  // if (origin.endsWith('ped')) return `${origin.substring(0, origin.length - 1)}`;
-
   if (origin.endsWith('sing')) return `${origin.substring(0, origin.length - 3)}e`;
-  // if (origin.endsWith('sed')) return `${origin.substring(0, origin.length - 1)}`;
-
   if (origin.endsWith('ring')) return `${origin.substring(0, origin.length - 3)}e`;
-  // if (origin.endsWith('red')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('iked')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('iled')) return `${origin.substring(0, origin.length - 1)}`;
@@ -82,6 +79,7 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('reed')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('aced')) return `${origin.substring(0, origin.length - 1)}`;
+  if (origin.endsWith('aped')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('osed')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('yzed')) return `${origin.substring(0, origin.length - 1)}`;
@@ -132,6 +130,7 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('zed')) return `${origin.substring(0, origin.length - 2)}`;
   if (origin.endsWith('ked')) return `${origin.substring(0, origin.length - 2)}`;
   if (origin.endsWith('led')) return `${origin.substring(0, origin.length - 2)}`;
+  if (origin.endsWith('ped')) return `${origin.substring(0, origin.length - 2)}`;
 
   if (origin.endsWith('ed')) {
     const a = origin.substring(origin.length - 4, origin.length - 3);
