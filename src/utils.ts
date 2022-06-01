@@ -5,18 +5,16 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('agree')) return origin;
   if (origin.endsWith('deed')) return origin;
   if (origin.endsWith('called')) return `${origin.substring(0, origin.length - 2)}`;
+  if (origin.endsWith('thing')) return origin;
+
+  if (origin.endsWith('cused')) return `${origin.substring(0, origin.length - 2)}`;
 
   if (origin.endsWith('rases')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('eating')) return `${origin.substring(0, origin.length - 3)}`;
 
-  if (origin.endsWith('thing')) return origin;
-  if (origin.endsWith('ating')) return `${origin.substring(0, origin.length - 3)}e`;
-  if (origin.endsWith('aging')) return `${origin.substring(0, origin.length - 3)}e`;
-
   if (origin.endsWith('ering')) return `${origin.substring(0, origin.length - 3)}`;
   if (origin.endsWith('ening')) return `${origin.substring(0, origin.length - 3)}`;
 
-  if (origin.endsWith('using')) return `${origin.substring(0, origin.length - 3)}e`;
   if (origin.endsWith('rning')) return `${origin.substring(0, origin.length - 3)}`;
 
   if (origin.endsWith('pping')) return `${origin.substring(0, origin.length - 4)}`;
@@ -28,6 +26,35 @@ export const convert = (origin: string): string => {
   if (origin.endsWith('alled')) return `${origin.substring(0, origin.length - 3)}`;
   if (origin.endsWith('olled')) return `${origin.substring(0, origin.length - 3)}`;
   if (origin.endsWith('elled')) return `${origin.substring(0, origin.length - 3)}`;
+
+  if (origin.endsWith('rred')) return `${origin.substring(0, origin.length - 3)}`;
+
+  if (origin.endsWith('rging')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('rged')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('ating')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('ated')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('aging')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('aged')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('eging')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('eged')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('using')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('used')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('ving')) return `${origin.substring(0, origin.length - 3)}e`;
+  if (origin.endsWith('ved')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('ping')) return `${origin.substring(0, origin.length - 3)}e`;
+  // if (origin.endsWith('ped')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('sing')) return `${origin.substring(0, origin.length - 3)}e`;
+  // if (origin.endsWith('sed')) return `${origin.substring(0, origin.length - 1)}`;
+
+  if (origin.endsWith('ring')) return `${origin.substring(0, origin.length - 3)}e`;
+  // if (origin.endsWith('red')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('iked')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('iled')) return `${origin.substring(0, origin.length - 1)}`;
@@ -41,38 +68,31 @@ export const convert = (origin: string): string => {
 
   if (origin.endsWith('uted')) return `${origin.substring(0, origin.length - 1)}`;
 
-  if (origin.endsWith('rred')) return `${origin.substring(0, origin.length - 3)}`;
   if (origin.endsWith('ured')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('ired')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('reed')) return `${origin.substring(0, origin.length - 1)}`;
 
-  if (origin.endsWith('ated')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('aced')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('osed')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('yzed')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('gged')) return `${origin.substring(0, origin.length - 3)}`;
-  if (origin.endsWith('rged')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('eged')) return `${origin.substring(0, origin.length - 1)}`;
-  if (origin.endsWith('aged')) return `${origin.substring(0, origin.length - 1)}`;
+
   if (origin.endsWith('nged')) return `${origin.substring(0, origin.length - 1)}`;
   if (origin.endsWith('dged')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('sued')) return `${origin.substring(0, origin.length - 1)}`;
 
-  if (origin.endsWith('rved')) return `${origin.substring(0, origin.length - 1)}`;
-  if (origin.endsWith('lved')) return `${origin.substring(0, origin.length - 1)}`;
+  // if (origin.endsWith('rved')) return `${origin.substring(0, origin.length - 1)}`;
+  // if (origin.endsWith('lved')) return `${origin.substring(0, origin.length - 1)}`;
 
   if (origin.endsWith('shes')) return `${origin.substring(0, origin.length - 4)}sh`;
   if (origin.endsWith('ches')) return `${origin.substring(0, origin.length - 4)}ch`;
   if (origin.endsWith('rges')) return `${origin.substring(0, origin.length - 1)}`;
 
-  if (origin.endsWith('ving')) return `${origin.substring(0, origin.length - 3)}e`;
-  if (origin.endsWith('ping')) return `${origin.substring(0, origin.length - 3)}e`;
-  if (origin.endsWith('sing')) return `${origin.substring(0, origin.length - 3)}e`;
-  if (origin.endsWith('ring')) return `${origin.substring(0, origin.length - 3)}e`;
   if (origin.endsWith('xing')) return `${origin.substring(0, origin.length - 3)}`;
 
   if (origin.endsWith('king') || origin.endsWith('ting')) {
