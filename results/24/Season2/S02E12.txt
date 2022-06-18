@@ -132,7 +132,7 @@ million
 people
 bomb
 thank
-inform
+informe
 more
 honest
 than
@@ -158,6 +158,7 @@ tooth
 assume
 life
 same
+come
 assemble
 base
 ladder
@@ -297,6 +298,7 @@ else
 knew
 interrogate
 speak
+inform
 minute-by-minute
 basis
 nothing
@@ -531,7 +533,6 @@ mean
 screw
 cross-reference
 database
-come
 together
 matter
 either
@@ -647,7 +648,7 @@ anywhere
 connect
 exactly
 conspir
-confirm
+confirme
 david
 possibly
 hell

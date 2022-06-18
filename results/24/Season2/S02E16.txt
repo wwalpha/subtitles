@@ -790,7 +790,7 @@ commercial
 aircraft
 weather
 satellite
-forthcom
+forthcome
 unconfirm
 source
 blast

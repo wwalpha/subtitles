@@ -402,7 +402,7 @@ mustang
 lawyer
 narrow
 headway
-assum
+assume
 could
 moment
 sanguine
@@ -566,7 +566,7 @@ itself
 even
 though
 professional
-forthcom
+forthcome
 public
 politician
 favour

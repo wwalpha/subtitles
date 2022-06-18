@@ -687,6 +687,7 @@ cross
 negative
 confirm
 given
+confirme
 autopilot
 lock
 move
@@ -771,7 +772,7 @@ retaliation
 after
 joint
 chief
-assum
+assume
 group
 wave
 appear

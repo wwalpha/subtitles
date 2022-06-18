@@ -139,7 +139,7 @@ hard
 battle
 require
 enemy
-overwhelm
+overwhelme
 lose
 wait
 country
@@ -406,7 +406,6 @@ software
 busy
 again
 gear
-assum
 might
 feel
 differently

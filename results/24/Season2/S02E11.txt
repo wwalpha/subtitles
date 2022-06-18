@@ -177,7 +177,7 @@ guess
 deputy
 trie
 shot
-claim
+claime
 jurisdiction
 murder
 charge
@@ -297,7 +297,6 @@ first
 phone
 lose
 surprise
-assum
 even
 weak
 hunch

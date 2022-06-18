@@ -54,6 +54,7 @@ survivor
 doesn
 search
 rescue
+come
 here
 drop
 jack
@@ -66,7 +67,6 @@ murder
 bauer
 someone
 suppose
-come
 pick
 captain
 their

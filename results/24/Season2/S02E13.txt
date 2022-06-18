@@ -36,7 +36,7 @@ city
 meete
 change
 with
-confirm
+confirme
 that
 roger
 stanton
@@ -199,7 +199,7 @@ dark
 three
 hour
 accept
-incom
+income
 communication
 till
 were
