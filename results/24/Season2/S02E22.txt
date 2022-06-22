@@ -126,7 +126,7 @@ picture
 taken
 minute
 then
-procee
+proceed
 plan
 code
 much

@@ -225,7 +225,7 @@ investigation
 even
 sure
 already
-procee
+proceed
 accordingly
 report
 finding
