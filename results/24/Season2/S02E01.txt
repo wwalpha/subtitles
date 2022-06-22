@@ -308,7 +308,7 @@ account
 three
 camp
 operate
-unimped
+unimpeded
 country
 thing
 plan

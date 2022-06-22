@@ -2268,7 +2268,6 @@ minor
 minority
 minute
 minute-by-minute
-minutei
 miracle
 mirage
 mirror

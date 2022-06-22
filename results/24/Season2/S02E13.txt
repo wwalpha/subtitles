@@ -163,7 +163,7 @@ wave
 terrorist
 cell
 operate
-unimped
+unimpeded
 nuclear
 chance
 ever
