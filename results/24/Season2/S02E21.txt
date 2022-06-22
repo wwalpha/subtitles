@@ -491,7 +491,7 @@ symbol
 lead
 expose
 damm
-damag
+damage
 badly
 microprocessor
 gone

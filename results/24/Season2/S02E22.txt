@@ -85,7 +85,7 @@ chip
 were
 destroy
 when
-damag
+damage
 michelle
 trace
 sequence

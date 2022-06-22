@@ -482,7 +482,7 @@ implicate
 palmer
 heart
 interrogate
-damag
+damage
 doctor
 another
 choice
