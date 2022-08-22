@@ -177,7 +177,7 @@ guess
 deputy
 trie
 shot
-claime
+claim
 jurisdiction
 murder
 charge

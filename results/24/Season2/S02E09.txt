@@ -295,7 +295,6 @@ move
 five
 feet
 both
-claime
 claim
 rather
 stand
