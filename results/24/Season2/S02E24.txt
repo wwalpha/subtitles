@@ -504,7 +504,7 @@ instruct
 secret
 service
 resume
-serv
+serve
 unite
 state
 tender
@@ -559,7 +559,7 @@ deserve
 assurance
 course
 appoint
-reliev
+relieve
 post
 credit
 great

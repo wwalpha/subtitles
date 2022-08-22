@@ -646,7 +646,7 @@ alway
 barbara
 record
 seem
-driv
+drive
 sense
 white
 bread
@@ -677,7 +677,6 @@ important
 anymore
 embrace
 each
-leav
 softly
 mostly
 arabic

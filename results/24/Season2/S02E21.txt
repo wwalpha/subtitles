@@ -437,13 +437,13 @@ rumor
 west
 coast
 possibly
-involv
+involve
 naturally
 kept
 next
 wrap
 exclusive
-leav
+leave
 build
 suddenly
 grab
@@ -735,7 +735,6 @@ canyon
 boulevard
 north
 hollywood
-leave
 officer
 father
 careful

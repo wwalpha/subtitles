@@ -319,7 +319,7 @@ one-time
 offer
 expire
 worry
-leav
+leave
 second
 central
 book

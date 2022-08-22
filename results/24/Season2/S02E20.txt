@@ -262,7 +262,7 @@ stake
 wallet
 couple
 hundr
-driv
+drive
 something
 mine
 anyway

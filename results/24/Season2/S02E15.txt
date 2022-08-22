@@ -190,7 +190,7 @@ nice
 over
 back
 keep
-driv
+drive
 bitch
 will
 decision
@@ -613,7 +613,6 @@ matter
 alone
 chance
 decrypt
-drive
 record
 conversation
 took
@@ -721,7 +720,7 @@ together
 forgive
 yourself
 wife
-serv
+serve
 absolutely
 maintain
 airspee

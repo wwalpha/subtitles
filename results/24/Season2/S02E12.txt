@@ -359,6 +359,7 @@ first
 scare
 panick
 through
+move
 position
 wast
 woke
@@ -441,7 +442,7 @@ because
 video
 tape
 seen
-leav
+leave
 probably
 escape
 hurt
@@ -640,7 +641,6 @@ proceed
 affirmative
 older
 successful
-move
 younger
 copy
 longer

@@ -272,7 +272,7 @@ range
 block
 huffman
 encode
-leav
+leave
 seen
 everywhere
 suppose
@@ -466,7 +466,6 @@ distasteful
 prevent
 plane
 attack
-leave
 stab
 careful
 wound

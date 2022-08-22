@@ -356,6 +356,7 @@ friendly
 send
 stationary
 except
+rove
 much
 longer
 anonymous
@@ -487,6 +488,7 @@ smoke
 place
 draw
 pick
+move
 front
 seat
 wound
@@ -541,6 +543,7 @@ dodge
 LAPD
 automatic-weapon
 studio
+arrive
 military-spec
 weapon
 address

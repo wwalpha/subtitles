@@ -659,7 +659,6 @@ gone
 medic
 entrance
 drop
-leav
 aunt
 carol
 damn

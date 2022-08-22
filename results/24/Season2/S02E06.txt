@@ -159,6 +159,7 @@ military
 personnel
 wait
 call
+move
 specifically
 request
 check
@@ -278,7 +279,6 @@ wast
 look
 signature
 make
-move
 believe
 credible
 wouldn
@@ -323,7 +323,6 @@ thank
 latest
 update
 leave
-leav
 sister
 stay
 angry
@@ -555,6 +554,7 @@ kate
 house
 beautiful
 must
+live
 hold
 small
 problem
