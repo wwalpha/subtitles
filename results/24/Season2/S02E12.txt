@@ -276,7 +276,7 @@ loan
 diego
 expert
 computer
-imag
+image
 anyone
 mason
 randy
@@ -404,7 +404,6 @@ aggressor
 continue
 debate
 fulani
-image
 monitor
 misuse
 religion

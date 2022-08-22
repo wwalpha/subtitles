@@ -23,6 +23,7 @@ live
 acceptable
 risk
 alternative
+wage
 against
 three
 innocent

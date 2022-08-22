@@ -221,7 +221,7 @@ start
 fall
 manifest
 gastrointestinal
-haemorrhag
+haemorrhage
 skin
 lesion
 bleed

@@ -550,7 +550,7 @@ hands-on
 lack
 better
 term
-manag
+manage
 event
 caught
 doubt
