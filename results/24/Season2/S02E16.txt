@@ -157,7 +157,7 @@ except
 exclude
 investigation
 since
-arriv
+arrive
 look
 permit
 operative

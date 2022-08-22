@@ -152,7 +152,7 @@ like
 another
 humvee
 just
-arriv
+arrive
 bitch
 surround
 gotta
@@ -299,7 +299,7 @@ workstation
 unusual
 night
 before
-receiv
+receive
 wouldn
 lock
 onto
@@ -543,7 +543,6 @@ dodge
 LAPD
 automatic-weapon
 studio
-arrive
 military-spec
 weapon
 address

@@ -565,7 +565,7 @@ eventually
 truth
 briefly
 possible
-arriv
+arrive
 around
 noon
 assistant
@@ -671,7 +671,7 @@ future
 certain
 ground
 excuse
-receiv
+receive
 urgent
 apparently
 claim

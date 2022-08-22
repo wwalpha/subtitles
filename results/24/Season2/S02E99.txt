@@ -46,7 +46,7 @@ accurately
 accusation
 accuse
 achievement
-achiv
+achive
 acoustical
 acquir
 across
@@ -222,7 +222,6 @@ arraie
 arrange
 arrangement
 arrest
-arriv
 arrive
 arroyo
 artery
@@ -2871,7 +2870,6 @@ reassure
 rebuild
 recal
 recall
-receiv
 receivable
 receive
 recent

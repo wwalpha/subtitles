@@ -465,7 +465,7 @@ expect
 family
 cousin
 sanjar
-arriv
+arrive
 detroit
 meet
 hotel

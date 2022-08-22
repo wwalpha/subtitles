@@ -391,7 +391,7 @@ evacuation
 personnel
 custody
 after
-arriv
+arrive
 chaos
 agency
 report
@@ -680,6 +680,7 @@ each
 softly
 mostly
 arabic
+live
 saudi
 arabia
 younger

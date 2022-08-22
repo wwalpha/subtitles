@@ -310,7 +310,7 @@ much
 worse
 simmon
 roger
-receiv
+receive
 resist
 interrogation
 increase

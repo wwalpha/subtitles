@@ -223,7 +223,7 @@ transport
 assign
 each
 pick
-receiv
+receive
 confirmation
 oregon
 indee
