@@ -1211,7 +1211,6 @@ enemy
 energy
 enforce
 enforcement
-engag
 engage
 engagement
 engineer
@@ -1611,7 +1610,7 @@ hack
 hacker
 hacksaw
 hadn
-haemorrhag
+haemorrhage
 hair
 haircut
 half
@@ -1766,7 +1765,6 @@ ignore
 illegal
 illegally
 illusion
-imag
 image
 imagin
 imagination
@@ -1914,7 +1912,6 @@ investment
 invite
 invoice
 invok
-involv
 involve
 involvement
 irony
@@ -2159,7 +2156,6 @@ malaysia
 male
 mama
 mamud
-manag
 manage
 management
 manager
@@ -2980,7 +2976,6 @@ resign
 resignation
 resist
 resistance
-resolv
 resolve
 resource
 resourceful
@@ -3073,7 +3068,6 @@ ruthless
 ryan
 s-s-santa
 s-silver
-sabotag
 sabotage
 sacr
 sacramento
@@ -3276,7 +3270,7 @@ smoothly
 smuggle
 snake
 sneak
-snif
+sniff
 sniper
 snoop
 snow-cone
@@ -3294,7 +3288,6 @@ solely
 solemnly
 solid
 solidarity
-solv
 solve
 some
 somebody
@@ -3355,7 +3348,6 @@ stab
 stable
 staff
 staffer
-stag
 stage
 staie
 stair
@@ -3827,6 +3819,7 @@ vote
 voucher
 vulnerability
 w-with
+wage
 wait
 wake
 wald
