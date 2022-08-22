@@ -20,7 +20,7 @@ what
 think
 keep
 thank
-assembl
+assemble
 such
 short
 notice
@@ -199,7 +199,7 @@ general
 feel
 vice
 respect
-scrambl
+scramble
 early
 refer
 fair
@@ -313,12 +313,12 @@ break
 into
 nervous
 sweat
-babbl
+babble
 loss
 word
 voice
 shak
-disabl
+disable
 issue
 demeanor
 raise

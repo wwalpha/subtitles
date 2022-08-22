@@ -167,7 +167,7 @@ identity
 dessler
 secure
 cell
-scrambl
+scramble
 agency
 number
 monitor

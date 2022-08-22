@@ -622,7 +622,7 @@ bruis
 what-what
 upset
 hurry
-assembl
+assemble
 tactical
 field
 unit

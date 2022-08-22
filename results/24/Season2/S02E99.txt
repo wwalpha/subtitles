@@ -238,7 +238,6 @@ assassin
 assassinate
 assassination
 assault
-assembl
 assemble
 assess
 assessment
@@ -303,7 +302,7 @@ aware
 away
 awaytrie
 awkward
-babbl
+babble
 baby
 baby-sit
 back
@@ -1056,7 +1055,6 @@ directory
 dirt
 dirty
 disability
-disabl
 disable
 disagree
 disallow
@@ -3112,7 +3110,7 @@ schulman
 scientist
 scone
 scott
-scrambl
+scramble
 scrap
 screen
 screw
@@ -3312,11 +3310,11 @@ speak
 speaker
 spec
 special
+species
 specific
 specifically
 speculate
 speculation
-specy
 spee
 speech
 speed
@@ -3665,7 +3663,6 @@ trip
 triple
 triple-source
 troop
-troubl
 trouble
 true
 truly

@@ -278,7 +278,7 @@ effort
 protect
 oregon
 endanger
-specy
+species
 natural
 resource
 defense
@@ -494,7 +494,7 @@ portable
 unit
 real
 kind
-assembl
+assemble
 found
 radioactive
 material

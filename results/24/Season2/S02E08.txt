@@ -651,7 +651,7 @@ indicate
 mass
 group
 most
-troubl
+trouble
 control
 sense
 impossible

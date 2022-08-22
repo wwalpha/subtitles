@@ -636,7 +636,7 @@ possible
 lady
 gentlemen
 begin
-assembl
+assemble
 such
 short
 notice
