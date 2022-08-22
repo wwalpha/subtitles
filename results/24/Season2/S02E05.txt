@@ -18,7 +18,7 @@ dismiss
 someone
 trust
 reza
-involv
+involve
 with
 terrorist
 been
@@ -449,7 +449,6 @@ interrogate
 myself
 kate
 part
-involve
 national
 assist
 counter-terrorism

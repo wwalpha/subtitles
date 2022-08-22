@@ -440,7 +440,7 @@ suspect
 shoot-out
 hard
 body
-involv
+involve
 investigation
 thought
 after
@@ -549,7 +549,7 @@ articulate
 ambassador
 helicopter
 accident
-solv
+solve
 issue
 share
 many
@@ -581,7 +581,6 @@ very
 detail
 record
 would
-solve
 avert
 disaster
 alongside

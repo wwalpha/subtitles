@@ -331,7 +331,7 @@ yourself
 usual
 candor
 clarity
-resolv
+resolve
 satisfaction
 collective
 discussion

@@ -123,7 +123,7 @@ formal
 statement
 those
 issue
-resolv
+resolve
 refrain
 speculation
 time
@@ -398,7 +398,7 @@ larger
 detonate
 device
 sure
-involv
+involve
 arrest
 heard
 hint
