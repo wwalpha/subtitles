@@ -431,7 +431,7 @@ pendleton
 word
 implement
 assum
-authoriz
+authorize
 rayburn
 trigger
 double-check

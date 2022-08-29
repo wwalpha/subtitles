@@ -278,7 +278,7 @@ vessel
 likely
 them
 sunk
-capsiz
+capsize
 effect
 blast
 impact
@@ -455,7 +455,7 @@ morning
 understand
 analysis
 done
-seiz
+seize
 apartment
 preliminary
 first

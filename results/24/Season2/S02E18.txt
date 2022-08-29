@@ -19,7 +19,7 @@ show
 otherwise
 with
 respect
-authoriz
+authorize
 this
 military
 action
@@ -438,7 +438,7 @@ majority
 neighbourhood
 consist
 citizen
-naturaliz
+naturalize
 weren
 born
 them

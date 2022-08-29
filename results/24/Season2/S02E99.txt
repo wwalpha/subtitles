@@ -281,7 +281,6 @@ authenticity
 authorisation
 authorise
 authority
-authoriz
 authorization
 authorize
 auto-delete
@@ -544,7 +543,7 @@ capability
 capable
 capacity
 capital
-capsiz
+capsize
 capsule
 captain
 capture
@@ -2338,7 +2337,7 @@ nasty
 nation
 national
 natural
-naturaliz
+naturalize
 naturally
 nature
 nausea
@@ -2853,7 +2852,6 @@ realis
 realisation
 realise
 reality
-realiz
 realize
 really
 reapeat
@@ -3127,7 +3125,6 @@ sedate
 seem
 seen
 segment
-seiz
 seize
 seizure
 self-defence

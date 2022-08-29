@@ -385,7 +385,7 @@ ship
 code
 signature
 show
-authoriz
+authorize
 transaction
 stop
 database
