@@ -420,7 +420,7 @@ quarantine
 zone
 pass
 make
-sometime
+sometimes
 alway
 well
 promise

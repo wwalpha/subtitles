@@ -3290,9 +3290,9 @@ somebody
 somehow
 someone
 someplace
-somete
 something
 sometime
+sometimes
 somewhere
 soon
 sooner
@@ -3495,7 +3495,7 @@ tall
 tally
 tamper
 tamper-proof
-tangl
+tangle
 tango
 tape
 tarball

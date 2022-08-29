@@ -251,7 +251,7 @@ coyote
 border
 bringe
 found
-somete
+something
 interest
 michelle
 pull
@@ -291,7 +291,6 @@ square
 didn
 room
 damm
-something
 show
 dead
 word
@@ -345,7 +344,7 @@ hurry
 move
 listen
 stuff
-tangl
+tangle
 separate
 dave
 suppose
