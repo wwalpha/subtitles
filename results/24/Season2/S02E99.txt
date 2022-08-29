@@ -218,9 +218,9 @@ armoure
 armus
 army
 around
-arraie
 arrange
 arrangement
+array
 arrest
 arrive
 arroyo
@@ -967,7 +967,6 @@ definitely
 definition
 degrade
 degree
-delaie
 delay
 delet
 deliberate
@@ -2011,7 +2010,6 @@ lack
 ladder
 lade
 lady
-laie
 land
 lane
 langley
@@ -2619,7 +2617,6 @@ pimply-face
 pitch
 place
 placement
-plaie
 plainly
 plan
 plane
@@ -3073,7 +3070,6 @@ safe
 safely
 safety
 said
-saie
 sake
 salat
 sale
@@ -3345,7 +3341,6 @@ stable
 staff
 staffer
 stage
-staie
 stair
 stake
 stamp
@@ -3701,9 +3696,9 @@ understatement
 understood
 underwater
 underway
-undie
 undispute
 undo
+undying
 unfit
 unforge
 unfortunate
