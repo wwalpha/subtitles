@@ -222,7 +222,6 @@ cannot
 allow
 continue
 head
-saie
 judge
 issue
 warrant
@@ -350,7 +349,6 @@ wife
 mine
 listen
 role
-plaie
 term
 timetable
 coordinate

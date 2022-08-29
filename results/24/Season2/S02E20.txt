@@ -215,7 +215,7 @@ history
 recognise
 anything
 heard
-delaie
+delay
 wrong
 call
 only
@@ -416,7 +416,6 @@ today
 alway
 those
 inside
-delay
 weakness
 individual
 view
@@ -449,7 +448,7 @@ deliver
 false
 problem
 done
-plaie
+play
 game
 upstair
 shut
@@ -585,7 +584,6 @@ coherent
 waste
 field
 shine
-saie
 district
 boss
 mess

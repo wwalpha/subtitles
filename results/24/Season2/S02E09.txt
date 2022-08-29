@@ -21,7 +21,6 @@ story
 president
 know
 threat
-saie
 anything
 control
 that

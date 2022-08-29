@@ -483,7 +483,6 @@ protect
 racism
 xenophobia
 stop
-laie
 smoke
 place
 draw
@@ -563,7 +562,6 @@ commandos
 disappear
 those
 circumstance
-saie
 alright
 handle
 straight

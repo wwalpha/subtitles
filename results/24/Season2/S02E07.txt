@@ -280,7 +280,7 @@ first
 place
 result
 conspiracy
-arraie
+array
 true
 affect
 every
@@ -638,7 +638,6 @@ static
 monitor
 hallway
 weapon
-saie
 escap
 room
 east
