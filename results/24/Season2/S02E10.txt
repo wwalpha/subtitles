@@ -561,7 +561,7 @@ came
 describe
 tall
 remember
-clothe
+clothes
 wear
 black
 shirt

@@ -512,7 +512,7 @@ standard
 procedure
 consolidate
 chapelle
-clothe
+clothes
 dinner
 easy
 skin

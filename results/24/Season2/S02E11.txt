@@ -593,7 +593,7 @@ international
 search
 wall
 blanket
-clothe
+clothes
 match
 description
 maintain
