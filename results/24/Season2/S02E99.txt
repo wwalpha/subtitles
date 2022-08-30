@@ -939,7 +939,7 @@ decid
 decide
 decimate
 decision
-decision-mak
+decision-make
 decisive
 decisively
 deck
@@ -3162,7 +3162,7 @@ several
 severe
 severely
 shadow
-shak
+shake
 shaken
 shall
 shame
