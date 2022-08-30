@@ -85,6 +85,7 @@ something
 parachute
 already
 told
+take
 still
 life
 left
@@ -98,7 +99,6 @@ think
 suppose
 agent
 order
-take
 back
 affirmative
 lieutenant

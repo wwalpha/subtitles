@@ -26,6 +26,7 @@ blast
 radius
 serious
 situation
+take
 time
 coddle
 media
@@ -78,7 +79,6 @@ government
 build
 into
 cemetery
-take
 away
 here
 stop

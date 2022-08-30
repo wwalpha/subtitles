@@ -30,8 +30,8 @@ commandos
 just
 kill
 stop
-gonna
 make
+gonna
 tell
 where
 evidence
@@ -237,6 +237,7 @@ sorry
 upset
 nothing
 worry
+take
 thing
 suppose
 tight
@@ -341,7 +342,6 @@ turn
 involve
 than
 candour
-take
 advisement
 consequence
 enough

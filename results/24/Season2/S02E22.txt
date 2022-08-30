@@ -27,7 +27,7 @@ please
 remove
 yourself
 from
-decision-mak
+decision-make
 process
 solemnly
 swear
@@ -72,6 +72,7 @@ still
 sheriff
 station
 they
+take
 matheson
 pack
 thing
@@ -226,7 +227,6 @@ staff
 evidence
 somebody
 place
-take
 careful
 find
 gone

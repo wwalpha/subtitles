@@ -72,6 +72,7 @@ segment
 same
 spec
 where
+take
 trust
 more
 only
@@ -116,7 +117,6 @@ hammond
 from
 division
 know
-take
 tony
 ryan
 sure

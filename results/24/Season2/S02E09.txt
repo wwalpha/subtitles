@@ -29,6 +29,7 @@ armus
 wanna
 scare
 where
+take
 back
 check
 your
@@ -98,7 +99,6 @@ live
 children
 wait
 past
-take
 digital
 playback
 from

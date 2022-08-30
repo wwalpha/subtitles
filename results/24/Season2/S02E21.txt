@@ -61,6 +61,7 @@ past
 bauer
 comfortable
 with
+make
 suggest
 relieve
 duty
@@ -316,7 +317,7 @@ babble
 loss
 word
 voice
-shak
+shake
 disable
 issue
 demeanor
@@ -368,7 +369,6 @@ possibility
 white
 house
 reinstate
-make
 sense
 twice
 foote
@@ -816,7 +816,7 @@ front
 congress
 meantime
 remove
-decision-mak
+decision-make
 lawyer
 constitution
 solemnly

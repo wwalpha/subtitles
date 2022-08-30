@@ -132,6 +132,7 @@ stark
 little
 busy
 right
+take
 long
 under
 control
@@ -149,7 +150,6 @@ doctor
 revive
 gurney
 much
-take
 wait
 paddle
 still
