@@ -415,7 +415,7 @@ staff
 rank
 high
 probability
-areas
+area
 reservation
 bottom
 politically

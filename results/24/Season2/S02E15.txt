@@ -318,7 +318,7 @@ zero
 officially
 isolate
 inhabite
-areas
+area
 immediately
 affect
 local
@@ -341,7 +341,6 @@ projection
 indicate
 very
 slight
-area
 highly
 radioactive
 decade

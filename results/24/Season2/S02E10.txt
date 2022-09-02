@@ -710,7 +710,7 @@ ever
 enter
 january
 europe
-overseas
+oversea
 international
 originate
 terminal
