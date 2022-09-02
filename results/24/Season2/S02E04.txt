@@ -435,7 +435,7 @@ eight
 insist
 sorry
 unavailable
-perhap
+perhaps
 warn
 plenty
 personnel
