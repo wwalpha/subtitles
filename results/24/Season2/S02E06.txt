@@ -430,7 +430,7 @@ camp
 pendleton
 word
 implement
-assum
+assume
 authorize
 rayburn
 trigger
