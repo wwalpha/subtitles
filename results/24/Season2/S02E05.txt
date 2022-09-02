@@ -214,7 +214,7 @@ maximum
 security
 three
 stand
-reduc
+reduce
 likelihood
 target
 left
