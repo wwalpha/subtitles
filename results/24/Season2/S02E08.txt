@@ -318,7 +318,7 @@ world
 sorry
 happen
 investigator
-requir
+require
 report
 terrorist-relate
 homeland

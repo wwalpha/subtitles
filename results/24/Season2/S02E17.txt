@@ -423,6 +423,7 @@ detonate
 nuclear
 device
 people
+hire
 obviously
 succee
 transport

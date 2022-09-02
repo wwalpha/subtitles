@@ -556,6 +556,7 @@ roger
 stanton
 head
 security
+tired
 torture
 complex
 more
@@ -753,7 +754,7 @@ update
 unfortunately
 shape
 afraid
-repair
+repaire
 capture
 manipulate
 improve

@@ -551,6 +551,7 @@ ordeal
 question
 help
 sister
+hire
 private
 investigator
 knew
@@ -624,7 +625,7 @@ protect
 internal
 deputy
 director
-retir
+retire
 active
 jean
 terrific

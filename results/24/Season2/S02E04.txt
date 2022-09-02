@@ -468,6 +468,7 @@ business
 monday
 thought
 money
+hire
 investigator
 audit
 steal
@@ -481,7 +482,6 @@ proof
 told
 anyone
 explanation
-hire
 dirt
 stay
 myself

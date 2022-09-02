@@ -279,6 +279,7 @@ interest
 want
 middle
 east
+hire
 fabricate
 walk
 corridor

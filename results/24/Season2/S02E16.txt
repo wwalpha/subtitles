@@ -142,6 +142,7 @@ long
 major
 understatement
 know
+tired
 primary
 focus
 critical
@@ -194,7 +195,7 @@ three
 april
 arab
 prove
-conspir
+conspire
 detonate
 nuclear
 soil

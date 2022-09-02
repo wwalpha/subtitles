@@ -519,7 +519,7 @@ react
 emotionally
 understandable
 leader
-requir
+require
 patience
 beyond
 human

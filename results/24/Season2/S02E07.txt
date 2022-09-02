@@ -5,6 +5,7 @@ where
 from
 government
 talk
+wire
 that
 money
 into
@@ -400,6 +401,7 @@ walk
 paper
 mess
 dismiss
+fire
 appoint
 character
 support
