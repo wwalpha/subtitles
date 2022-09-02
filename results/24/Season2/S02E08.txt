@@ -356,7 +356,7 @@ precedent
 kind
 action
 wast
-sens
+sense
 onto
 something
 fact
@@ -649,7 +649,6 @@ group
 most
 trouble
 control
-sense
 impossible
 illegal
 especially
