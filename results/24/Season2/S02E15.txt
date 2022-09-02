@@ -696,7 +696,6 @@ parachute
 sense
 face
 part
-cleare
 left
 straight
 dive
