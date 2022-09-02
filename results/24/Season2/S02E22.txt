@@ -148,7 +148,7 @@ protocol
 confirm
 know
 chappelle
-meete
+meet
 just
 everybody
 save
@@ -528,7 +528,6 @@ attorney
 trust
 maybe
 counsel
-meet
 wherever
 excuse
 demonstration

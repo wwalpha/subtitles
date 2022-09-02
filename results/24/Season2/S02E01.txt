@@ -101,7 +101,7 @@ thought
 stop
 division
 want
-meete
+meet
 book
 next
 month
@@ -359,7 +359,6 @@ perfect
 tough
 play
 backyard
-meet
 sweetheart
 return
 call

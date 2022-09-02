@@ -156,7 +156,7 @@ state
 understand
 direct
 impact
-meete
+meet
 disturb
 fine
 sure
@@ -279,7 +279,6 @@ move
 against
 wall
 lock
-meet
 moorpark
 vineland
 block

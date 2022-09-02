@@ -178,7 +178,7 @@ vice
 washington
 ready
 when
-meete
+meet
 british
 ambassador
 after
@@ -292,7 +292,6 @@ follow
 proper
 protocol
 suppose
-meet
 small
 studio
 city
