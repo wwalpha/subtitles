@@ -50,7 +50,13 @@ const readFile = (filename: string): string[] => {
     })
     .filter((item) => isNaN(Number(item.substring(0, 1))))
     .filter((item) => !item.startsWith('$'))
-    .map((item) => convert2(item))
+    .map((item) => {
+      if (convert2(item) === 'excus') {
+        console.log(item, filename);
+      }
+
+      return convert2(item);
+    })
     .filter((item) => item.trim().length > 3);
 
   return Array.from(new Set(result));
