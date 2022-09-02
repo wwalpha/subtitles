@@ -572,7 +572,7 @@ friend
 fire
 chair
 shift
-spee
+speed
 brother
 home
 handful

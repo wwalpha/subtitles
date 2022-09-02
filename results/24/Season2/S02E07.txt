@@ -231,7 +231,7 @@ lynne
 spoke
 armus
 brought
-spee
+speed
 situation
 research
 precedent
@@ -664,7 +664,6 @@ cool
 stolen
 license
 registration
-speed
 somewhere
 george
 never
