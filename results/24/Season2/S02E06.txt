@@ -206,7 +206,6 @@ locate
 hometown
 reza
 racial
-profil
 lawyer
 black
 damn

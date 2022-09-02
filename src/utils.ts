@@ -35,7 +35,7 @@ export const convert2 = (origin: string): string => {
       return `${origin.substring(0, origin.length - 3)}`;
     }
 
-    if (['let'].includes(edf)) {
+    if (['let', 'fil'].includes(edf)) {
       return `${origin.substring(0, origin.length - 3)}e`;
     }
 
@@ -257,7 +257,7 @@ export const convert2 = (origin: string): string => {
 // console.log('collapsed', convert2('collapsed'));
 // console.log('collapsing', convert2('collapsing'));
 
-console.log('raided', convert2('raided'));
+console.log('profiling', convert2('profiling'));
 
 // man→men
 // woman→women
