@@ -312,7 +312,6 @@ farfetch
 distinctive
 specific
 appreciate
-provid
 touch
 minute
 keep
@@ -378,6 +377,7 @@ detail
 except
 spoke
 stanton
+hide
 arrest
 head
 said

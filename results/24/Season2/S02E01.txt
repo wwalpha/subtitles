@@ -32,6 +32,7 @@ situation
 president
 find
 excuse
+hide
 from
 daddy
 haven
@@ -43,7 +44,6 @@ like
 wart
 nose
 gonna
-hide
 again
 keep
 with

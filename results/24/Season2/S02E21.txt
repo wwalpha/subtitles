@@ -805,7 +805,7 @@ stay
 agriculture
 interior
 seven
-decid
+decide
 aware
 compel
 result

@@ -32,6 +32,7 @@ anything
 just
 spoke
 stanton
+hide
 something
 arrest
 want
@@ -250,7 +251,7 @@ keep
 loop
 sure
 hasn
-decid
+decide
 input
 either
 lynne
@@ -303,7 +304,6 @@ other
 chance
 wear
 hijab
-hide
 face
 wouldn
 feel
@@ -530,7 +530,7 @@ shooting
 security
 cameras
 show
-one-sid
+one-side
 strong
 warner/kate
 shooter
