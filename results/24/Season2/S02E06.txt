@@ -129,7 +129,7 @@ speculation
 time
 beside
 jenny
-releas
+release
 keep
 tight
 absolutely
@@ -358,7 +358,6 @@ brain
 result
 concussion
 mean
-release
 question
 regard
 source
@@ -423,6 +422,7 @@ already
 process
 return
 their
+base
 immediately
 janet
 mugu

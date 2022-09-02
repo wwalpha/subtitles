@@ -15,6 +15,7 @@ plan
 major
 military
 action
+base
 record
 that
 found
@@ -123,7 +124,6 @@ country
 planet
 proof
 evidence
-base
 decision
 forge
 wouldn

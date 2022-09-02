@@ -92,6 +92,7 @@ attack
 launch
 squadron
 stateside
+base
 initial
 strike
 region

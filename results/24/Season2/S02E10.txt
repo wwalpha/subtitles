@@ -114,7 +114,7 @@ than
 publicly
 reveal
 course
-releas
+release
 public
 when
 matter

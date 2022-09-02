@@ -517,6 +517,7 @@ area
 code
 thing
 action
+base
 link
 high
 rank
@@ -748,7 +749,7 @@ access
 resourceful
 answer
 hasn
-releas
+release
 widow
 lighten
 wife

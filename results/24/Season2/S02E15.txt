@@ -248,7 +248,7 @@ incidence
 cancer
 other
 radiation-relate
-diseas
+disease
 least
 immediate
 casualty

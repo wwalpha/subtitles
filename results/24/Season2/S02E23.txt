@@ -322,6 +322,7 @@ faster
 those
 legality
 country
+base
 evidence
 convince
 false
@@ -559,7 +560,7 @@ create
 phonetic
 template
 type
-phras
+phrase
 separate
 module
 playback
@@ -600,7 +601,7 @@ example
 knew
 difficult
 longer
-releas
+release
 spoke
 low-security
 behalf

@@ -407,7 +407,7 @@ closely
 dure
 primary
 access
-databas
+database
 must
 argue
 barely
