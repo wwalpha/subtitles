@@ -4,7 +4,18 @@ export const convert = (origin: string): string => {
 
 const vowel = ['a', 'e', 'i', 'o', 'u'];
 const esRules1 = ['s', 'z', 'sh', 'ch', 'x'];
-const excepts = ['unimpeded', 'angeles', 'morning', 'species', 'sometimes', 'unsubstantiated', 'undying', 'clothes'];
+const excepts = [
+  'speed',
+  'perhaps',
+  'unimpeded',
+  'angeles',
+  'morning',
+  'species',
+  'sometimes',
+  'unsubstantiated',
+  'undying',
+  'clothes',
+];
 
 export const convert2 = (origin: string): string => {
   if (excepts.includes(origin)) return origin;
@@ -20,22 +31,24 @@ export const convert2 = (origin: string): string => {
     const ef = `${f}${e}`;
     const edf = `${f}${e}${d}`;
 
-    if (['el', 'im', 'ff', 'ss', 'ch', 'ay'].includes(de)) {
+    if (['eak', 'oid'].includes(edf)) {
       return `${origin.substring(0, origin.length - 3)}`;
     }
 
-    if (['eak'].includes(edf)) {
+    if (['let'].includes(edf)) {
+      return `${origin.substring(0, origin.length - 3)}e`;
+    }
+
+    if (['el', 'et', 'im', 'ff', 'ss', 'ch', 'ay'].includes(de)) {
       return `${origin.substring(0, origin.length - 3)}`;
+    }
+
+    if (['ac', 'ag', 'ak', 'nc', 'ng', 'rc', 'rg', 'bl', 'ca', 'cn', 'cr', 'id'].includes(de)) {
+      return `${origin.substring(0, origin.length - 3)}e`;
     }
 
     if (d === e) {
       return `${origin.substring(0, origin.length - 4)}`;
-    }
-
-    if (d === 'c') {
-      if (['n', 'a', 'r'].includes(e)) {
-        return `${origin.substring(0, origin.length - 3)}e`;
-      }
     }
 
     if (d === 'd') {
@@ -56,10 +69,6 @@ export const convert2 = (origin: string): string => {
 
     if (d === 'y') {
       return `${origin.substring(0, origin.length - 4)}ie`;
-    }
-
-    if (['ag', 'ak', 'ng', 'rg', 'bl'].includes(de)) {
-      return `${origin.substring(0, origin.length - 3)}e`;
     }
 
     if (d === 'r') {
@@ -90,7 +99,7 @@ export const convert2 = (origin: string): string => {
     const d = origin.charAt(origin.length - 4);
     const cd = `${d}${c}`;
 
-    if (['us'].includes(cd)) {
+    if (['us', 'as'].includes(cd)) {
       return `${origin.substring(0, origin.length - 1)}`;
     }
 
@@ -123,13 +132,18 @@ export const convert2 = (origin: string): string => {
     const c = origin.charAt(origin.length - 3);
     const d = origin.charAt(origin.length - 4);
     const e = origin.charAt(origin.length - 5);
+    const cd = `${d}${c}`;
 
     // ied
     if (c === 'i') {
       return `${origin.substring(0, origin.length - 3)}y`;
     }
 
-    if (`${d}${c}` === 'ss' || `${d}${c}` === 'ch') {
+    if (['ss', 'ch'].includes(cd)) {
+      return `${origin.substring(0, origin.length - 2)}`;
+    }
+
+    if (['aid', 'ead', 'oad', 'ear'].includes(`${e}${d}${c}`)) {
       return `${origin.substring(0, origin.length - 2)}`;
     }
 
@@ -138,19 +152,19 @@ export const convert2 = (origin: string): string => {
       return `${origin.substring(0, origin.length - 3)}`;
     }
 
-    if (['ead', 'oad'].includes(`${e}${d}${c}`)) {
-      return `${origin.substring(0, origin.length - 2)}`;
-    }
-
-    if (['ac', 'ad', 'ag', 'bl', 'gl'].includes(`${d}${c}`)) {
+    if (['ac', 'as', 'ad', 'ag', 'bl', 'gl'].includes(cd)) {
       return `${origin.substring(0, origin.length - 1)}`;
     }
 
-    if (['nc', 'ng', 'rc', 'lv', 'ud', 'od'].includes(`${d}${c}`)) {
+    if (['nc', 'ng', 'rc', 'rg', 'rv', 'lc', 'lv', 'ud', 'uc', 'um'].includes(cd)) {
       return `${origin.substring(0, origin.length - 1)}`;
     }
 
-    if (['rg', 'is', 'iv', 'iz', 'us', 'os', 'ps', 'yz'].includes(`${d}${c}`)) {
+    if (['oc', 'od', 'ov', 'os'].includes(cd)) {
+      return `${origin.substring(0, origin.length - 1)}`;
+    }
+
+    if (['ic', 'id', 'is', 'iv', 'iz', 'us', 'ps', 'yz'].includes(`${d}${c}`)) {
       return `${origin.substring(0, origin.length - 1)}`;
     }
 
@@ -198,6 +212,11 @@ export const convert2 = (origin: string): string => {
 
   if (origin.endsWith('s')) {
     const b = origin.charAt(origin.length - 2);
+    const c = origin.charAt(origin.length - 3);
+
+    if (['ea'].includes(`${c}${b}`)) {
+      return `${origin.substring(0, origin.length - 1)}`;
+    }
 
     if (vowel.includes(b)) {
       return origin;
@@ -238,7 +257,7 @@ export const convert2 = (origin: string): string => {
 // console.log('collapsed', convert2('collapsed'));
 // console.log('collapsing', convert2('collapsing'));
 
-console.log('shaking', convert2('shaking'));
+console.log('raided', convert2('raided'));
 
 // man→men
 // woman→women
