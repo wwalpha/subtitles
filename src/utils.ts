@@ -99,7 +99,7 @@ export const convert2 = (origin: string): string => {
     const d = origin.charAt(origin.length - 4);
     const cd = `${d}${c}`;
 
-    if (['us', 'as'].includes(cd)) {
+    if (['us', 'as', 'is'].includes(cd)) {
       return `${origin.substring(0, origin.length - 1)}`;
     }
 

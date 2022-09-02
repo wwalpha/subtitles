@@ -535,7 +535,6 @@ policy
 impose
 table
 back-room
-promis
 accept
 sweetheart
 secure
@@ -616,7 +615,7 @@ father
 matter
 prison
 carla
-bruis
+bruise
 what-what
 upset
 hurry

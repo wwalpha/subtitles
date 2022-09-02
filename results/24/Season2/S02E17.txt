@@ -495,7 +495,7 @@ event
 grab
 material
 witness
-premis
+premise
 illegally
 also
 assault
