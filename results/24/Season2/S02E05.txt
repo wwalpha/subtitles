@@ -240,7 +240,7 @@ route
 since
 morning
 when
-decid
+decide
 alone
 accompany
 farhad
@@ -590,6 +590,7 @@ topic
 should
 one-way
 dialogue
+presidenti
 update
 demand
 suppose

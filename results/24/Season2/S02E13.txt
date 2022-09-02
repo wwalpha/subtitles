@@ -107,7 +107,6 @@ team
 south
 side
 emergency
-buid
 sweep
 ground
 lock
@@ -246,6 +245,7 @@ took
 hell
 george
 military
+aide
 these
 whatever
 reason
@@ -582,7 +582,7 @@ sign
 insane
 plan
 backfir
-misguid
+misguide
 crazy
 course
 else
