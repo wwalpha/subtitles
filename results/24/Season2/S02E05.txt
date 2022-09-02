@@ -633,7 +633,7 @@ everywhere
 stake
 place
 cori
-starv
+starve
 perfectly
 little
 problem
