@@ -57,7 +57,7 @@ gonna
 figure
 last
 person
-invok
+invoke
 executive
 privilege
 grant

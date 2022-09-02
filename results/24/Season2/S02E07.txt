@@ -527,7 +527,7 @@ meet
 guideline
 director
 over
-invok
+invoke
 privilege
 provisional
 security

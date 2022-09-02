@@ -195,7 +195,7 @@ skip
 sound
 bite
 chase
-invok
+invoke
 amendment
 general
 feel
