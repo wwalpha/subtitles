@@ -39,7 +39,7 @@ feel
 unfit
 fulfil
 duty
-remov
+remove
 from
 office
 vice
@@ -202,7 +202,6 @@ responsibility
 make
 sure
 vote
-remove
 place
 manipulate
 outcome

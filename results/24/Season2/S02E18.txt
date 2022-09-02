@@ -9,7 +9,7 @@ audio
 fabricate
 thought
 analysis
-prov
+prove
 real
 process
 obtain
@@ -74,7 +74,6 @@ until
 tell
 more
 about
-prove
 record
 source
 recording

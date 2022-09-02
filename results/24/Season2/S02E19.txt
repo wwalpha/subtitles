@@ -590,7 +590,7 @@ majority
 unfit
 fulfil
 duty
-remov
+remove
 become
 palace
 coup
