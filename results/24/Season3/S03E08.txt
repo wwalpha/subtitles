@@ -42,7 +42,6 @@ find
 father
 found
 hector
-salazar
 small
 town
 northern
@@ -331,7 +330,6 @@ scare
 american
 suppose
 representative
-michael
 amador
 each
 other
@@ -388,7 +386,6 @@ frequency
 nobody
 move
 unless
-chloe
 provide
 tactical
 assistance
@@ -472,7 +469,6 @@ area
 size
 airfield
 seen
-anne
 concern
 pretty
 debate
@@ -657,7 +653,6 @@ prepare
 federally
 partner
 shut
-thomas
 along
 piss
 truth

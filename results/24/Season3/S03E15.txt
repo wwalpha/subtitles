@@ -20,7 +20,6 @@ medication
 mean
 stop
 believe
-michael
 amador
 possession
 cordina
@@ -188,7 +187,6 @@ from
 specify
 lethal
 force
-chloe
 find
 connection
 necessarily

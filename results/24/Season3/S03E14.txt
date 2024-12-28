@@ -87,8 +87,6 @@ accompany
 lead
 right
 edmund
-chloe
-o'brian
 office
 jack
 another
@@ -129,7 +127,6 @@ care
 everything
 situation
 believe
-michael
 possession
 either
 already
@@ -453,7 +450,6 @@ director
 field
 present
 ramon
-salazar
 came
 approximately
 up-and-come

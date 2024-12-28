@@ -63,7 +63,6 @@ because
 south
 small
 detail
-salazar
 instable
 predict
 push
@@ -195,8 +194,6 @@ tony
 swear
 problem
 adam
-chloe
-o'brian
 touch
 data
 field
@@ -331,7 +328,6 @@ number
 break
 resident
 doctor
-anne
 then
 when
 find

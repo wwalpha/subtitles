@@ -769,7 +769,6 @@ drive
 stor
 assemble
 strip
-chloe
 pretty
 regulation
 book

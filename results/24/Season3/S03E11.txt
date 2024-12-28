@@ -55,7 +55,6 @@ family
 here
 hurry
 bauer
-salazar
 brother
 mexico
 transponder
@@ -156,7 +155,6 @@ head
 down
 leave
 then
-sergio
 chopper
 think
 gotta
@@ -226,7 +224,6 @@ failure
 intercept
 international
 crisis
-michael
 represent
 ukrainian
 sale
@@ -330,7 +327,6 @@ thank
 seat
 rather
 stand
-anne
 glad
 deserve
 little
@@ -481,7 +477,6 @@ ahead
 ourselve
 tony
 done
-chloe
 shhh
 girl
 nice
