@@ -1,6 +1,5 @@
 import * as fs from 'fs';
 import { convert2 } from './utils';
-import _ from 'lodash';
 
 const readFile = (filename: string): string[] => {
   const filepath = `./origins/24/Season2/${filename}`;
@@ -51,7 +50,7 @@ const readFile = (filename: string): string[] => {
     .filter((item) => isNaN(Number(item.substring(0, 1))))
     .filter((item) => !item.startsWith('$'))
     .map((item) => {
-      if (convert2(item) === 'excus') {
+      if (convert2(item) === 'dockerty') {
         console.log(item, filename);
       }
 
