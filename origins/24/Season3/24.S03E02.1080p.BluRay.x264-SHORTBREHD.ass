@@ -1,0 +1,693 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,18,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,10,1
+Style: 原文字幕,Calibri,10,&H00027CCF,&H00000000,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,5,5,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.50,0:00:10.71,Default,,0000,0000,0000,,{\an8\pos(197.4,200.557)}{\fs25\c&H78BDE7&\fad(0,808)}24小时\N\N{\fs15}第三季  第二集
+Dialogue: 0,0:00:10.92,0:00:13.13,Default,,0000,0000,0000,,{\an8\move(189.6,121.6,193.8,105.6,0,356)}{\b1\bord0\shad3\3c&H2F2F2F&\4c&H336D99&}{\fs10}{\t(0,356,\fs20)}前情提要
+Dialogue: 0,0:00:13.84,0:00:16.74,Default,,0000,0000,0000,,托尼 有人抛下一具感染了病毒的尸体\N{\r原文字幕}Tony, someone just dropped out a dead body infected with the virus.
+Dialogue: 0,0:00:16.94,0:00:19.34,Default,,0000,0000,0000,,根据验尸结果 一周后\N{\r原文字幕}Based on the autopsy, at the end of the first week,
+Dialogue: 0,0:00:19.44,0:00:22.14,Default,,0000,0000,0000,,9%的洛杉矶人口会被感染\N{\r原文字幕}9% of the Los Angeles county would be infected.
+Dialogue: 0,0:00:22.24,0:00:23.94,Default,,0000,0000,0000,,那是一百多万人啊\N{\r原文字幕}It's over a 1 million people.
+Dialogue: 0,0:00:24.14,0:00:27.14,Default,,0000,0000,0000,,放了拉姆·萨拉扎\N{\r原文字幕}We want the release of Ramon Salazar.
+Dialogue: 0,0:00:27.24,0:00:30.44,Default,,0000,0000,0000,,如果你们拒绝 病毒就会散播\N{\r原文字幕}If you refuse to comply, the virus will be unleashed.
+Dialogue: 0,0:00:30.64,0:00:33.04,Default,,0000,0000,0000,,杰克 你最了解萨拉扎的情况\N{\r原文字幕}Jack, you know Salazar better than anybody else here.
+Dialogue: 0,0:00:33.14,0:00:34.24,Default,,0000,0000,0000,,你觉得这是谁干的?\N{\r原文字幕}Who do you think we're dealing with?
+Dialogue: 0,0:00:34.34,0:00:36.04,Default,,0000,0000,0000,,毫无疑问是他兄弟 二把手赫克托\N{\r原文字幕}Without a doubt his brother. Hector was next in command.
+Dialogue: 0,0:00:36.34,0:00:39.04,Default,,0000,0000,0000,,拉姆被逮住后 他躲了起来\N{\r原文字幕}He went underground the second Ramon was taken into custody.
+Dialogue: 0,0:00:39.24,0:00:40.94,Default,,0000,0000,0000,,给FBI打电话了吗?\N{\r原文字幕}Have you made the call to the FBI?
+Dialogue: 0,0:00:41.04,0:00:42.44,Default,,0000,0000,0000,,打了\N{\r原文字幕}Yes, I did.
+Dialogue: 0,0:00:42.74,0:00:43.94,Default,,0000,0000,0000,,那个男孩呢?\N{\r原文字幕}What about our boy?
+Dialogue: 0,0:00:44.24,0:00:45.44,Default,,0000,0000,0000,,我正监视着他\N{\r原文字幕}I'm watching him now.
+Dialogue: 0,0:00:46.14,0:00:48.04,Default,,0000,0000,0000,,你做什么了? 贩毒?\N{\r原文字幕}What are you into here man? You're selling dope?
+Dialogue: 0,0:00:48.24,0:00:52.24,Default,,0000,0000,0000,,有人付了我五千美元 要我把毒品带入境\N{\r原文字幕}This guy he paid me $5000 to bring some coke over the border.
+Dialogue: 0,0:00:52.34,0:00:53.54,Default,,0000,0000,0000,,就在昨晚\N{\r原文字幕}I did that last night.
+Dialogue: 0,0:00:53.64,0:00:55.94,Default,,0000,0000,0000,,今天我把毒品送过去 又得了五千美元\N{\r原文字幕}Today, I drop it off, I get another $5000.
+Dialogue: 0,0:00:56.04,0:00:57.64,Default,,0000,0000,0000,,FBI什么时候接到的电话?\N{\r原文字幕}When did FBI get this call?
+Dialogue: 0,0:00:57.84,0:00:59.24,Default,,0000,0000,0000,,20分钟前\N{\r原文字幕}About 20 minutes ago.
+Dialogue: 0,0:00:59.44,0:01:01.04,Default,,0000,0000,0000,,我们还不知道是谁干的?\N{\r原文字幕}And we don't know who we're dealing with?
+Dialogue: 0,0:01:01.24,0:01:03.24,Default,,0000,0000,0000,,电话从外线打来 声音经过了处理\N{\r原文字幕}It was a scrambled voice on an open line.
+Dialogue: 0,0:01:03.34,0:01:04.94,Default,,0000,0000,0000,,要取消辩论吗?\N{\r原文字幕}Do we cancel the debate?
+Dialogue: 0,0:01:05.04,0:01:07.84,Default,,0000,0000,0000,,他们在讨论我们是否需要离开洛杉矶\N{\r原文字幕}They are discussing whether or not we should stay in Los Angeles.
+Dialogue: 0,0:01:07.94,0:01:11.14,Default,,0000,0000,0000,,蔡斯 没哪天是合适的\N{\r原文字幕}Chase, no day is a good day.
+Dialogue: 0,0:01:11.24,0:01:14.94,Default,,0000,0000,0000,,我们说过两个月后还没分手 就跟他坦白\N{\r原文字幕}We said it we will tell him if we're still together after two months.
+Dialogue: 0,0:01:15.04,0:01:16.04,Default,,0000,0000,0000,,都快三个月了\N{\r原文字幕}It's almost three.
+Dialogue: 0,0:01:16.64,0:01:18.54,Default,,0000,0000,0000,,为什么还不告诉他?\N{\r原文字幕}Why don't we just tell him and get it over with?
+Dialogue: 0,0:01:19.94,0:01:20.94,Default,,0000,0000,0000,,听着杰克\N{\r原文字幕}Listen Jack.
+Dialogue: 0,0:01:21.04,0:01:22.84,Default,,0000,0000,0000,,你接近萨拉扎有6个月\N{\r原文字幕}You were under of Salazar for 6 months.
+Dialogue: 0,0:01:22.94,0:01:25.34,Default,,0000,0000,0000,,我知道发生了什么 你看起来很糟\N{\r原文字幕}I know what they did to you. You look like hell.
+Dialogue: 0,0:01:27.34,0:01:28.54,Default,,0000,0000,0000,,我很担心你哦 杰克\N{\r原文字幕}I'm concerned about you, Jack.
+Dialogue: 0,0:01:29.24,0:01:32.04,Default,,0000,0000,0000,,为了抓我你所做的事 我不想告诉别人\N{\r原文字幕}The things you did to get me here, I wouldn't wish on anyone.
+Dialogue: 0,0:03:09.04,0:03:13.04,Default,,0000,0000,0000,,知道是谁干的后 总统才会做决定...\N{\r原文字幕}The president is not gonna make any decisions until he knows what we're dealing with so...
+Dialogue: 0,0:03:13.14,0:03:14.74,Default,,0000,0000,0000,,托尼 把所有情况告诉我\N{\r原文字幕}give me all the parameters Tony.
+Dialogue: 0,0:03:15.64,0:03:18.54,Default,,0000,0000,0000,,我们收到一个恐怖分子的威胁电话\N{\r原文字幕}Well, basically, what we have here is a terrorist demand.
+Dialogue: 0,0:03:18.64,0:03:22.04,Default,,0000,0000,0000,,拉姆·萨拉扎的亲信打来的 估计是他兄弟赫克托\N{\r原文字幕}Someone close to Ramon Salazar, we're guessing his brother, Hector,
+Dialogue: 0,0:03:22.14,0:03:23.14,Default,,0000,0000,0000,,要求我们释放他\N{\r原文字幕}is demanding his release.
+Dialogue: 0,0:03:23.34,0:03:27.74,Default,,0000,0000,0000,,如果拒绝 他威胁说要散播一种快速致死的病毒\N{\r原文字幕}If we don't comply, he's threatening to initiate an operate of a very deadly fast acting virus.
+Dialogue: 0,0:03:27.94,0:03:30.74,Default,,0000,0000,0000,,怎样判定他们拥有此病毒?\N{\r原文字幕}How do we know if these people are really in possession of it?
+Dialogue: 0,0:03:30.84,0:03:32.84,Default,,0000,0000,0000,,韦恩 今天桑尼 马切尔博士来了电话\N{\r原文字幕}Wayne, I've got Dr.Sunny Macer on the line.
+Dialogue: 0,0:03:33.04,0:03:36.74,Default,,0000,0000,0000,,她是卫生部的技术指导 我让她来说\N{\r原文字幕}She is technical director of National Health Services. I let her address that.
+Dialogue: 0,0:03:36.84,0:03:38.84,Default,,0000,0000,0000,,帕默尔先生 一小时前\N{\r原文字幕}Mr Palmer, about an hour ago,
+Dialogue: 0,0:03:38.94,0:03:41.14,Default,,0000,0000,0000,,有人将一具尸体抛在我们部门外面\N{\r原文字幕}a dead body was anonymously delivered to our office.
+Dialogue: 0,0:03:41.24,0:03:45.84,Default,,0000,0000,0000,,尸体被人植入了3号类型的免疫病毒\N{\r原文字幕}It was infected with a type 3 immuno-virus deliberatery introduced into its system.
+Dialogue: 0,0:03:46.04,0:03:50.84,Default,,0000,0000,0000,,症状出现后24小时内致人死亡 且无药可治无药可防\N{\r原文字幕}This virus kills within 24 hours of exposure and there is no none antidote or vaccin.
+Dialogue: 0,0:03:51.04,0:03:54.04,Default,,0000,0000,0000,,尤其可怕的是 病毒传播速度之快\N{\r原文字幕}What's particurlaly disturbing is how fast it spreads.
+Dialogue: 0,0:03:54.54,0:03:55.24,Default,,0000,0000,0000,,请看\N{\r原文字幕}Take a look.
+Dialogue: 0,0:03:56.14,0:03:57.44,Default,,0000,0000,0000,,如你们看到的\N{\r原文字幕}As you can see,
+Dialogue: 0,0:03:57.54,0:03:59.24,Default,,0000,0000,0000,,几小时的潜伏期内无症状\N{\r原文字幕}it's latent for several hours,
+Dialogue: 0,0:03:59.34,0:04:00.64,Default,,0000,0000,0000,,但一旦症状出现后\N{\r原文字幕}but once the symptoms present,
+Dialogue: 0,0:04:00.74,0:04:02.04,Default,,0000,0000,0000,,它迅速侵蚀宿主\N{\r原文字幕}it consumes the host rapidly.
+Dialogue: 0,0:04:02.74,0:04:05.94,Default,,0000,0000,0000,,我们部门会发给你们 如果病毒被散播\N{\r原文字幕}Our office will be sending you preliminary projections of casualties
+Dialogue: 0,0:04:06.14,0:04:07.94,Default,,0000,0000,0000,,初期会受感染人数的估计\N{\r原文字幕}in case something like this should be unleashed.
+Dialogue: 0,0:04:08.24,0:04:11.94,Default,,0000,0000,0000,,韦恩 这数目相当庞大\N{\r原文字幕}And Wayne, I've gotta tell you, it's pretty bleak.
+Dialogue: 0,0:04:12.04,0:04:13.34,Default,,0000,0000,0000,,我不明白\N{\r原文字幕}I don't understand this.
+Dialogue: 0,0:04:13.54,0:04:16.44,Default,,0000,0000,0000,,我们知道什么才算是生化威胁\N{\r原文字幕}I mean, I thought we knew what biological threats were out there.
+Dialogue: 0,0:04:16.64,0:04:20.84,Default,,0000,0000,0000,,我们怎么这么急着要掐灭\N{\r原文字幕}And how do we find ourselves up against the wall so suddenly
+Dialogue: 0,0:04:20.94,0:04:22.14,Default,,0000,0000,0000,,这连苗头都没出现的事?\N{\r原文字幕}with something that isn't even on our radar?
+Dialogue: 0,0:04:22.24,0:04:24.94,Default,,0000,0000,0000,,这是一种前所未见的病毒\N{\r原文字幕}This is a strain we've never seen.
+Dialogue: 0,0:04:25.04,0:04:27.94,Default,,0000,0000,0000,,验尸结果证实 有人蓄意培育了些病毒\N{\r原文字幕}The autopsy is confirming that someone is engineered this virus
+Dialogue: 0,0:04:28.04,0:04:29.94,Default,,0000,0000,0000,,使它们的致死性比原基因快十倍\N{\r原文字幕}to kill 10 times faster than its ordinary genotypes.
+Dialogue: 0,0:04:30.74,0:04:32.94,Default,,0000,0000,0000,,嗯 我明白了\N{\r原文字幕}Ok. Ok, I see.
+Dialogue: 0,0:04:33.24,0:04:36.44,Default,,0000,0000,0000,,长官 我无法估计如果恐怖分子散播了病毒\N{\r原文字幕}Sir, I can't underscore enough how potentially devastating
+Dialogue: 0,0:04:36.54,0:04:38.74,Default,,0000,0000,0000,,会造成多么大的破坏\N{\r原文字幕}it would be if this virus were released by terrorists.
+Dialogue: 0,0:04:40.24,0:04:43.34,Default,,0000,0000,0000,,了解这些后 总统会做什么样的决定?\N{\r原文字幕}By giving this information, what options would the President be looking at?
+Dialogue: 0,0:04:43.64,0:04:46.14,Default,,0000,0000,0000,,美国在面对恐怖分子威胁的时候\N{\r原文字幕}It's the unweathering policy of the USA to stand firm
+Dialogue: 0,0:04:46.24,0:04:47.94,Default,,0000,0000,0000,,绝对不会妥协动摇\N{\r原文字幕}against any terrorists demands.
+Dialogue: 0,0:04:48.04,0:04:49.94,Default,,0000,0000,0000,,托尼 我了解总统\N{\r原文字幕}And I know the President, Tony,
+Dialogue: 0,0:04:50.04,0:04:52.74,Default,,0000,0000,0000,,不管受到什么威胁\N{\r原文字幕}He will not free Salazar.
+Dialogue: 0,0:04:53.54,0:04:55.14,Default,,0000,0000,0000,,他都不会释放萨拉扎\N{\r原文字幕}No matter what the threat.
+Dialogue: 0,0:04:55.64,0:04:58.34,Default,,0000,0000,0000,,我们没时间讨论这些原则问题\N{\r原文字幕}All right then we can't waste any time on standard protocole today.
+Dialogue: 0,0:04:58.44,0:05:00.64,Default,,0000,0000,0000,,我们只剩下5小时\N{\r原文字幕}We've been giving five hours to comply.
+Dialogue: 0,0:05:00.74,0:05:02.54,Default,,0000,0000,0000,,如果要找到凶犯 阻止阴谋\N{\r原文字幕}If we're gonna find these people and stop this threat
+Dialogue: 0,0:05:02.64,0:05:05.04,Default,,0000,0000,0000,,反恐小组需要大量的资源\N{\r原文字幕}then CTU has to have any possible resources at its disposal.
+Dialogue: 0,0:05:05.14,0:05:06.04,Default,,0000,0000,0000,,没问题\N{\r原文字幕}You'll have it.
+Dialogue: 0,0:05:06.14,0:05:09.54,Default,,0000,0000,0000,,好 如果没别的事 我们组要马上回去工作\N{\r原文字幕}All right. Now if we've nothing else to discuss, I'd like to get my team back to work.
+Dialogue: 0,0:05:09.64,0:05:11.04,Default,,0000,0000,0000,,-了解  -谢谢\N{\r原文字幕}-Understood.  -Thank you.
+Dialogue: 0,0:05:14.74,0:05:15.44,Default,,0000,0000,0000,,我是鲍尔\N{\r原文字幕}Bauer.
+Dialogue: 0,0:05:15.54,0:05:16.84,Default,,0000,0000,0000,,爸 是我\N{\r原文字幕}Dad, it's me.
+Dialogue: 0,0:05:16.94,0:05:17.94,Default,,0000,0000,0000,,什么事 金?\N{\r原文字幕}What, Kim?
+Dialogue: 0,0:05:18.04,0:05:19.74,Default,,0000,0000,0000,,我和亚当在死者身上发现些东西\N{\r原文字幕}Adam and I just found something on Goss.
+Dialogue: 0,0:05:19.94,0:05:22.34,Default,,0000,0000,0000,,我们正在调查 很快就能为你查到地址了\N{\r原文字幕}We're working it up now. We should have an address for you pretty soon.
+Dialogue: 0,0:05:22.44,0:05:23.54,Default,,0000,0000,0000,,干得好\N{\r原文字幕}Ok, good work.
+Dialogue: 0,0:05:23.74,0:05:26.14,Default,,0000,0000,0000,,爸... 记得吗 我有话想和你谈\N{\r原文字幕}And... Dad, remember, I want to talk to you.
+Dialogue: 0,0:05:26.74,0:05:27.94,Default,,0000,0000,0000,,嗯? 怎么了?\N{\r原文字幕}What? Something wrong?
+Dialogue: 0,0:05:28.04,0:05:30.94,Default,,0000,0000,0000,,没什么 我想上去和你谈\N{\r原文字幕}No. I was just wondering if I could come up for a few minutes.
+Dialogue: 0,0:05:31.04,0:05:32.84,Default,,0000,0000,0000,,是私事\N{\r原文字幕}Something personal.
+Dialogue: 0,0:05:33.44,0:05:36.44,Default,,0000,0000,0000,,宝贝 现在可不太合适\N{\r原文字幕}Sweetheart, right now is not a good time.
+Dialogue: 0,0:05:36.54,0:05:37.94,Default,,0000,0000,0000,,我有时间就下去找你 好吗?\N{\r原文字幕}As soon as I've got a moment I'll come down, ok?
+Dialogue: 0,0:05:38.24,0:05:39.34,Default,,0000,0000,0000,,好 谢谢\N{\r原文字幕}Yeah, thanks.
+Dialogue: 0,0:05:41.54,0:05:42.74,Default,,0000,0000,0000,,查到了更多戈斯的信息\N{\r原文字幕}They're getting close to Goss.
+Dialogue: 0,0:05:43.84,0:05:45.34,Default,,0000,0000,0000,,你刚才没注射毒品吧?\N{\r原文字幕}You didn't shoot up, did you?
+Dialogue: 0,0:05:45.54,0:05:47.64,Default,,0000,0000,0000,,怎么? 你以为瞒得住我?\N{\r原文字幕}What? You think you'll hide it from me?
+Dialogue: 0,0:05:47.74,0:05:49.04,Default,,0000,0000,0000,,我不是要瞒你\N{\r原文字幕}I am not trying to hide it from you.
+Dialogue: 0,0:05:49.24,0:05:50.34,Default,,0000,0000,0000,,我在努力戒掉!\N{\r原文字幕}I am trying to quit!
+Dialogue: 0,0:05:50.44,0:05:52.04,Default,,0000,0000,0000,,戒掉还不够 杰克\N{\r原文字幕}Ok, people don't just quit Jack.
+Dialogue: 0,0:05:52.24,0:05:54.94,Default,,0000,0000,0000,,我一直情绪不佳\N{\r原文字幕}I've been tempering off.
+Dialogue: 0,0:05:55.14,0:05:56.84,Default,,0000,0000,0000,,好 我现在控制住了\N{\r原文字幕}OK, now it's time to stop.
+Dialogue: 0,0:05:57.04,0:05:58.74,Default,,0000,0000,0000,,看起来不像控制住了\N{\r原文字幕}It doesn't look like it's time.
+Dialogue: 0,0:05:58.84,0:06:00.74,Default,,0000,0000,0000,,算了 今天并不是\N{\r原文字幕}All right, today is not a good day for you
+Dialogue: 0,0:06:00.84,0:06:01.84,Default,,0000,0000,0000,,调整心情的好时机\N{\r原文字幕}to be needing a fix.
+Dialogue: 0,0:06:02.04,0:06:03.84,Default,,0000,0000,0000,,为什么不去帮克萝伊做点事\N{\r原文字幕}Why don't you go work with Chloe
+Dialogue: 0,0:06:03.94,0:06:05.74,Default,,0000,0000,0000,,找找赫克托 萨拉扎的窝点?\N{\r原文字幕}and see if you can pin down a location on Hector Salazar?
+Dialogue: 0,0:06:06.24,0:06:07.94,Default,,0000,0000,0000,,镇定剂疗法有何不妥?\N{\r原文字幕}What's wrong with the methadone program?
+Dialogue: 0,0:06:08.14,0:06:10.54,Default,,0000,0000,0000,,它是要花点时间 但能起作用\N{\r原文字幕}Ok, it takes a little time but it works.
+Dialogue: 0,0:06:11.94,0:06:15.64,Default,,0000,0000,0000,,我不想留下毒瘾记录 你懂吗?\N{\r原文字幕}I am not going on record with this addiction, do you understand me?
+Dialogue: 0,0:06:16.94,0:06:20.54,Default,,0000,0000,0000,,现在你是唯一知道此事的人 不要告诉别人\N{\r原文字幕}OK, so right now, you're the only person who knows about it. It's gonna stay that way.
+Dialogue: 0,0:06:20.64,0:06:22.54,Default,,0000,0000,0000,,但这不是令人羞耻的事\N{\r原文字幕}OK, this is nothing to be ashamed of.
+Dialogue: 0,0:06:22.64,0:06:23.74,Default,,0000,0000,0000,,你为了职责才这样做的\N{\r原文字幕}You did this in the line of duty.
+Dialogue: 0,0:06:23.94,0:06:25.74,Default,,0000,0000,0000,,只有这样才能接近萨拉扎\N{\r原文字幕}Doing junk whas the only to get close to Salazar
+Dialogue: 0,0:06:25.84,0:06:27.04,Default,,0000,0000,0000,,没有人会因此指责你\N{\r原文字幕}Nobody is gonna knock you for that.
+Dialogue: 0,0:06:27.24,0:06:30.84,Default,,0000,0000,0000,,我知道我做过什么 蔡斯 不谈了\N{\r原文字幕}I know what I did, Chase. This conversation is over.
+Dialogue: 0,0:06:31.14,0:06:32.24,Default,,0000,0000,0000,,回去工作吧\N{\r原文字幕}Just get back to work.
+Dialogue: 0,0:06:33.94,0:06:34.64,Default,,0000,0000,0000,,好吧\N{\r原文字幕}Yeah.
+Dialogue: 0,0:06:44.50,0:06:45.20,Default,,0000,0000,0000,,蔡斯?\N{\r原文字幕}Chase?
+Dialogue: 0,0:06:45.50,0:06:46.00,Default,,0000,0000,0000,,干嘛?\N{\r原文字幕}What?
+Dialogue: 0,0:06:46.40,0:06:49.07,Default,,0000,0000,0000,,我刚看了卫生部提供的资料录相\N{\r原文字幕}I was just looking at playback of the Health Services briefing.
+Dialogue: 0,0:06:49.14,0:06:49.77,Default,,0000,0000,0000,,怎么了?\N{\r原文字幕}What about it?
+Dialogue: 0,0:06:50.00,0:06:51.90,Default,,0000,0000,0000,,政府不会看着灾难发生吧?\N{\r原文字幕}The government is not letting this happen, are they?
+Dialogue: 0,0:06:52.00,0:06:54.40,Default,,0000,0000,0000,,萨拉扎再坏 也只是个人而已\N{\r原文字幕}I mean Salazar is just one person no matter how bad he is.
+Dialogue: 0,0:06:54.50,0:06:56.50,Default,,0000,0000,0000,,不用管那些克萝伊 我们只需要遵照命令\N{\r原文字幕}Free it all that Chloe. We need to operate under orders
+Dialogue: 0,0:06:56.60,0:06:58.30,Default,,0000,0000,0000,,找出病毒的携带者\N{\r原文字幕}that is to find the carrier of this virus.
+Dialogue: 0,0:06:58.40,0:07:00.20,Default,,0000,0000,0000,,找出携带者? 就4个小时?\N{\r原文字幕}Find the carrier? In the next 4 hours?
+Dialogue: 0,0:07:00.40,0:07:02.60,Default,,0000,0000,0000,,得了 蔡斯! 这是不可能的事\N{\r原文字幕}Come on Chase! That's not likely, is it?
+Dialogue: 0,0:07:02.80,0:07:04.56,Default,,0000,0000,0000,,如果我们只坐在这儿讨论 当然不可能\N{\r原文字幕}Not if we sit here and debate it.
+Dialogue: 0,0:07:04.89,0:07:07.73,Default,,0000,0000,0000,,谁负责查找戈斯的事情\N{\r原文字幕}Who is just supposed to find and modify the list of Goss' associates?
+Dialogue: 0,0:07:08.00,0:07:08.80,Default,,0000,0000,0000,,金正在做\N{\r原文字幕}Kim is bringing it up now.
+Dialogue: 0,0:07:11.50,0:07:15.90,Default,,0000,0000,0000,,好 检查验尸报告 看有没漏掉的细节\N{\r原文字幕}Great. Then, go over the autopsy report. See if there's anything they overlooked.
+Dialogue: 0,0:07:16.10,0:07:16.90,Default,,0000,0000,0000,,好\N{\r原文字幕}Fine.
+Dialogue: 0,0:07:28.40,0:07:29.70,Default,,0000,0000,0000,,这是关于戈斯的资料\N{\r原文字幕}Here are the files on Goss.
+Dialogue: 0,0:07:33.50,0:07:36.00,Default,,0000,0000,0000,,刚才我在上面 听见你和你爸的对话\N{\r原文字幕}I heard you talking to your dad when I was in his office.
+Dialogue: 0,0:07:37.80,0:07:39.70,Default,,0000,0000,0000,,为什么想今天告诉他?\N{\r原文字幕}Why do you want to tell him today?
+Dialogue: 0,0:07:40.40,0:07:41.90,Default,,0000,0000,0000,,因为这不是件大事\N{\r原文字幕}Because it's not a big deal.
+Dialogue: 0,0:07:42.70,0:07:45.20,Default,,0000,0000,0000,,这就是件大事 好吗? 我不仅是他手下\N{\r原文字幕}Well, it is a big deal, ok? Now not only do I work for him
+Dialogue: 0,0:07:45.30,0:07:47.60,Default,,0000,0000,0000,,还是个外勤探员\N{\r原文字幕}but I'm also a field agent.
+Dialogue: 0,0:07:47.70,0:07:48.90,Default,,0000,0000,0000,,他最不喜欢这样的人当他女儿男友\N{\r原文字幕}It's the last thing he wants for his daughter.
+Dialogue: 0,0:07:49.00,0:07:50.00,Default,,0000,0000,0000,,你怎么知道?\N{\r原文字幕}How do you know that?
+Dialogue: 0,0:07:50.10,0:07:51.30,Default,,0000,0000,0000,,我就是知道\N{\r原文字幕}I know.
+Dialogue: 0,0:07:51.40,0:07:53.50,Default,,0000,0000,0000,,他跟我聊过\N{\r原文字幕}Ok? I mean, he talks about things.
+Dialogue: 0,0:07:54.90,0:07:57.10,Default,,0000,0000,0000,,他说总是没时间陪着你\N{\r原文字幕}About how he was never there for you,
+Dialogue: 0,0:07:57.60,0:07:58.70,Default,,0000,0000,0000,,和你妈妈...\N{\r原文字幕}or you mum...
+Dialogue: 0,0:08:00.90,0:08:02.90,Default,,0000,0000,0000,,他认为一个外勤探员没资格\N{\r原文字幕}Ok? He doesn't believe that a field agent can have
+Dialogue: 0,0:08:03.00,0:08:04.50,Default,,0000,0000,0000,,拥有一段恋情\N{\r原文字幕}a relationship outside of work.
+Dialogue: 0,0:08:04.60,0:08:07.10,Default,,0000,0000,0000,,你没想过 也许我们的事会令他开心?\N{\r原文字幕}Well, did you ever start to think that maybe it would make him happy?
+Dialogue: 0,0:08:07.90,0:08:10.30,Default,,0000,0000,0000,,他女儿找到了真爱?\N{\r原文字幕}That his daughter has found someone she loves?
+Dialogue: 0,0:08:12.88,0:08:14.86,Default,,0000,0000,0000,,听着 我也爱你\N{\r原文字幕}Look, I love you too. Ok?
+Dialogue: 0,0:08:15.01,0:08:18.01,Default,,0000,0000,0000,,但今天真的不合适\N{\r原文字幕}I just don't think today is a good day.
+Dialogue: 0,0:08:18.11,0:08:20.41,Default,,0000,0000,0000,,蔡斯 帮我复印那份名单\N{\r原文字幕}Chase, I need you to copy me on that list.
+Dialogue: 0,0:08:28.91,0:08:30.41,Default,,0000,0000,0000,,这是什么文件?\N{\r原文字幕}Ok, what's this column?
+Dialogue: 0,0:08:30.71,0:08:33.31,Default,,0000,0000,0000,,嗯... 他的家庭情况 合法的\N{\r原文字幕}Hmm...That's family and that's legal.
+Dialogue: 0,0:08:33.41,0:08:34.81,Default,,0000,0000,0000,,-很好  -好\N{\r原文字幕}-Great.  -Ok.
+Dialogue: 0,0:08:36.06,0:08:40.06,Default,,0000,0000,0000,,我明白 仔细将这些文件和拉美的文件进行交叉对比\N{\r原文字幕}Yeah, I understand but just watch to cross-reference those files with our Latin America files.
+Dialogue: 0,0:08:40.28,0:08:42.08,Default,,0000,0000,0000,,是的 把所有名单打印出来\N{\r原文字幕}Yes. I want all the names to printed out.
+Dialogue: 0,0:08:42.29,0:08:45.09,Default,,0000,0000,0000,,送到我办公室 谢谢\N{\r原文字幕}Ok. Just give that over to my office. Thanks.
+Dialogue: 0,0:08:51.91,0:08:54.21,Default,,0000,0000,0000,,-嗨 爸!  -嗨 宝贝\N{\r原文字幕}-Hey, Dad!  -Hey, sweetheart.
+Dialogue: 0,0:08:54.31,0:08:55.51,Default,,0000,0000,0000,,你还好吗?\N{\r原文字幕}You're all right?
+Dialogue: 0,0:08:55.61,0:08:57.81,Default,,0000,0000,0000,,很好 有什么事?\N{\r原文字幕}Yeah. Well, what's going on?
+Dialogue: 0,0:08:57.91,0:08:59.51,Default,,0000,0000,0000,,蔡斯说你压力很大\N{\r原文字幕}Chase said you were really stressed out.
+Dialogue: 0,0:09:00.81,0:09:02.81,Default,,0000,0000,0000,,压力 你指... 你指什么"压力"?\N{\r原文字幕}Stressed, what do... what do... what do you mean'stressed'?
+Dialogue: 0,0:09:02.91,0:09:03.61,Default,,0000,0000,0000,,你知道...\N{\r原文字幕}You know...
+Dialogue: 0,0:09:03.91,0:09:06.61,Default,,0000,0000,0000,,萨拉扎和恐怖分子的威胁\N{\r原文字幕}Salazar and the terrorists threat.
+Dialogue: 0,0:09:07.41,0:09:08.51,Default,,0000,0000,0000,,是的\N{\r原文字幕}Yeah.
+Dialogue: 0,0:09:08.71,0:09:11.81,Default,,0000,0000,0000,,是的! 但我能控制事态 我只是太忙了\N{\r原文字幕}Yeah! Yeah but I think we gonna get it under control. We just got a lot of work to do.
+Dialogue: 0,0:09:12.11,0:09:13.81,Default,,0000,0000,0000,,现在能和你谈谈吗?\N{\r原文字幕}Listen, can I talk to you now?
+Dialogue: 0,0:09:13.91,0:09:15.91,Default,,0000,0000,0000,,当然可以 进来吧\N{\r原文字幕}Yeah, yeah sure, come in.
+Dialogue: 0,0:09:17.01,0:09:17.91,Default,,0000,0000,0000,,坐吧\N{\r原文字幕}Take a seat.
+Dialogue: 0,0:09:28.11,0:09:29.91,Default,,0000,0000,0000,,怎么回事?\N{\r原文字幕}Hey, what's going on?
+Dialogue: 0,0:09:31.31,0:09:33.31,Default,,0000,0000,0000,,经历过这么多事后\N{\r原文字幕}After all we've been through,
+Dialogue: 0,0:09:33.61,0:09:36.51,Default,,0000,0000,0000,,我不想再对你有所隐瞒...\N{\r原文字幕}I find it very difficult to keep things from you...
+Dialogue: 0,0:09:38.51,0:09:39.81,Default,,0000,0000,0000,,什么事?\N{\r原文字幕}Ok, what's up?
+Dialogue: 0,0:09:43.41,0:09:46.21,Default,,0000,0000,0000,,蔡斯和我交往有一段时间了\N{\r原文字幕}Chase and I have been going out for a while
+Dialogue: 0,0:09:46.51,0:09:48.51,Default,,0000,0000,0000,,我们是认真的\N{\r原文字幕}and it's starting to get serious.
+Dialogue: 0,0:10:02.01,0:10:04.31,Default,,0000,0000,0000,,我... 我知道他想亲自告诉你\N{\r原文字幕}I mean... I think he wanted to be the one to tell you
+Dialogue: 0,0:10:04.41,0:10:07.81,Default,,0000,0000,0000,,但他怕影响你们之间的关系\N{\r原文字幕}but he was worried that it would cause a problem between you two.
+Dialogue: 0,0:10:10.61,0:10:12.51,Default,,0000,0000,0000,,我明白了...\N{\r原文字幕}I see...
+Dialogue: 0,0:10:14.11,0:10:16.61,Default,,0000,0000,0000,,你们在一起多久了?\N{\r原文字幕}How long are the two of you been seeing each other?
+Dialogue: 0,0:10:18.01,0:10:19.21,Default,,0000,0000,0000,,三个月\N{\r原文字幕}Three months.
+Dialogue: 0,0:10:23.71,0:10:25.61,Default,,0000,0000,0000,,我非常喜欢他 爸\N{\r原文字幕}I really care for him dad.
+Dialogue: 0,0:10:32.61,0:10:34.11,Default,,0000,0000,0000,,你觉得怎样?\N{\r原文字幕}So what do you think?
+Dialogue: 0,0:10:35.71,0:10:37.61,Default,,0000,0000,0000,,我不知道怎样\N{\r原文字幕}I don't know what I think.
+Dialogue: 0,0:10:39.31,0:10:41.11,Default,,0000,0000,0000,,我很吃惊\N{\r原文字幕}I'm really surprised.
+Dialogue: 0,0:10:42.01,0:10:45.41,Default,,0000,0000,0000,,对不起 今天发生的事让我有些心烦意乱...\N{\r原文字幕}And, I'm sorry, I'm a little bit distracted with everything that's going on today but...
+Dialogue: 0,0:10:45.51,0:10:47.61,Default,,0000,0000,0000,,我知道...\N{\r原文字幕}I know but...
+Dialogue: 0,0:10:48.81,0:10:51.41,Default,,0000,0000,0000,,没关系 我只是想让你知道\N{\r原文字幕}Forget it. I just had to let you know.
+Dialogue: 0,0:10:51.51,0:10:53.91,Default,,0000,0000,0000,,不 不 我很高兴你能告诉我\N{\r原文字幕}No, no, I'm glad you told me.
+Dialogue: 0,0:10:54.11,0:10:54.61,Default,,0000,0000,0000,,好\N{\r原文字幕}Ok.
+Dialogue: 0,0:10:55.61,0:10:57.71,Default,,0000,0000,0000,,-我爱你  -我也爱你\N{\r原文字幕}-I love you.  -I love you too.
+Dialogue: 0,0:11:11.41,0:11:12.21,Default,,0000,0000,0000,,我跟他说了\N{\r原文字幕}I told him.
+Dialogue: 0,0:11:13.41,0:11:14.51,Default,,0000,0000,0000,,他说什么?\N{\r原文字幕}What did he say?
+Dialogue: 0,0:11:16.31,0:11:17.41,Default,,0000,0000,0000,,什么都没说\N{\r原文字幕}Nothing.
+Dialogue: 0,0:11:28.01,0:11:29.70,Default,,0000,0000,0000,,-德斯勒  -米歇尔 我是桑尼\N{\r原文字幕}-Dessler.  -Michelle, it's Sunny.
+Dialogue: 0,0:11:29.80,0:11:31.51,Default,,0000,0000,0000,,我有些发现 也许对你们有用\N{\r原文字幕}I think I found something that might be helpful to your guys.
+Dialogue: 0,0:11:31.81,0:11:32.31,Default,,0000,0000,0000,,什么发现?\N{\r原文字幕}What's that?
+Dialogue: 0,0:11:32.41,0:11:34.41,Default,,0000,0000,0000,,我说过戈斯的身体里有些奇怪的东西...\N{\r原文字幕}I told you I found something odd in Goss's system...
+Dialogue: 0,0:11:34.51,0:11:37.51,Default,,0000,0000,0000,,我们找到一个未变形的病毒分子\N{\r原文字幕}We found an unmetabolised virus particle.
+Dialogue: 0,0:11:37.61,0:11:42.41,Default,,0000,0000,0000,,通俗地说 病毒似乎包含在晶状物中\N{\r原文字幕}I'll skip techno-babble. Bottom line: It looks like the virus was delivered in a crystalline form.
+Dialogue: 0,0:11:42.51,0:11:45.41,Default,,0000,0000,0000,,也许病毒就在白粉中\N{\r原文字幕}I mean, maybe what you're looking for is a white powder.
+Dialogue: 0,0:11:45.61,0:11:49.11,Default,,0000,0000,0000,,可能是一包可卡因或海洛因?\N{\r原文字幕}So, it would look like a bag of cocaine or heroin?
+Dialogue: 0,0:11:49.21,0:11:50.41,Default,,0000,0000,0000,,对 也许这是他们的诡计\N{\r原文字幕}Yeah, that may be the strategy.
+Dialogue: 0,0:11:50.51,0:11:52.31,Default,,0000,0000,0000,,毒贩以为自己在贩毒品\N{\r原文字幕}Someone thinks that they're selling a bag of coke
+Dialogue: 0,0:11:52.51,0:11:54.41,Default,,0000,0000,0000,,而其实是在运病毒\N{\r原文字幕}well in fact they're handling a virus.
+Dialogue: 0,0:11:55.01,0:11:58.11,Default,,0000,0000,0000,,凯尔 那事我不干 懂吗?\N{\r原文字幕}Look, Kyle, I'm not gonna do it, ok?
+Dialogue: 0,0:11:58.21,0:12:00.21,Default,,0000,0000,0000,,不管你给我多少钱 这是在偷窃毒品\N{\r原文字幕}I don't care how much you pay me, it's stealing drugs.
+Dialogue: 0,0:12:01.81,0:12:02.91,Default,,0000,0000,0000,,蒂姆 你是我最好的朋友\N{\r原文字幕}Tim, you're my best friend.
+Dialogue: 0,0:12:03.01,0:12:04.51,Default,,0000,0000,0000,,来吧 来帮我\N{\r原文字幕}Come on, you've gotta come. Do it for me.
+Dialogue: 0,0:12:04.61,0:12:08.71,Default,,0000,0000,0000,,凯尔 你去墨西哥拿毒品前 应该告诉我!\N{\r原文字幕}Well, look Kyle, you should talked to me before you went down to Mexico and bought a bag of coke!
+Dialogue: 0,0:12:09.21,0:12:11.91,Default,,0000,0000,0000,,我... 你只需要坐在车里等 我去交货\N{\r原文字幕}I'm not... I'm not asking you to do anything but wait in the car. I'll make the delivery.
+Dialogue: 0,0:12:12.21,0:12:14.21,Default,,0000,0000,0000,,我不去 不会和你一起去\N{\r原文字幕}I'm not gonna do it. I'm not gonna go with you.
+Dialogue: 0,0:12:16.51,0:12:17.51,Default,,0000,0000,0000,,好吧\N{\r原文字幕}Fine.
+Dialogue: 0,0:12:21.31,0:12:21.81,Default,,0000,0000,0000,,喂\N{\r原文字幕}Yeah.
+Dialogue: 0,0:12:21.91,0:12:22.91,Default,,0000,0000,0000,,凯尔 我是扎克\N{\r原文字幕}Kyle, it's Zack.
+Dialogue: 0,0:12:23.01,0:12:24.50,Default,,0000,0000,0000,,你好扎克! 什么事?\N{\r原文字幕}Zack, hey! What's up?
+Dialogue: 0,0:12:24.51,0:12:27.21,Default,,0000,0000,0000,,-我们得谈谈  -稍等 伙计\N{\r原文字幕}-We need to talk.  -Hold on a second, man.
+Dialogue: 0,0:12:28.61,0:12:29.51,Default,,0000,0000,0000,,谁是扎克?\N{\r原文字幕}Who's Zack?
+Dialogue: 0,0:12:29.71,0:12:30.71,Default,,0000,0000,0000,,不是谁\N{\r原文字幕}It's nobody.
+Dialogue: 0,0:12:31.21,0:12:33.51,Default,,0000,0000,0000,,你俩今天怎么了? 搞得神神秘秘\N{\r原文字幕}What's with you guys today? Everything is a secret.
+Dialogue: 0,0:12:33.81,0:12:35.91,Default,,0000,0000,0000,,他在处理些家务事\N{\r原文字幕}He's got family stuff going on.
+Dialogue: 0,0:12:37.61,0:12:39.51,Default,,0000,0000,0000,,什么事 伙计?\N{\r原文字幕}What's going on, man?
+Dialogue: 0,0:12:39.61,0:12:40.91,Default,,0000,0000,0000,,你跟我说! 你拿到了白粉?\N{\r原文字幕}You tell me! You've got the powder?
+Dialogue: 0,0:12:41.01,0:12:42.21,Default,,0000,0000,0000,,对 我当然拿到了\N{\r原文字幕}Yeah, yeah, of course I do.
+Dialogue: 0,0:12:42.31,0:12:43.51,Default,,0000,0000,0000,,什么时候送过去\N{\r原文字幕}Just tell me when to drop it off.
+Dialogue: 0,0:12:43.61,0:12:45.81,Default,,0000,0000,0000,,今晚 7:30左右\N{\r原文字幕}Tonight. Come by around 7:30.
+Dialogue: 0,0:12:45.91,0:12:46.81,Default,,0000,0000,0000,,7:30 好的\N{\r原文字幕}7:30, yeah.
+Dialogue: 0,0:12:46.91,0:12:50.61,Default,,0000,0000,0000,,再重说一遍好吗? 我... 怎样交货?\N{\r原文字幕}Can we just go over one more time? I'd like... how this all thing is gonna go down?
+Dialogue: 0,0:12:50.71,0:12:51.91,Default,,0000,0000,0000,,还重复什么?\N{\r原文字幕}Go over what?
+Dialogue: 0,0:12:52.11,0:12:54.21,Default,,0000,0000,0000,,你把毒品交给我 我付你钱\N{\r原文字幕}You drop off the coke, I give you the money.
+Dialogue: 0,0:12:54.41,0:12:55.81,Default,,0000,0000,0000,,对你来说很难吗?\N{\r原文字幕}Is that too much for you to handle?
+Dialogue: 0,0:12:55.91,0:12:56.51,Default,,0000,0000,0000,,不是!\N{\r原文字幕}No!
+Dialogue: 0,0:12:56.61,0:12:58.81,Default,,0000,0000,0000,,不 非常简单 伙计\N{\r原文字幕}No, that's totally cool, man.
+Dialogue: 0,0:12:59.11,0:13:00.21,Default,,0000,0000,0000,,最好是\N{\r原文字幕}It'd better be.
+Dialogue: 0,0:13:24.17,0:13:24.97,Default,,0000,0000,0000,,喂\N{\r原文字幕}Yeah.
+Dialogue: 0,0:13:24.99,0:13:25.89,Default,,0000,0000,0000,,杰克 我是米歇尔\N{\r原文字幕}Jack, it's Michelle.
+Dialogue: 0,0:13:25.93,0:13:27.83,Default,,0000,0000,0000,,我们查出了那具感染病毒尸体大卫·戈斯\N{\r原文字幕}We've got the last known address on David Goss,
+Dialogue: 0,0:13:27.93,0:13:29.83,Default,,0000,0000,0000,,已知的最近期的住址\N{\r原文字幕}the infected body that was dropped off at Health Services.
+Dialogue: 0,0:13:29.93,0:13:30.63,Default,,0000,0000,0000,,多久前的?\N{\r原文字幕}How recent?
+Dialogue: 0,0:13:30.73,0:13:31.73,Default,,0000,0000,0000,,两个月前\N{\r原文字幕}Two months.
+Dialogue: 0,0:13:31.83,0:13:34.03,Default,,0000,0000,0000,,好 洛杉矶警局派人去了吗\N{\r原文字幕}Okay. Have LAPD send over perimeter team.
+Dialogue: 0,0:13:34.13,0:13:36.23,Default,,0000,0000,0000,,告诉他们 蔡斯和我到之前不要采取行动\N{\r原文字幕}Tell them hands off until Chase and I get there.
+Dialogue: 0,0:13:36.33,0:13:37.23,Default,,0000,0000,0000,,明白\N{\r原文字幕}Got it.
+Dialogue: 0,0:13:40.23,0:13:41.73,Default,,0000,0000,0000,,蔡斯 出发\N{\r原文字幕}Chase, let's go around.
+Dialogue: 0,0:13:44.93,0:13:45.93,Default,,0000,0000,0000,,查到地址了?\N{\r原文字幕}You get an address?
+Dialogue: 0,0:13:46.13,0:13:46.83,Default,,0000,0000,0000,,对\N{\r原文字幕}Yeah.
+Dialogue: 0,0:13:50.93,0:13:52.63,Default,,0000,0000,0000,,通知他们\N{\r原文字幕}Make sure they understand.
+Dialogue: 0,0:13:52.73,0:13:54.53,Default,,0000,0000,0000,,杰克到之前不许行动\N{\r原文字幕}They are not to go in until Jack gets there, ok?
+Dialogue: 0,0:13:54.56,0:13:57.76,Default,,0000,0000,0000,,喂! 皮特说你刚查到了有关戈斯的地址?\N{\r原文字幕}Hey! Peter just told me you've got an address on Goss?
+Dialogue: 0,0:13:58.20,0:14:00.30,Default,,0000,0000,0000,,是的 我通知杰克了\N{\r原文字幕}Yeah. I'm bringing it over to Jack now.
+Dialogue: 0,0:14:00.60,0:14:02.00,Default,,0000,0000,0000,,你确定没有更近期的地址了?\N{\r原文字幕}You're sure there's nothing more recent?
+Dialogue: 0,0:14:02.20,0:14:05.20,Default,,0000,0000,0000,,可以再花一小时找 但不保证能找到更有用的\N{\r原文字幕}We could spend another hour looking, but there's no guarantee we find anything better.
+Dialogue: 0,0:14:05.40,0:14:10.10,Default,,0000,0000,0000,,嗯 我们没时间可浪费了 打开杰克和蔡斯的通话器\N{\r原文字幕}Yeah, we don't have one hour to waste, do we? Look, put transmitters on Jack and Chase.
+Dialogue: 0,0:14:10.30,0:14:13.40,Default,,0000,0000,0000,,我要分析他俩的行动 以即时做决策\N{\r原文字幕}I wanna be analizing all their interactions so we can work it up in real time, all right?
+Dialogue: 0,0:14:13.70,0:14:14.10,Default,,0000,0000,0000,,是\N{\r原文字幕}Ok.
+Dialogue: 0,0:14:20.00,0:14:20.70,Default,,0000,0000,0000,,杰克\N{\r原文字幕}Jack.
+Dialogue: 0,0:14:20.80,0:14:21.90,Default,,0000,0000,0000,,有什么事?\N{\r原文字幕}What have you got?
+Dialogue: 0,0:14:22.10,0:14:25.90,Default,,0000,0000,0000,,这是我们在戈斯身上找到的 这是他贩毒被捕的地址\N{\r原文字幕}This is everything we have on Goss. Here is the address where he was arrested for dealing.
+Dialogue: 0,0:14:26.00,0:14:26.70,Default,,0000,0000,0000,,多久前的?\N{\r原文字幕}How recent?
+Dialogue: 0,0:14:26.80,0:14:29.20,Default,,0000,0000,0000,,两个月前 资料都在上面 你可以在路上看看\N{\r原文字幕}Two months ago. It's all on the file, you can check it on the way.
+Dialogue: 0,0:14:29.30,0:14:29.90,Default,,0000,0000,0000,,很好\N{\r原文字幕}Good.
+Dialogue: 0,0:14:33.19,0:14:36.29,Default,,0000,0000,0000,,-这是卫生部为你们提供的医疗配件  -谢谢 孩子\N{\r原文字幕}-Medical kit that health services has put together for you.  -Thanks, baby.
+Dialogue: 0,0:14:38.29,0:14:39.29,Default,,0000,0000,0000,,小心点\N{\r原文字幕}Be careful.
+Dialogue: 0,0:14:40.95,0:14:41.85,Default,,0000,0000,0000,,出发 蔡斯!\N{\r原文字幕}Let's go, Chase!
+Dialogue: 0,0:14:50.23,0:14:53.03,Default,,0000,0000,0000,,到那儿弄清楚情况 再行动\N{\r原文字幕}We've gonna have to wait until we get there to see what the set-up is.
+Dialogue: 0,0:14:53.06,0:14:54.85,Default,,0000,0000,0000,,洛杉矶警局已经包围了那儿\N{\r原文字幕}LAPD is locking it down now.
+Dialogue: 0,0:14:55.83,0:14:57.61,Default,,0000,0000,0000,,金跟你说了我们的事\N{\r原文字幕}And I know Kim told you about us.
+Dialogue: 0,0:14:57.64,0:14:59.44,Default,,0000,0000,0000,,我想亲自告诉你 但找不到时机\N{\r原文字幕}I was going to tell you myself, I just couldn't find the right time.
+Dialogue: 0,0:15:01.43,0:15:04.03,Default,,0000,0000,0000,,你应该知道 我们是认真的\N{\r原文字幕}I thought you should know. It's getting serious.
+Dialogue: 0,0:15:05.73,0:15:07.03,Default,,0000,0000,0000,,她也是这样说的\N{\r原文字幕}That's what she said.
+Dialogue: 0,0:15:24.83,0:15:26.13,Default,,0000,0000,0000,,反恐小组怎么说?\N{\r原文字幕}What does the CTU have to say?
+Dialogue: 0,0:15:26.23,0:15:28.43,Default,,0000,0000,0000,,他们说这可能会是场严重的危机\N{\r原文字幕}That it could be a very dangerous situation.
+Dialogue: 0,0:15:28.73,0:15:33.03,Default,,0000,0000,0000,,阿尔梅达给了我病毒扩散的后果分析 非常可怕\N{\r原文字幕}Almeida sent me a breakdown of what could happen if this virus is released and it's not good.
+Dialogue: 0,0:15:33.63,0:15:35.63,Default,,0000,0000,0000,,授予反恐小组全权处理\N{\r原文字幕}Give CTU carte blanche.
+Dialogue: 0,0:15:36.03,0:15:38.43,Default,,0000,0000,0000,,-满足他们的一切需要  -我已经这样做了\N{\r原文字幕}-Whatever they need, make sure they get it.  -I did.
+Dialogue: 0,0:15:39.43,0:15:40.43,Default,,0000,0000,0000,,我们应该取消辩论\N{\r原文字幕}We should cancel the debate.
+Dialogue: 0,0:15:40.53,0:15:41.03,Default,,0000,0000,0000,,什么?\N{\r原文字幕}What?
+Dialogue: 0,0:15:41.13,0:15:43.93,Default,,0000,0000,0000,,国家正遭受即将发生的生化威胁\N{\r原文字幕}It's a mistake to continue preparing for tonight
+Dialogue: 0,0:15:44.13,0:15:45.93,Default,,0000,0000,0000,,还继续准备今晚的辩论是错误的\N{\r原文字幕}while there is an imminent bio-terrorist threat against this country.
+Dialogue: 0,0:15:46.33,0:15:50.13,Default,,0000,0000,0000,,首先 并不确定事情即将发生 大卫\N{\r原文字幕}First of all, we don't know that is imminent, David.
+Dialogue: 0,0:15:50.93,0:15:54.13,Default,,0000,0000,0000,,再次 你我都知道 我们每天都受到威胁\N{\r原文字幕}And you know just as well as I do that we get threats everyday.
+Dialogue: 0,0:15:54.23,0:15:55.63,Default,,0000,0000,0000,,但都不像这次\N{\r原文字幕}Not like this one.
+Dialogue: 0,0:15:55.85,0:15:58.55,Default,,0000,0000,0000,,尸体感染了武器化的病毒\N{\r原文字幕}They said the body was infected with a weaponized virus.
+Dialogue: 0,0:15:58.95,0:16:00.25,Default,,0000,0000,0000,,好吧 你是对的\N{\r原文字幕}Ok, let's say you're right.
+Dialogue: 0,0:16:00.95,0:16:04.15,Default,,0000,0000,0000,,即使你把精力放到这事上面 你又能做什么?\N{\r原文字幕}What do really think you could do if you put your full attention on it?
+Dialogue: 0,0:16:07.85,0:16:12.55,Default,,0000,0000,0000,,我只想确定 你不劝我取消辩论会 是怕我的形像受损\N{\r原文字幕}I just wanna make sure that you're not advising me how to fear that my image will suffer if we cancel.
+Dialogue: 0,0:16:12.75,0:16:14.35,Default,,0000,0000,0000,,当然会有损害\N{\r原文字幕}Oh no, it will suffer.
+Dialogue: 0,0:16:15.15,0:16:22.05,Default,,0000,0000,0000,,我认为最好还是按计划举行 有了新情况再作反应\N{\r原文字幕}But I still think the best thing to do is to proceed as planned and respond when we have more information.
+Dialogue: 0,0:16:24.89,0:16:26.09,Default,,0000,0000,0000,,基勒来了\N{\r原文字幕}Keeler's here.
+Dialogue: 0,0:16:31.75,0:16:32.95,Default,,0000,0000,0000,,我们换条路走\N{\r原文字幕}Come on, let's go this way.
+Dialogue: 0,0:16:33.41,0:16:34.61,Default,,0000,0000,0000,,别担心 韦恩\N{\r原文字幕}Don't worry, Wayne.
+Dialogue: 0,0:16:36.47,0:16:37.37,Default,,0000,0000,0000,,约翰!\N{\r原文字幕}John!
+Dialogue: 0,0:16:38.59,0:16:42.49,Default,,0000,0000,0000,,总统阁下 你不用专程下来迎接我\N{\r原文字幕}Mr.President. You don't have to come away down here just to welcome me.
+Dialogue: 0,0:16:42.51,0:16:43.61,Default,,0000,0000,0000,,不麻烦\N{\r原文字幕}No, it's no trouble.
+Dialogue: 0,0:16:43.71,0:16:46.91,Default,,0000,0000,0000,,在昨天的基金会上 我和你老朋友雅各布·薇姿聊过了\N{\r原文字幕}I spoke with your old friend Jacob Weisz yesterday at a fund raiser.
+Dialogue: 0,0:16:47.01,0:16:48.31,Default,,0000,0000,0000,,你在南达科塔停留过?\N{\r原文字幕}You stopped at South Dakota?
+Dialogue: 0,0:16:48.51,0:16:49.31,Default,,0000,0000,0000,,吃顿饭罢了\N{\r原文字幕}Just for dinner.
+Dialogue: 0,0:16:49.68,0:16:50.62,Default,,0000,0000,0000,,他怎么样?\N{\r原文字幕}How is he feeling?
+Dialogue: 0,0:16:50.67,0:16:53.67,Default,,0000,0000,0000,,好多了 他还玩了几轮高尔夫\N{\r原文字幕}Better. Much better. He's even playing a few rounds of golf.
+Dialogue: 0,0:16:54.56,0:16:55.36,Default,,0000,0000,0000,,他就是这样\N{\r原文字幕}That's him.
+Dialogue: 0,0:16:56.17,0:16:57.80,Default,,0000,0000,0000,,好了 不多聊了约翰\N{\r原文字幕}Well, I don't wanna keep you John.
+Dialogue: 0,0:16:57.90,0:17:01.07,Default,,0000,0000,0000,,我知道要赢得辩论 你还得去抱抱佛脚\N{\r原文字幕}I know you have a lot of last minute cramming to do if you wanna survive this debate.
+Dialogue: 0,0:17:01.19,0:17:02.78,Default,,0000,0000,0000,,我不想在这儿跟你辩 总统阁下\N{\r原文字幕}I woon't argue with you there, Mr.President.
+Dialogue: 0,0:17:03.17,0:17:07.33,Default,,0000,0000,0000,,你的参谋团 你受到纳税人的好评 比我多 三比一\N{\r原文字幕}Your resource staff, compliments of the tax payers, outnumbers mine, three to one.
+Dialogue: 0,0:17:07.35,0:17:09.02,Default,,0000,0000,0000,,我还得自己出钱请这些人!\N{\r原文字幕}I actually have to pay some of them myself!
+Dialogue: 0,0:17:09.72,0:17:10.72,Default,,0000,0000,0000,,握手吧?\N{\r原文字幕}To shake?
+Dialogue: 0,0:17:11.76,0:17:12.86,Default,,0000,0000,0000,,里面见 阁下\N{\r原文字幕}I'll see you inside, sir.
+Dialogue: 0,0:17:13.06,0:17:14.26,Default,,0000,0000,0000,,当然 先生\N{\r原文字幕}You certainly will, sir.
+Dialogue: 0,0:17:18.46,0:17:20.46,Default,,0000,0000,0000,,韦恩 我们准备好了\N{\r原文字幕}Wayne, we're ready.
+Dialogue: 0,0:17:30.71,0:17:31.91,Default,,0000,0000,0000,,你跟他说了什么?\N{\r原文字幕}What were you talking to him about?
+Dialogue: 0,0:17:32.81,0:17:34.51,Default,,0000,0000,0000,,我们有机会了\N{\r原文字幕}I think we may have a opportunity.
+Dialogue: 0,0:17:35.41,0:17:36.61,Default,,0000,0000,0000,,什么机会?\N{\r原文字幕}What kind of opportunity?
+Dialogue: 0,0:17:37.51,0:17:39.11,Default,,0000,0000,0000,,呆会儿再说\N{\r原文字幕}Not now, after.
+Dialogue: 0,0:17:53.31,0:17:55.81,Default,,0000,0000,0000,,如果你觉得我配不上你女儿 我很抱歉\N{\r原文字幕}I'm sorry if you think I'm not good enough for your daughter.
+Dialogue: 0,0:17:56.31,0:17:57.81,Default,,0000,0000,0000,,好吗? 但我情不自禁\N{\r原文字幕}Ok? But I can't help the way I feel.
+Dialogue: 0,0:17:59.31,0:18:01.51,Default,,0000,0000,0000,,蔡斯 你觉得我为什么让金到反恐组工作?\N{\r原文字幕}Chase, what do you think I put Kim at CTU?
+Dialogue: 0,0:18:01.71,0:18:03.81,Default,,0000,0000,0000,,坐在桌子旁 用电脑工作?\N{\r原文字幕}Behind a desk, working on a computer?
+Dialogue: 0,0:18:04.11,0:18:06.61,Default,,0000,0000,0000,,这样我就能照看她 确保她的安全!\N{\r原文字幕}So I can keep an eye on her, make sure she's safe!
+Dialogue: 0,0:18:07.01,0:18:09.41,Default,,0000,0000,0000,,不是让她和外勤探员谈恋爱!\N{\r原文字幕}Not so she can start dating some field agent!
+Dialogue: 0,0:18:09.91,0:18:10.61,Default,,0000,0000,0000,,安全?\N{\r原文字幕}Safe?
+Dialogue: 0,0:18:11.11,0:18:13.51,Default,,0000,0000,0000,,你把说得她好像12岁小孩 她是个成年人\N{\r原文字幕}You know you're talking about her like she's 12 years old. She's a grown woman.
+Dialogue: 0,0:18:13.61,0:18:16.11,Default,,0000,0000,0000,,见鬼 蔡斯 你知道这工作的下场\N{\r原文字幕}Damn it Chase, you've seen what this job can do to you.
+Dialogue: 0,0:18:16.21,0:18:19.11,Default,,0000,0000,0000,,看看我的下场 它毁掉了我的亲情爱情!\N{\r原文字幕}You've seen what it's done to me. It ruined every relationship I ever had!
+Dialogue: 0,0:18:19.31,0:18:20.91,Default,,0000,0000,0000,,-是你的问题 杰克...  -不!\N{\r原文字幕}-That's you, Jack...  -No!
+Dialogue: 0,0:18:21.41,0:18:22.81,Default,,0000,0000,0000,,不 是工作的问题!\N{\r原文字幕}No, it's the job!
+Dialogue: 0,0:18:23.81,0:18:24.81,Default,,0000,0000,0000,,我不觉得\N{\r原文字幕}I don't think so.
+Dialogue: 0,0:18:25.51,0:18:27.81,Default,,0000,0000,0000,,你不觉得... 你知道个屁?\N{\r原文字幕}You don't think so... What the hell do you know?
+Dialogue: 0,0:18:28.91,0:18:31.01,Default,,0000,0000,0000,,因为这工作 我妻子死了\N{\r原文字幕}My wife died because of this job.
+Dialogue: 0,0:18:31.71,0:18:34.91,Default,,0000,0000,0000,,我差点失去了金  我不会让这一切再发生了\N{\r原文字幕}And I almost lost Kim too. I'm not gonna let that happen again.
+Dialogue: 0,0:18:35.61,0:18:39.11,Default,,0000,0000,0000,,我会不惜一切保护她 明白吗? 不惜一切!\N{\r原文字幕}I will do everything I have to to protect her. Do you understand me? Everything!
+Dialogue: 0,0:18:42.51,0:18:46.51,Default,,0000,0000,0000,,见鬼 蔡斯 做这份工作你就不能享有正常生活\N{\r原文字幕}Damn it Chase, you cannot have a normal life and do this job at the same time.
+Dialogue: 0,0:18:48.41,0:18:50.61,Default,,0000,0000,0000,,你是说我不该和任何人恋爱?\N{\r原文字幕}So, you're saying that I shouldn't have any relationship with anyone?
+Dialogue: 0,0:18:51.51,0:18:53.21,Default,,0000,0000,0000,,我就这意思\N{\r原文字幕}That's exactly what I'm saying.
+Dialogue: 0,0:18:56.61,0:18:58.51,Default,,0000,0000,0000,,尤其不能和我女儿\N{\r原文字幕}And especially with my daughter.
+Dialogue: 0,0:19:03.23,0:19:04.03,Default,,0000,0000,0000,,我是鲍尔探员?\N{\r原文字幕}Agent Bauer?
+Dialogue: 0,0:19:04.23,0:19:05.53,Default,,0000,0000,0000,,杰克 我是路易斯\N{\r原文字幕}Jack, it's Luis.
+Dialogue: 0,0:19:05.63,0:19:06.33,Default,,0000,0000,0000,,什么事?\N{\r原文字幕}What's up?
+Dialogue: 0,0:19:06.43,0:19:11.63,Default,,0000,0000,0000,,我想把萨拉扎带去隔离区 可是总部却进行了一级防范封锁\N{\r原文字幕}You tell me. I've tried to move Salazar back to solitary but there is a lockdown from Division.
+Dialogue: 0,0:19:11.93,0:19:13.03,Default,,0000,0000,0000,,这是怎么回事?\N{\r原文字幕}What's that all about?
+Dialogue: 0,0:19:13.13,0:19:14.43,Default,,0000,0000,0000,,我现在不能说\N{\r原文字幕}I can't tell you right now.
+Dialogue: 0,0:19:14.83,0:19:18.23,Default,,0000,0000,0000,,杰克 这杂狗种当着我们的面杀了他律师\N{\r原文字幕}Jack, the bastard murdered his attorney right in front of us.
+Dialogue: 0,0:19:18.43,0:19:20.73,Default,,0000,0000,0000,,为什么监狱还在保护他?\N{\r原文字幕}What the hell is Division doing protecting him?
+Dialogue: 0,0:19:20.83,0:19:22.19,Default,,0000,0000,0000,,他们不是在保护他\N{\r原文字幕}They're not protecting him.
+Dialogue: 0,0:19:22.29,0:19:22.89,Default,,0000,0000,0000,,那是什么?\N{\r原文字幕}Then what?
+Dialogue: 0,0:19:23.79,0:19:24.89,Default,,0000,0000,0000,,我现在不想谈这个\N{\r原文字幕}I can't get into it right now.
+Dialogue: 0,0:19:25.09,0:19:25.99,Default,,0000,0000,0000,,不想谈?\N{\r原文字幕}Can't get into it?
+Dialogue: 0,0:19:26.49,0:19:29.59,Default,,0000,0000,0000,,拼了命去逮住他的人 不是只有你一个!\N{\r原文字幕}You're not the only one who gave up a chunk of his life to put this guy away!
+Dialogue: 0,0:19:29.69,0:19:31.19,Default,,0000,0000,0000,,让我了解情况 杰克!\N{\r原文字幕}I need to be in the loop Jack!
+Dialogue: 0,0:19:33.89,0:19:36.69,Default,,0000,0000,0000,,这消息你可不要告诉其它人\N{\r原文字幕}This information doesn't go anywhere after you hang up the phone.
+Dialogue: 0,0:19:37.32,0:19:37.82,Default,,0000,0000,0000,,什么消息?\N{\r原文字幕}What?
+Dialogue: 0,0:19:39.12,0:19:40.42,Default,,0000,0000,0000,,萨拉扎可能会被带走\N{\r原文字幕}Salazar might walk.
+Dialogue: 0,0:19:40.72,0:19:41.62,Default,,0000,0000,0000,,带走?\N{\r原文字幕}Walk?
+Dialogue: 0,0:19:41.72,0:19:42.42,Default,,0000,0000,0000,,你在说什么?\N{\r原文字幕}What are you talking about?
+Dialogue: 0,0:19:42.52,0:19:47.12,Default,,0000,0000,0000,,听着 还不太清楚 但有人在外面策划行动\N{\r原文字幕}Look, I don't think it's gonna get to that. But someone on the outside has got a lot of leverage.
+Dialogue: 0,0:19:47.42,0:19:47.92,Default,,0000,0000,0000,,谁?\N{\r原文字幕}Who?
+Dialogue: 0,0:19:48.75,0:19:50.15,Default,,0000,0000,0000,,我想是他兄弟赫克托\N{\r原文字幕}I think it's his brother, Hector.
+Dialogue: 0,0:19:51.84,0:19:52.94,Default,,0000,0000,0000,,我不信!\N{\r原文字幕}I don't believe this!
+Dialogue: 0,0:19:53.54,0:19:56.74,Default,,0000,0000,0000,,-保持警惕 我会尽快打给你  -好的\N{\r原文字幕}-Just hang tight. I'll get back to you as soon as I can.  -Yeah. All right.
+Dialogue: 0,0:19:59.64,0:20:05.04,Default,,0000,0000,0000,,想想到了那儿 我们该如何行动 呆会我们商量一下\N{\r原文字幕}You'd better start thinking about what we're gonna do when we get there. We'll talk about this later.
+Dialogue: 0,0:20:05.34,0:20:05.84,Default,,0000,0000,0000,,好\N{\r原文字幕}Fine.
+Dialogue: 0,0:20:12.34,0:20:14.14,Default,,0000,0000,0000,,开门 我们走\N{\r原文字幕}Open the door. Let's go.
+Dialogue: 0,0:20:24.84,0:20:27.44,Default,,0000,0000,0000,,-开12号监门  -是\N{\r原文字幕}-Open 12.  -Copy that.
+Dialogue: 0,0:20:47.54,0:20:49.24,Default,,0000,0000,0000,,不 还没给你找到新律师\N{\r原文字幕}No, I haven't found your new lawyer.
+Dialogue: 0,0:20:52.04,0:20:53.94,Default,,0000,0000,0000,,等到处决你时再说吧?\N{\r原文字幕}About an execution day?
+Dialogue: 0,0:20:54.04,0:20:55.54,Default,,0000,0000,0000,,哦! 有人不高兴?\N{\r原文字幕}Uh! Someone's not happy?
+Dialogue: 0,0:20:55.94,0:20:57.04,Default,,0000,0000,0000,,你知道些什么 拉姆?\N{\r原文字幕}What do you know, Ramon?
+Dialogue: 0,0:20:57.24,0:20:58.44,Default,,0000,0000,0000,,什么?\N{\r原文字幕}About?
+Dialogue: 0,0:21:11.74,0:21:14.74,Default,,0000,0000,0000,,-告诉我  -告诉你什么?\N{\r原文字幕}-Talk to me.  -Talk to you about what?
+Dialogue: 0,0:21:15.43,0:21:17.83,Default,,0000,0000,0000,,你兄弟想干嘛?\N{\r原文字幕}What is your brother trying to do?
+Dialogue: 0,0:21:17.94,0:21:20.94,Default,,0000,0000,0000,,赫克托? 你有他的消息? 他怎么样了?\N{\r原文字幕}Hector? Have you heard from him? How is he?
+Dialogue: 0,0:21:21.04,0:21:24.44,Default,,0000,0000,0000,,下周是他的生日 我还不知道送什么给他呢\N{\r原文字幕}His birthday's coming up next week. I don't even know what to get him.
+Dialogue: 0,0:21:25.74,0:21:28.04,Default,,0000,0000,0000,,你在说废话 伙计\N{\r原文字幕}You keep talking trash, man.
+Dialogue: 0,0:21:28.74,0:21:30.64,Default,,0000,0000,0000,,你出不了这监狱!\N{\r原文字幕}You're not going anywhere!
+Dialogue: 0,0:21:32.83,0:21:33.73,Default,,0000,0000,0000,,这可说不定!\N{\r原文字幕}Maybe not!
+Dialogue: 0,0:21:34.03,0:21:36.03,Default,,0000,0000,0000,,有件事我可以向你保证:\N{\r原文字幕}But let me insure you of one thing:
+Dialogue: 0,0:21:37.03,0:21:41.81,Default,,0000,0000,0000,,如果发生了什么事 我获得了自由\N{\r原文字幕}If something does happen and I am unexpectedly allowed to go free,
+Dialogue: 0,0:21:41.99,0:21:43.85,Default,,0000,0000,0000,,我肯定你会来找我\N{\r原文字幕}I have no doubt that you'll come looking for me.
+Dialogue: 0,0:21:46.13,0:21:49.13,Default,,0000,0000,0000,,尤其是你妻子伊莉斯死后\N{\r原文字幕}Especially after the death of your wife, Elise.
+Dialogue: 0,0:21:50.23,0:21:54.53,Default,,0000,0000,0000,,还有你两个儿子 叫什么来着? 托马斯和小路易斯?\N{\r原文字幕}And your two boys, what are their names? Thomas and Luis Junior?
+Dialogue: 0,0:22:10.72,0:22:13.92,Default,,0000,0000,0000,,-恐怖分子又打过电话吗?  -没有\N{\r原文字幕}-Any follow-up phone calls from the terrorists?  -No.
+Dialogue: 0,0:22:14.81,0:22:17.21,Default,,0000,0000,0000,,所以没什么新情况要向总统汇报?\N{\r原文字幕}So basically, there's nothing new to report to the President?
+Dialogue: 0,0:22:17.31,0:22:21.01,Default,,0000,0000,0000,,在等鲍尔的消息 他正在追查一条线索\N{\r原文字幕}Not until I hear from Bauer. He's following a lead right now.
+Dialogue: 0,0:22:21.11,0:22:22.31,Default,,0000,0000,0000,,很好 托尼 谢谢\N{\r原文字幕}All right, Tony. Thanks.
+Dialogue: 0,0:22:24.31,0:22:27.71,Default,,0000,0000,0000,,今晚辩论后我再接受采访好吗? 谢谢\N{\r原文字幕}So, if you excuse me until this evening's debate? Thank you.
+Dialogue: 0,0:22:32.31,0:22:33.41,Default,,0000,0000,0000,,进行得挺顺利\N{\r原文字幕}That went well.
+Dialogue: 0,0:22:33.51,0:22:36.31,Default,,0000,0000,0000,,是的 有新消息吗?\N{\r原文字幕}Yes, it did. So, what's the latest?
+Dialogue: 0,0:22:36.41,0:22:41.21,Default,,0000,0000,0000,,还没有 反恐小组正在跟踪线索 查找尸体是谁抛下的\N{\r原文字幕}Nothing yet. CTU is working a lead. Trying to figure out who dropped off the dead body.
+Dialogue: 0,0:22:41.31,0:22:43.21,Default,,0000,0000,0000,,还不知道幕后主谋?\N{\r原文字幕}So, they still don't know who's behind this threat?
+Dialogue: 0,0:22:43.41,0:22:46.41,Default,,0000,0000,0000,,嗯 他们仍然怀疑萨拉扎的兄弟赫克托\N{\r原文字幕}No, they're still speculating on Salazar's brother, Hector.
+Dialogue: 0,0:22:46.51,0:22:51.01,Default,,0000,0000,0000,,他们还不知道释放萨拉扎是不是幌子\N{\r原文字幕}What they don't know is if it's a bluff staged to release Salazar.
+Dialogue: 0,0:22:51.11,0:22:55.01,Default,,0000,0000,0000,,怎么是幌子? 病毒可是切实存在的\N{\r原文字幕}And how can it be a bluff? The virus has been confirmed.
+Dialogue: 0,0:22:55.11,0:23:00.29,Default,,0000,0000,0000,,是的 抛尸是一件事 大卫 传染一个城市是另一件\N{\r原文字幕}Yes but dropping off a dead body is one thing, David. Being able to infect an entire city,
+Dialogue: 0,0:23:00.34,0:23:01.70,Default,,0000,0000,0000,,完全不同的事\N{\r原文字幕}that's something different.
+Dialogue: 0,0:23:02.51,0:23:05.31,Default,,0000,0000,0000,,-好吧 很快我们就清楚了  -好\N{\r原文字幕}-All right. I guess we'll know soon enough.  -OK
+Dialogue: 0,0:23:07.41,0:23:08.01,Default,,0000,0000,0000,,喂! 韦恩\N{\r原文字幕}Hey! Wayne.
+Dialogue: 0,0:23:09.61,0:23:12.11,Default,,0000,0000,0000,,你之前提到一个机会\N{\r原文字幕}You spoke earlier about an opportunity.
+Dialogue: 0,0:23:12.31,0:23:17.31,Default,,0000,0000,0000,,是的... 我还不太确定 我们现在谈谈吧\N{\r原文字幕}Yeah... Yeah but I'm not really sure that's something we need to discuss right now.
+Dialogue: 0,0:23:18.19,0:23:19.89,Default,,0000,0000,0000,,就是说...\N{\r原文字幕}Which means...
+Dialogue: 0,0:23:19.99,0:23:24.99,Default,,0000,0000,0000,,因为怕失败 或怕我不喜欢 所以你瞒着我做事\N{\r原文字幕}whatever it is fell through or you know I'm not going to like it so you're proceding without me.
+Dialogue: 0,0:23:25.09,0:23:29.99,Default,,0000,0000,0000,,不是这样 出了这样的威胁 我不想分散你的注意力\N{\r原文字幕}No, that's not it. I just think that because of this threat, I don't wanna divert your attention.
+Dialogue: 0,0:23:32.39,0:23:35.59,Default,,0000,0000,0000,,这像边散步边嚼口香糖一样简单 倒底什么事?\N{\r原文字幕}Like walk and chew gum at the same time. What is it?
+Dialogue: 0,0:23:40.03,0:23:41.33,Default,,0000,0000,0000,,基勒的剧本\N{\r原文字幕}Keeler's playbook.
+Dialogue: 0,0:23:42.73,0:23:44.33,Default,,0000,0000,0000,,如果我们弄到一份?\N{\r原文字幕}What if I can get us a copy?
+Dialogue: 0,0:23:44.73,0:23:46.93,Default,,0000,0000,0000,,"剧本"是什么意思?\N{\r原文字幕}What exactly do you mean by "playbook"?
+Dialogue: 0,0:23:47.03,0:23:49.23,Default,,0000,0000,0000,,今晚辩论他准备的所有文稿\N{\r原文字幕}His entire prep for tonight's debate.
+Dialogue: 0,0:23:49.33,0:23:54.33,Default,,0000,0000,0000,,他将如何答问 会提出什么问题 一切\N{\r原文字幕}How's he gonna answer the questions, what issues he's gonna try to review up on. Everything.
+Dialogue: 0,0:23:57.43,0:23:58.83,Default,,0000,0000,0000,,怎么弄得到?\N{\r原文字幕}And how would we get it?
+Dialogue: 0,0:23:59.23,0:24:00.83,Default,,0000,0000,0000,,你不需要知道细节\N{\r原文字幕}You don't need to know the details.
+Dialogue: 0,0:24:09.23,0:24:10.43,Default,,0000,0000,0000,,我非常吃惊\N{\r原文字幕}I'm surprised.
+Dialogue: 0,0:24:10.93,0:24:11.93,Default,,0000,0000,0000,,吃什么惊?\N{\r原文字幕}About what?
+Dialogue: 0,0:24:12.23,0:24:17.03,Default,,0000,0000,0000,,你知道无论如何 我都不允许这样的事发生\N{\r原文字幕}The question. You know there's no way on Earth that I would ever agree to this.
+Dialogue: 0,0:24:17.23,0:24:22.33,Default,,0000,0000,0000,,大卫 我... 我不是要喝醉了去偷剧本\N{\r原文字幕}David I'm not... I am not talking about pulling a sherry and stealing it.
+Dialogue: 0,0:24:23.13,0:24:26.83,Default,,0000,0000,0000,,如果我们只是不小心捡到 为什么不翻翻看?\N{\r原文字幕}Now it may just drop in our laps. And if it does why shouldn't we look at it?
+Dialogue: 0,0:24:28.03,0:24:31.83,Default,,0000,0000,0000,,韦恩 你不再是我的私人助理了\N{\r原文字幕}Wayne, you are not in the private sector anymore.
+Dialogue: 0,0:24:33.13,0:24:35.73,Default,,0000,0000,0000,,你应该知道我的内阁是如何工作的\N{\r原文字幕}You have to get use to how my administration works.
+Dialogue: 0,0:24:35.83,0:24:39.93,Default,,0000,0000,0000,,我在帮助你的内阁得到另一个四年\N{\r原文字幕}And I'm just trying to give your administration 4 more years.
+Dialogue: 0,0:24:46.53,0:24:49.83,Default,,0000,0000,0000,,好... 好吧 如果你真想这样\N{\r原文字幕}Ok... Ok, if that's how you want it.
+Dialogue: 0,0:24:50.73,0:24:52.33,Default,,0000,0000,0000,,我是想这样\N{\r原文字幕}That's how I want it.
+Dialogue: 0,0:25:06.63,0:25:08.33,Default,,0000,0000,0000,,喂! 金 你们都清楚了吗?\N{\r原文字幕}Hey! Kim, you are all caught up?
+Dialogue: 0,0:25:08.43,0:25:11.63,Default,,0000,0000,0000,,很清楚 我要更新我爸小组的数据\N{\r原文字幕}Pretty much. I just have to refresh the data of my dad's panel.
+Dialogue: 0,0:25:11.73,0:25:12.23,Default,,0000,0000,0000,,很好\N{\r原文字幕}Great.
+Dialogue: 0,0:25:14.83,0:25:17.03,Default,,0000,0000,0000,,我能问一件关于你和托尼的事吗?\N{\r原文字幕}Can I ask you a question about you and Tony?
+Dialogue: 0,0:25:18.34,0:25:19.54,Default,,0000,0000,0000,,我和托尼的什么事?\N{\r原文字幕}Me and Tony what?
+Dialogue: 0,0:25:20.77,0:25:23.07,Default,,0000,0000,0000,,我不知道 我只是在想...\N{\r原文字幕}I don't know, I was just wondering is it...
+Dialogue: 0,0:25:24.59,0:25:27.39,Default,,0000,0000,0000,,和丈夫在同一办公室工作有问题么?\N{\r原文字幕}a problem working with your husband in the same office?
+Dialogue: 0,0:25:28.69,0:25:31.39,Default,,0000,0000,0000,,不 并没有问题 为什么这样问?\N{\r原文字幕}No, no, it's... not a problem. Why do you ask?
+Dialogue: 0,0:25:32.49,0:25:33.59,Default,,0000,0000,0000,,不是重要的事\N{\r原文字幕}It's not a big deal.
+Dialogue: 0,0:25:33.69,0:25:34.79,Default,,0000,0000,0000,,没关系 我们还有点空\N{\r原文字幕}No, it's ok, we have a minute.
+Dialogue: 0,0:25:36.09,0:25:40.69,Default,,0000,0000,0000,,我和蔡斯在交往 但我爸可能不太高兴\N{\r原文字幕}Well, I've been dating Chase and I don't think my dad's too happy about it.
+Dialogue: 0,0:25:42.79,0:25:45.49,Default,,0000,0000,0000,,我明白了 这...\N{\r原文字幕}I see. Well...
+Dialogue: 0,0:25:45.59,0:25:48.49,Default,,0000,0000,0000,,我相信你爸只是想保护你...\N{\r原文字幕}I'm sure your dad is just trying to protect you but...
+Dialogue: 0,0:25:48.59,0:25:53.09,Default,,0000,0000,0000,,不过 这最终是你和蔡斯之间的问题\N{\r原文字幕}ultimately, it's just between you and Chase.
+Dialogue: 0,0:25:53.19,0:25:53.99,Default,,0000,0000,0000,,我知道了\N{\r原文字幕}Yeah, I know.
+Dialogue: 0,0:25:55.49,0:25:57.19,Default,,0000,0000,0000,,更新完了告诉我一声 好吗?\N{\r原文字幕}Right, let me know when you finish those panels, ok?
+Dialogue: 0,0:25:57.29,0:25:58.19,Default,,0000,0000,0000,,好的\N{\r原文字幕}Sure.
+Dialogue: 0,0:26:07.79,0:26:09.09,Default,,0000,0000,0000,,分析专家刚打来电话\N{\r原文字幕}Analysits just called.
+Dialogue: 0,0:26:09.19,0:26:11.09,Default,,0000,0000,0000,,他们断定如果赫克托要策划这起生化威胁\N{\r原文字幕}They determined that if Hector Salazar is orchestrating this bio-threat,
+Dialogue: 0,0:26:11.19,0:26:14.09,Default,,0000,0000,0000,,他很可能是在墨西哥北部进行操纵\N{\r原文字幕}he's probably operating in the Northen Mexico.
+Dialogue: 0,0:26:14.19,0:26:16.19,Default,,0000,0000,0000,,所以我们需要他在那边的财产目录\N{\r原文字幕}So, we're gonna need a list of his properties down there.
+Dialogue: 0,0:26:16.29,0:26:19.79,Default,,0000,0000,0000,,克萝伊正在调查 她会检查杰克递交的文件\N{\r原文字幕}Chloe's working on it, she's going through the brief files that Jack turned in after the bust.
+Dialogue: 0,0:26:19.89,0:26:21.39,Default,,0000,0000,0000,,很好 我去跟她谈\N{\r原文字幕}All right. I'll talk to her.
+Dialogue: 0,0:26:21.49,0:26:22.39,Default,,0000,0000,0000,,还有...\N{\r原文字幕}Also...
+Dialogue: 0,0:26:22.59,0:26:25.39,Default,,0000,0000,0000,,联络我们所有的眼线 也许赫克托\N{\r原文字幕}Fire up all our contacts and just in case Hector was stupid
+Dialogue: 0,0:26:25.59,0:26:27.39,Default,,0000,0000,0000,,蠢得在最近几天出现过呢 懂吗?\N{\r原文字幕}enough to show his face in the last couple days, all right?
+Dialogue: 0,0:26:27.79,0:26:28.59,Default,,0000,0000,0000,,好\N{\r原文字幕}Ok.
+Dialogue: 0,0:26:35.89,0:26:37.29,Default,,0000,0000,0000,,那男孩没出乱子吧?\N{\r原文字幕}Is the boy still in place?
+Dialogue: 0,0:26:37.39,0:26:38.29,Default,,0000,0000,0000,,嗯\N{\r原文字幕}Yeah.
+Dialogue: 0,0:26:38.89,0:26:40.49,Default,,0000,0000,0000,,总统收到消息了吗?\N{\r原文字幕}And the President has been informed?
+Dialogue: 0,0:26:40.89,0:26:43.49,Default,,0000,0000,0000,,是的 但他没有取消辩论\N{\r原文字幕}Yeah and he's not cancelling the debate.
+Dialogue: 0,0:26:43.59,0:26:46.49,Default,,0000,0000,0000,,他真有"胆量" 我来试试他\N{\r原文字幕}He's got some 'cojones', I'll give him that.
+Dialogue: 0,0:26:46.99,0:26:50.59,Default,,0000,0000,0000,,看看扯上几百万人的性命 他倒底有多强硬\N{\r原文字幕}Let's see what kind of tough guy he is when there's a couple of million lives in the line.
+Dialogue: 0,0:27:05.19,0:27:06.49,Default,,0000,0000,0000,,克劳迪娅!\N{\r原文字幕}Claudia!
+Dialogue: 0,0:27:11.09,0:27:14.39,Default,,0000,0000,0000,,-怎么了?  -没事 一切都好\N{\r原文字幕}-What's going on?  -Nothing. Everything's fine.
+Dialogue: 0,0:27:14.49,0:27:18.09,Default,,0000,0000,0000,,别跟我打马虎眼儿! 你跟你爸吵什么?\N{\r原文字幕}Don't tell me nothing! Why are you arguing with your father?
+Dialogue: 0,0:27:18.19,0:27:20.79,Default,,0000,0000,0000,,别这样 赫克托 没什么事\N{\r原文字幕}Please, Hector, it doesn't matter.
+Dialogue: 0,0:27:25.89,0:27:28.39,Default,,0000,0000,0000,,他不喜欢我现在的生活方式\N{\r原文字幕}He's not happy with how I live my life.
+Dialogue: 0,0:27:30.19,0:27:32.39,Default,,0000,0000,0000,,他不喜欢你跟我在一起?\N{\r原文字幕}You mean he doesn't like you being with me?
+Dialogue: 0,0:27:50.19,0:27:52.79,Default,,0000,0000,0000,,不许再对你父亲大声吼叫\N{\r原文字幕}Don't raise your voice to your father ever again.
+Dialogue: 0,0:27:55.89,0:27:56.99,Default,,0000,0000,0000,,克劳迪娅 住手!\N{\r原文字幕}Claudia, no!
+Dialogue: 0,0:27:58.19,0:28:03.39,Default,,0000,0000,0000,,我怎样对我父亲是我的事 不是你的事!\N{\r原文字幕}How I conduct myself with my father is my concern. Not yours!
+Dialogue: 0,0:28:22.09,0:28:24.69,Default,,0000,0000,0000,,很好 你说的\N{\r原文字幕}Good. Now that's said.
+Dialogue: 0,0:28:25.89,0:28:29.49,Default,,0000,0000,0000,,叫露西娅准备晚餐好吗?\N{\r原文字幕}Tell Lucia and to prepare supper, ok?
+Dialogue: 0,0:28:41.99,0:28:43.59,Default,,0000,0000,0000,,好 我去告诉他\N{\r原文字幕}Ok, I'll tell him.
+Dialogue: 0,0:28:49.57,0:28:53.07,Default,,0000,0000,0000,,-我是阿尔梅达  -托尼 我是克萝伊 刚接到杰克的电话 他们到了\N{\r原文字幕}-Almeida  -Tony, it's Chloe. I just get off the phone with Jack. They've just arrived.
+Dialogue: 0,0:28:53.07,0:28:54.37,Default,,0000,0000,0000,,很好 有事吗?\N{\r原文字幕}All right, is there a problem?
+Dialogue: 0,0:28:54.42,0:28:56.42,Default,,0000,0000,0000,,杰克不使用通话器\N{\r原文字幕}Jack's not going to use the transmitters.
+Dialogue: 0,0:28:56.43,0:28:57.03,Default,,0000,0000,0000,,为什么?\N{\r原文字幕}Why not?
+Dialogue: 0,0:28:57.13,0:28:59.33,Default,,0000,0000,0000,,他说接通电源太费事\N{\r原文字幕}He says that would take too long to wire them up.
+Dialogue: 0,0:28:59.60,0:29:06.06,Default,,0000,0000,0000,,听着 你从他那里收到任何新情况 马上通知我 明白吗?\N{\r原文字幕}Whatever. Look, you're learning point from his side, any information he digs up I want it right away. You got it?
+Dialogue: 0,0:29:06.15,0:29:08.55,Default,,0000,0000,0000,,行 但你用不着冲我吼\N{\r原文字幕}Ok, you don't have to yell.
+Dialogue: 0,0:29:08.97,0:29:10.35,Default,,0000,0000,0000,,我没冲你吼 克萝伊\N{\r原文字幕}No one's yelling, Chloe.
+Dialogue: 0,0:29:10.75,0:29:13.05,Default,,0000,0000,0000,,听着 我们收到了感染可怕病毒的尸体\N{\r原文字幕}Look, we got a body infected with a deadly virus.
+Dialogue: 0,0:29:13.15,0:29:16.05,Default,,0000,0000,0000,,在接下来的三小时 它和萨拉扎紧密相关\N{\r原文字幕}Somehow, we have to tie it to Salazar in the next 3 hours.
+Dialogue: 0,0:29:16.15,0:29:18.55,Default,,0000,0000,0000,,现在 杰克所在的地方是我们唯一的线索\N{\r原文字幕}Right now, Jack's location is our only lead.
+Dialogue: 0,0:29:18.65,0:29:21.65,Default,,0000,0000,0000,,所以有消息你必须及时通知我 懂吗?\N{\r原文字幕}So, I need you to keep me up to the minute. Understood?
+Dialogue: 0,0:29:21.74,0:29:24.75,Default,,0000,0000,0000,,-我说了没问题  -好 开工吧\N{\r原文字幕}-I already said ok.  -Good, then get on it.
+Dialogue: 0,0:29:32.69,0:29:33.69,Default,,0000,0000,0000,,费舍尔探长\N{\r原文字幕}Detective Fisher.
+Dialogue: 0,0:29:33.99,0:29:34.99,Default,,0000,0000,0000,,嗯 你是鲍尔?\N{\r原文字幕}Yeah, you're Bauer?
+Dialogue: 0,0:29:35.02,0:29:36.42,Default,,0000,0000,0000,,是 他是我搭档蔡斯·埃德蒙兹\N{\r原文字幕}Yeah. He's my partner, Chase Edmunds.
+Dialogue: 0,0:29:36.93,0:29:37.93,Default,,0000,0000,0000,,情况怎样?\N{\r原文字幕}What's the activity?
+Dialogue: 0,0:29:38.03,0:29:39.83,Default,,0000,0000,0000,,我们到达后 就没有人进出过\N{\r原文字幕}No one's get in and out since we got here.
+Dialogue: 0,0:29:39.93,0:29:41.33,Default,,0000,0000,0000,,人手怎样安排的\N{\r原文字幕}How is the inside layout.
+Dialogue: 0,0:29:41.43,0:29:43.43,Default,,0000,0000,0000,,共30人 分布在各个楼层\N{\r原文字幕}About 30 people total, spread out on all floors.
+Dialogue: 0,0:29:43.53,0:29:47.03,Default,,0000,0000,0000,,疑犯的公寓 位于三楼转角处\N{\r原文字幕}The apartment you asked the case is the corner one there on the third floor.
+Dialogue: 0,0:29:47.33,0:29:48.53,Default,,0000,0000,0000,,你们还没进去过吧?\N{\r原文字幕}You didn't go in there, right?
+Dialogue: 0,0:29:48.63,0:29:50.33,Default,,0000,0000,0000,,我接到命令 你来之前不采取行动\N{\r原文字幕}I was ordered to stand down until you got there.
+Dialogue: 0,0:29:50.53,0:29:53.03,Default,,0000,0000,0000,,-很好  -你需要多少帮手?\N{\r原文字幕}-Good.  -How much back-up you want?
+Dialogue: 0,0:29:53.56,0:29:56.06,Default,,0000,0000,0000,,不用 你的人只需要把住出口\N{\r原文字幕}None. Right now I want your men just to cover the exits.
+Dialogue: 0,0:29:56.16,0:29:57.56,Default,,0000,0000,0000,,不用? 我们带了30个兄弟啊\N{\r原文字幕}None? There's 30 scumbags in there.
+Dialogue: 0,0:29:57.66,0:29:59.56,Default,,0000,0000,0000,,嗯 我们不想引起任何警觉\N{\r原文字幕}Yeah, we don't want to set off any alarms.
+Dialogue: 0,0:29:59.66,0:30:01.36,Default,,0000,0000,0000,,我们两人可以溜进去 不会引人注意\N{\r原文字幕}Two of us can sneak in without a fight.
+Dialogue: 0,0:30:01.56,0:30:02.46,Default,,0000,0000,0000,,你确定?\N{\r原文字幕}You're sure about that?
+Dialogue: 0,0:30:02.56,0:30:05.86,Default,,0000,0000,0000,,对 打开1号线 需要你们进来时会通知你\N{\r原文字幕}Yeah. Get this open on channel 1, we'll let you know when we want you to come in.
+Dialogue: 0,0:30:05.96,0:30:06.56,Default,,0000,0000,0000,,你准备好了吗?\N{\r原文字幕}You're ready?
+Dialogue: 0,0:30:07.06,0:30:07.72,Default,,0000,0000,0000,,上吧\N{\r原文字幕}Let's go.
+Dialogue: 0,0:30:07.78,0:30:08.48,Default,,0000,0000,0000,,好的\N{\r原文字幕}You got it.
+Dialogue: 0,0:31:04.36,0:31:06.06,Default,,0000,0000,0000,,这可不是公共楼梯?\N{\r原文字幕}The stair is not open to the public?
+Dialogue: 0,0:31:06.16,0:31:09.27,Default,,0000,0000,0000,,别紧张 老兄 我们不是来找乐子的\N{\r原文字幕}Just take it easy, sport. We're not here to take anybody down.
+Dialogue: 0,0:31:09.30,0:31:10.46,Default,,0000,0000,0000,,我们是来了解情况的\N{\r原文字幕}We just want a little information.
+Dialogue: 0,0:31:25.16,0:31:26.46,Default,,0000,0000,0000,,有人来了!\N{\r原文字幕}They come!
+Dialogue: 0,0:31:26.56,0:31:27.46,Default,,0000,0000,0000,,蔡斯!\N{\r原文字幕}Chase!
+Dialogue: 0,0:31:30.46,0:31:31.26,Default,,0000,0000,0000,,退后!\N{\r原文字幕}Get back!
+Dialogue: 0,0:31:34.96,0:31:35.46,Default,,0000,0000,0000,,上!\N{\r原文字幕}Come on!
+Dialogue: 0,0:31:48.66,0:31:50.96,Default,,0000,0000,0000,,蔡斯 有个人逃了!\N{\r原文字幕}Chase, we got a runner!
+Dialogue: 0,0:32:40.76,0:32:42.36,Default,,0000,0000,0000,,休想逃!\N{\r原文字幕}Don't even think about it!
+Dialogue: 0,0:32:42.46,0:32:44.26,Default,,0000,0000,0000,,我是无辜的 我什么都没做过!\N{\r原文字幕}I'm clean, I've got nothing on me!
+Dialogue: 0,0:32:44.36,0:32:45.96,Default,,0000,0000,0000,,闭嘴 蠢猪!\N{\r原文字幕}Shut up, stupid!
+Dialogue: 0,0:32:46.06,0:32:48.06,Default,,0000,0000,0000,,你刚才朝联邦探员开了枪\N{\r原文字幕}You've just fired a federal agent.
+Dialogue: 0,0:32:48.26,0:32:49.76,Default,,0000,0000,0000,,你最好老实交待\N{\r原文字幕}You'd better start talking to me.
+Dialogue: 0,0:32:49.86,0:32:52.36,Default,,0000,0000,0000,,不然就让你在这楼梯口流血至死\N{\r原文字幕}Or I will let you bleed to death right here on this landing.
+Dialogue: 0,0:32:52.46,0:32:54.66,Default,,0000,0000,0000,,蔡斯! 我抓住他了 在楼下!\N{\r原文字幕}Chase! I got him, we're down there!
+Dialogue: 0,0:32:54.76,0:32:57.06,Default,,0000,0000,0000,,费舍尔 我们抓住嫌犯了\N{\r原文字幕}Hey Fisher, we got him. We got our suspect.
+Dialogue: 0,0:32:57.16,0:33:01.16,Default,,0000,0000,0000,,-大卫·戈斯是什么人?  -戈斯是毒贩 我从他那买过货\N{\r原文字幕}-Who is David Goss?  -Goss is a dealer, I just score from him sometimes.
+Dialogue: 0,0:33:01.26,0:33:02.46,Default,,0000,0000,0000,,现在可不是 他已经死了\N{\r原文字幕}Well not anymore. He's dead.
+Dialogue: 0,0:33:02.56,0:33:04.56,Default,,0000,0000,0000,,好吧 他死了\N{\r原文字幕}Ok, he's dead.
+Dialogue: 0,0:33:04.96,0:33:07.16,Default,,0000,0000,0000,,给我老实点\N{\r原文字幕}Don't be a smartass.
+Dialogue: 0,0:33:07.26,0:33:10.86,Default,,0000,0000,0000,,谁供给他毒品? 谁供给他毒品?\N{\r原文字幕}Who is his supplier? Who is his supplier?
+Dialogue: 0,0:33:13.26,0:33:14.06,Default,,0000,0000,0000,,蔡斯!\N{\r原文字幕}Chase!
+Dialogue: 0,0:33:19.36,0:33:23.76,Default,,0000,0000,0000,,一个叫卡洛斯·克雷特加的人 在提华纳工作!\N{\r原文字幕}A guy Carlos Corretja, he works in Tijuana!
+Dialogue: 0,0:33:23.86,0:33:26.76,Default,,0000,0000,0000,,克雷特加是萨拉扎的中层分销商之一\N{\r原文字幕}Corretja is one of Salazar's mid-level distributors.
+Dialogue: 0,0:33:26.86,0:33:28.16,Default,,0000,0000,0000,,你和他有往来吗?\N{\r原文字幕}You're doing business with him?
+Dialogue: 0,0:33:28.26,0:33:30.18,Default,,0000,0000,0000,,我今晚要给他打电话\N{\r原文字幕}I'm supposed to call him tonight.
+Dialogue: 0,0:33:30.32,0:33:34.18,Default,,0000,0000,0000,,克雷特加要我给他找个没前科的人\N{\r原文字幕}Corretja wanted me to find a mule, someone clean without a record.
+Dialogue: 0,0:33:34.28,0:33:34.76,Default,,0000,0000,0000,,什么目的?\N{\r原文字幕}What for?
+Dialogue: 0,0:33:34.86,0:33:37.76,Default,,0000,0000,0000,,帮他把一小袋毒品带入境\N{\r原文字幕}He wanted to move a small bag of coke across the border.
+Dialogue: 0,0:33:37.86,0:33:40.02,Default,,0000,0000,0000,,-但我觉得这样做没意义  -为什么?\N{\r原文字幕}-It didn't make any sense to me!  -Why not?
+Dialogue: 0,0:33:40.26,0:33:42.06,Default,,0000,0000,0000,,他花一万美元就为了让毒品入境\N{\r原文字幕}He payed $10,000 to bring it up.
+Dialogue: 0,0:33:42.46,0:33:44.16,Default,,0000,0000,0000,,毒品本身还不值那个价\N{\r原文字幕}Coke isn't even worth that much.
+Dialogue: 0,0:33:44.56,0:33:47.76,Default,,0000,0000,0000,,-那包毒品在哪里?  -还在那个把它带入境的人手里\N{\r原文字幕}-Where's the bag of coke now?  -The guy who brought it across still has it.
+Dialogue: 0,0:33:47.86,0:33:51.76,Default,,0000,0000,0000,,-他叫什么名字?  -他叫凯尔·辛格勒\N{\r原文字幕}-What's his name?  -His name is Kyle, Kyle Singer.
+Dialogue: 0,0:33:53.56,0:33:57.16,Default,,0000,0000,0000,,抱歉海伦 生意归生意...\N{\r原文字幕}Sorry Helen, it's business...
+Dialogue: 0,0:33:58.36,0:34:00.26,Default,,0000,0000,0000,,这... 这是什么?\N{\r原文字幕}What is... What is this?
+Dialogue: 0,0:34:00.36,0:34:02.26,Default,,0000,0000,0000,,最后通知\N{\r原文字幕}It's a final announce.
+Dialogue: 0,0:34:03.06,0:34:08.76,Default,,0000,0000,0000,,如果明早八点半不付房租 我会叫城市服务中心赶走你们\N{\r原文字幕}If you don't pay the rent by tomorrow morning 8 am, I'm calling city services and they start the eviction process.
+Dialogue: 0,0:34:08.86,0:34:13.76,Default,,0000,0000,0000,,别... 别这样 求你了! 宽限几天吧\N{\r原文字幕}Don... Don't do this, no please! I'm gonna have it in a couple of days.
+Dialogue: 0,0:34:13.86,0:34:15.16,Default,,0000,0000,0000,,我可不管\N{\r原文字幕}I can't take care of you.
+Dialogue: 0,0:34:28.56,0:34:29.36,Default,,0000,0000,0000,,我马上回来\N{\r原文字幕}I'll get back.
+Dialogue: 0,0:34:35.86,0:34:37.46,Default,,0000,0000,0000,,你欠他多少 妈?\N{\r原文字幕}How much you own him, 'ma?
+Dialogue: 0,0:34:37.66,0:34:39.76,Default,,0000,0000,0000,,-你不用管  -多少?\N{\r原文字幕}-Stay out of this.  -How much?
+Dialogue: 0,0:34:40.06,0:34:45.76,Default,,0000,0000,0000,,800美元 你不用担心 你爸会去找你叔叔\N{\r原文字幕}$800. But don't you worry about it because your father is gonna talk to uncle Stanford.
+Dialogue: 0,0:35:00.66,0:35:02.43,Default,,0000,0000,0000,,喂! 800美元 是吗?\N{\r原文字幕}Hey! $800, right?
+Dialogue: 0,0:35:08.06,0:35:12.76,Default,,0000,0000,0000,,以后有问题 找我或我爸 好吗?\N{\r原文字幕}And frpm now, if you have a problem, talk to me or my dad. Ok?
+Dialogue: 0,0:35:13.86,0:35:15.36,Default,,0000,0000,0000,,不要找我妈妈\N{\r原文字幕}Leave my mum out of it.
+Dialogue: 0,0:35:15.76,0:35:17.46,Default,,0000,0000,0000,,最好写信来\N{\r原文字幕}I expect your receive in the mailbox.
+Dialogue: 0,0:35:30.36,0:35:31.56,Default,,0000,0000,0000,,你哪儿来的钱?\N{\r原文字幕}Where did you get that money?
+Dialogue: 0,0:35:31.86,0:35:33.86,Default,,0000,0000,0000,,这不重要 好吗? 我们需要钱\N{\r原文字幕}It doesn't matter. Ok? We needed it.
+Dialogue: 0,0:35:34.06,0:35:35.26,Default,,0000,0000,0000,,我来搞定\N{\r原文字幕}I got it.
+Dialogue: 0,0:35:38.46,0:35:40.26,Default,,0000,0000,0000,,各位请注意\N{\r原文字幕}Can I have everybody's attention, please?
+Dialogue: 0,0:35:41.86,0:35:44.36,Default,,0000,0000,0000,,所有人都调查一个叫凯尔·辛格勒的人\N{\r原文字幕}Everyone should be working on the name Kyle Singer.
+Dialogue: 0,0:35:44.46,0:35:47.86,Default,,0000,0000,0000,,5分钟后希望能在我办公桌上 看到他的主要资料\N{\r原文字幕}All right, I want points chief from department's heads on my desk in the next 5 minutes.
+Dialogue: 0,0:35:47.96,0:35:49.46,Default,,0000,0000,0000,,集中力量调查凯尔·辛格勒\N{\r原文字幕}Everything there is to know about Kyle Singer,
+Dialogue: 0,0:35:49.56,0:35:50.36,Default,,0000,0000,0000,,我需要\N{\r原文字幕}I want it.
+Dialogue: 0,0:35:50.46,0:35:51.96,Default,,0000,0000,0000,,他的住址 职业\N{\r原文字幕}Where he lives, where he works,
+Dialogue: 0,0:35:52.06,0:35:54.36,Default,,0000,0000,0000,,最重要的是 他现在可能在哪里\N{\r原文字幕}and most importantly, where he's likely to be right now.
+Dialogue: 0,0:35:54.46,0:35:58.56,Default,,0000,0000,0000,,同外勤保持联系 以便克萝伊分析杰克发回的情况\N{\r原文字幕}Also, keep an open channel to Fields Ops so that Chloe can forward anything that comes in back to Jack.
+Dialogue: 0,0:35:58.66,0:35:59.86,Default,,0000,0000,0000,,开工!\N{\r原文字幕}All right. Let's go!
+Dialogue: 0,0:36:06.86,0:36:09.96,Default,,0000,0000,0000,,-你在干嘛?  -缩小搜查范围\N{\r原文字幕}-What are you doing?  -Narrowing the search space.
+Dialogue: 0,0:36:17.49,0:36:20.29,Default,,0000,0000,0000,,没想到你这么糊涂 凯尔\N{\r原文字幕}I can't believe you're so stupid, Kyle.
+Dialogue: 0,0:36:20.32,0:36:22.32,Default,,0000,0000,0000,,为了帮补家里?\N{\r原文字幕}So, this is how you're gonna help your family?
+Dialogue: 0,0:36:22.59,0:36:23.99,Default,,0000,0000,0000,,去贩毒?\N{\r原文字幕}By dealing drugs?
+Dialogue: 0,0:36:24.01,0:36:29.13,Default,,0000,0000,0000,,不是贩毒 送毒而已 能很快挣到一笔钱给家里\N{\r原文字幕}I'm not dealing them. Stupid delivery. It's quick money which my folks need right now.
+Dialogue: 0,0:36:29.32,0:36:32.22,Default,,0000,0000,0000,,你家里又上哪儿找钱保释你呢 凯尔?\N{\r原文字幕}But where they're gonna get the money to bail you out of jail, Kyle?
+Dialogue: 0,0:36:40.30,0:36:41.60,Default,,0000,0000,0000,,你是对的\N{\r原文字幕}Ok, you're right.
+Dialogue: 0,0:36:43.19,0:36:45.69,Default,,0000,0000,0000,,我知道我糊涂\N{\r原文字幕}It's stupid. I know that.
+Dialogue: 0,0:36:46.20,0:36:47.80,Default,,0000,0000,0000,,但已经做了\N{\r原文字幕}But I did it.
+Dialogue: 0,0:36:48.20,0:36:49.90,Default,,0000,0000,0000,,我已经卷进去了\N{\r原文字幕}And I'm in this now.
+Dialogue: 0,0:36:50.30,0:36:52.20,Default,,0000,0000,0000,,卷进去了...\N{\r原文字幕}I'm in the middle of this...
+Dialogue: 0,0:36:53.90,0:36:56.00,Default,,0000,0000,0000,,我今晚会去交货 知道吗?\N{\r原文字幕}Look, I'll make this delivery tonight. All right?
+Dialogue: 0,0:36:57.20,0:36:59.90,Default,,0000,0000,0000,,我保证 今后再也不会了!\N{\r原文字幕}I promise, it's gonna be over. I promise you!
+Dialogue: 0,0:37:00.00,0:37:01.90,Default,,0000,0000,0000,,等不到今晚了 我们结束了\N{\r原文字幕}I'm not waiting until tonight, it's over now.
+Dialogue: 0,0:37:04.20,0:37:05.40,Default,,0000,0000,0000,,你说什么?\N{\r原文字幕}What are you talking about?
+Dialogue: 0,0:37:08.30,0:37:10.90,Default,,0000,0000,0000,,我不能和干这勾当的人交往\N{\r原文字幕}I can't be with someone who does stuff like this.
+Dialogue: 0,0:37:13.50,0:37:14.80,Default,,0000,0000,0000,,抱歉\N{\r原文字幕}I'm sorry.
+Dialogue: 0,0:37:17.20,0:37:18.10,Default,,0000,0000,0000,,琳达!\N{\r原文字幕}Linda!
+Dialogue: 0,0:37:19.90,0:37:20.80,Default,,0000,0000,0000,,琳达 别这样\N{\r原文字幕}Linda, please.
+Dialogue: 0,0:37:20.90,0:37:21.90,Default,,0000,0000,0000,,结束了 凯尔\N{\r原文字幕}Over, Kyle.
+Dialogue: 0,0:37:25.20,0:37:26.90,Default,,0000,0000,0000,,发生了什么事?\N{\r原文字幕}Are you gonna tell me what's going on?
+Dialogue: 0,0:37:29.00,0:37:31.30,Default,,0000,0000,0000,,没什么 就是吵了一架\N{\r原文字幕}We just have a little disagreement, that's all.
+Dialogue: 0,0:37:31.40,0:37:32.90,Default,,0000,0000,0000,,付多恩的房钱是从哪儿来的?\N{\r原文字幕}Where did you get the money to pay Don?
+Dialogue: 0,0:37:33.00,0:37:34.40,Default,,0000,0000,0000,,妈 别管它 拜托\N{\r原文字幕}Mum, forget about it, please.
+Dialogue: 0,0:37:34.50,0:37:36.70,Default,,0000,0000,0000,,你爸知道后会怎样?\N{\r原文字幕}What's your dad gonna say when he finds out?
+Dialogue: 0,0:37:36.80,0:37:39.50,Default,,0000,0000,0000,,一句"别管它"可敷衍不了他\N{\r原文字幕}He's not gonna take "forget about it" as an aswer.
+Dialogue: 0,0:37:44.40,0:37:45.80,Default,,0000,0000,0000,,我不知道\N{\r原文字幕}I don't know.
+Dialogue: 0,0:37:53.80,0:37:55.30,Default,,0000,0000,0000,,让我们单独聊聊好吗?\N{\r原文字幕}Would you excuse us, please?
+Dialogue: 0,0:37:57.80,0:38:00.20,Default,,0000,0000,0000,,抱歉 安妮 今天的行程有些耽误\N{\r原文字幕}I'm sorry, Anne. Our schedule has been way off today.
+Dialogue: 0,0:38:00.30,0:38:02.00,Default,,0000,0000,0000,,没关系! 我以为你不能来...\N{\r原文字幕}No! I think you were unable to join me so...
+Dialogue: 0,0:38:02.10,0:38:04.70,Default,,0000,0000,0000,,不会 我能抽出点时间\N{\r原文字幕}I am not. I have a couple of minutes.
+Dialogue: 0,0:38:05.30,0:38:07.40,Default,,0000,0000,0000,,我提升了你的安全级别\N{\r原文字幕}I'm having your security level upgraded.
+Dialogue: 0,0:38:07.50,0:38:09.90,Default,,0000,0000,0000,,我想听听你的看法\N{\r原文字幕}I'm gonna need your advice today.
+Dialogue: 0,0:38:10.00,0:38:11.30,Default,,0000,0000,0000,,怎么了?\N{\r原文字幕}What's going on?
+Dialogue: 0,0:38:11.40,0:38:15.10,Default,,0000,0000,0000,,你知道3号类型免疫病毒吗?\N{\r原文字幕}What do you know about type 3 immuno-viruses?
+Dialogue: 0,0:38:15.80,0:38:18.20,Default,,0000,0000,0000,,知道一些 很新的病毒\N{\r原文字幕}Not a lot, they're fairly new.
+Dialogue: 0,0:38:18.30,0:38:22.80,Default,,0000,0000,0000,,有几类特种 大部分具有快速传染性和致死性\N{\r原文字幕}As far as I know there are several strains, most of them fast acting and all are deadly.
+Dialogue: 0,0:38:22.90,0:38:26.50,Default,,0000,0000,0000,,有人威胁要在洛杉矶散播此病毒\N{\r原文字幕}Someone's threatening to release a virus here in L.A.
+Dialogue: 0,0:38:26.60,0:38:27.10,Default,,0000,0000,0000,,天啊!\N{\r原文字幕}Oh God!
+Dialogue: 0,0:38:27.20,0:38:31.30,Default,,0000,0000,0000,,我要和卫生部的桑尼 马切尔博士讲话\N{\r原文字幕}I need to talk to a Doctor Sunny Macer at National Health Services.
+Dialogue: 0,0:38:31.40,0:38:32.40,Default,,0000,0000,0000,,嗯 我... 知道桑尼\N{\r原文字幕}Yeah, I know... I know Sunny.
+Dialogue: 0,0:38:32.50,0:38:37.60,Default,,0000,0000,0000,,大卫 你不觉得此事的可能性很小吗?\N{\r原文字幕}But David, don't you think there's a remote possiblity that this thing is for real?
+Dialogue: 0,0:38:37.70,0:38:40.10,Default,,0000,0000,0000,,你需要离开洛杉矶\N{\r原文字幕}You need to get out of Los Angeles.
+Dialogue: 0,0:38:40.20,0:38:41.60,Default,,0000,0000,0000,,那不可能\N{\r原文字幕}That's not possible.
+Dialogue: 0,0:38:41.70,0:38:43.50,Default,,0000,0000,0000,,辩论会还有两个多小时\N{\r原文字幕}The debate is in little over two hours.
+Dialogue: 0,0:38:43.52,0:38:44.90,Default,,0000,0000,0000,,别再提辩论会了\N{\r原文字幕}No, don't tell me about the debate.
+Dialogue: 0,0:38:45.00,0:38:46.60,Default,,0000,0000,0000,,我们在谈这个城市的突发事件\N{\r原文字幕}We're talking about an outbreak here in the city.
+Dialogue: 0,0:38:46.70,0:38:50.60,Default,,0000,0000,0000,,卫生部没法保护你\N{\r原文字幕}This isn't something the Secret Service can't protect you against this.
+Dialogue: 0,0:38:50.70,0:38:56.70,Default,,0000,0000,0000,,我... 我知道安妮 如果形势需要我们就离开\N{\r原文字幕}I know... I know Anne. We are prepared to leave if the situation warrants it.
+Dialogue: 0,0:38:56.80,0:38:59.60,Default,,0000,0000,0000,,但现在 我需要你同桑尼 马切尔谈谈\N{\r原文字幕}But right now, I need you to talk to Dr. Sunny Macer
+Dialogue: 0,0:38:59.70,0:39:01.60,Default,,0000,0000,0000,,全面了解此事\N{\r原文字幕}and learn everything you can about this thing.
+Dialogue: 0,0:39:02.80,0:39:03.40,Default,,0000,0000,0000,,好的\N{\r原文字幕}I will.
+Dialogue: 0,0:39:03.63,0:39:05.73,Default,,0000,0000,0000,,没事的 没事的\N{\r原文字幕}That's ok, that's all right.
+Dialogue: 0,0:39:18.30,0:39:20.40,Default,,0000,0000,0000,,你弟弟想和你谈谈 阁下\N{\r原文字幕}Your brother would like to speak with you, sir.
+Dialogue: 0,0:39:20.50,0:39:21.50,Default,,0000,0000,0000,,好 让他进来\N{\r原文字幕}Well, send him in.
+Dialogue: 0,0:39:21.60,0:39:24.70,Default,,0000,0000,0000,,他在楼下 他让你去找他\N{\r原文字幕}He's downstairs. He requests that you come see him.
+Dialogue: 0,0:39:24.80,0:39:25.90,Default,,0000,0000,0000,,我去找他?\N{\r原文字幕}Come see him?
+Dialogue: 0,0:39:26.00,0:39:28.40,Default,,0000,0000,0000,,是的 阁下 他在楼下有东西给你看\N{\r原文字幕}Yes, sir. He has something to show you down there.
+Dialogue: 0,0:39:28.50,0:39:30.50,Default,,0000,0000,0000,,你去吧 我打给桑尼\N{\r原文字幕}You go ahead, I'm gonna call Sunny.
+Dialogue: 0,0:39:32.20,0:39:33.20,Default,,0000,0000,0000,,再见\N{\r原文字幕}See you later.
+Dialogue: 0,0:39:37.59,0:39:39.59,Default,,0000,0000,0000,,不 我会亲自去检查\N{\r原文字幕}No, I'm gonna check that out myself.
+Dialogue: 0,0:39:40.00,0:39:43.60,Default,,0000,0000,0000,,蔡斯会把疑犯带回去 给他安排一间休息室\N{\r原文字幕}Chase is bringing the suspect in the CTU. I want you to set up a wait room for him now.
+Dialogue: 0,0:39:45.25,0:39:46.79,Default,,0000,0000,0000,,把帕克带回反恐小组\N{\r原文字幕}I need you to take Parker down to CTU.
+Dialogue: 0,0:39:46.85,0:39:47.62,Default,,0000,0000,0000,,那凯尔·辛格勒怎么办?\N{\r原文字幕}What about Kyle Singer?
+Dialogue: 0,0:39:47.67,0:39:49.95,Default,,0000,0000,0000,,我去处理辛格勒 你处理帕克\N{\r原文字幕}I'm gonna take care of Singer. I want you to take care of Parker.
+Dialogue: 0,0:39:50.05,0:39:52.75,Default,,0000,0000,0000,,可以让其它人把他带回去 我去帮你抓辛格勒\N{\r原文字幕}Anybody can take him at CTU and set him up, I'm going with you to get Singer.
+Dialogue: 0,0:39:52.85,0:39:54.25,Default,,0000,0000,0000,,不行\N{\r原文字幕}No, you're not.
+Dialogue: 0,0:39:55.88,0:39:57.18,Default,,0000,0000,0000,,为什么想甩掉我?\N{\r原文字幕}Why are you trying to get rid of me?
+Dialogue: 0,0:39:57.21,0:39:58.41,Default,,0000,0000,0000,,我不是在甩掉你\N{\r原文字幕}I'm not trying to get rid of you.
+Dialogue: 0,0:39:58.43,0:40:00.77,Default,,0000,0000,0000,,我认为帕克还有很多情报 你要让他招供\N{\r原文字幕}I still think that Parker's got more information and I want you to get it out of him.
+Dialogue: 0,0:40:00.91,0:40:02.01,Default,,0000,0000,0000,,因为金吗?\N{\r原文字幕}Is this about Kim?
+Dialogue: 0,0:40:02.95,0:40:04.70,Default,,0000,0000,0000,,你惩罚我 因为我和她交往?\N{\r原文字幕}Are you punishing me for dating your daughter?
+Dialogue: 0,0:40:04.73,0:40:05.53,Default,,0000,0000,0000,,听着\N{\r原文字幕}You listen to me.
+Dialogue: 0,0:40:05.97,0:40:09.37,Default,,0000,0000,0000,,那孩子不知道自己 带着包有病毒的毒品 倒处乱跑\N{\r原文字幕}That kid is walking around a bag of cocaine that's got the virus and he doesn't know it.
+Dialogue: 0,0:40:09.40,0:40:11.77,Default,,0000,0000,0000,,我得找到他 阻止他传播病毒\N{\r原文字幕}I need to find him and stop him from putting it into circulation.
+Dialogue: 0,0:40:11.81,0:40:13.45,Default,,0000,0000,0000,,我知道 所以我才想帮你\N{\r原文字幕}Yeah, I know. That's why I wanna help you.
+Dialogue: 0,0:40:13.98,0:40:15.88,Default,,0000,0000,0000,,不行 太危险\N{\r原文字幕}But you can't, it's too dangerous.
+Dialogue: 0,0:40:16.06,0:40:16.86,Default,,0000,0000,0000,,太危险?\N{\r原文字幕}Too dangerous?
+Dialogue: 0,0:40:16.96,0:40:19.56,Default,,0000,0000,0000,,事情可以两全齐美 蔡斯\N{\r原文字幕}You can have a both ways, Chase.
+Dialogue: 0,0:40:19.76,0:40:21.56,Default,,0000,0000,0000,,我女儿爱你 你想和她一起?\N{\r原文字幕}My daughter loves you, you wanna be with her?
+Dialogue: 0,0:40:21.66,0:40:23.76,Default,,0000,0000,0000,,那我就必须保障你的安全\N{\r原文字幕}Then, I have to stop putting you in harm's way.
+Dialogue: 0,0:40:23.86,0:40:25.76,Default,,0000,0000,0000,,你在开玩笑?\N{\r原文字幕}You're kidding, right?
+Dialogue: 0,0:40:27.16,0:40:29.36,Default,,0000,0000,0000,,把帕克带回局里 这是命令\N{\r原文字幕}Take Parker to CTU, that's an order.
+Dialogue: 0,0:40:45.45,0:40:46.66,Default,,0000,0000,0000,,好 我再打给你\N{\r原文字幕}Yeah. I call you right back.
+Dialogue: 0,0:40:50.16,0:40:53.06,Default,,0000,0000,0000,,请让我们单独谈谈\N{\r原文字幕}Excuse us for a minute.
+Dialogue: 0,0:40:55.89,0:40:57.89,Default,,0000,0000,0000,,怎么了 韦恩?\N{\r原文字幕}What is it, Wayne?
+Dialogue: 0,0:41:02.54,0:41:05.43,Default,,0000,0000,0000,,别生气 大卫 我拿到了基勒的剧本\N{\r原文字幕}Don't be angry, David, but I got a copy of Keeler's playbook.
+Dialogue: 0,0:41:05.56,0:41:06.91,Default,,0000,0000,0000,,见鬼! 叫你别这么干!\N{\r原文字幕}Damn it! I told you to drop that!
+Dialogue: 0,0:41:06.97,0:41:09.85,Default,,0000,0000,0000,,听我说 你不想用可以不用\N{\r原文字幕}You just listen to me. If you don't wanna use it then don't.
+Dialogue: 0,0:41:11.08,0:41:12.96,Default,,0000,0000,0000,,但有些内容需要看看\N{\r原文字幕}But there is something you need to see.
+Dialogue: 0,0:41:13.02,0:41:15.12,Default,,0000,0000,0000,,没什么需要看的\N{\r原文字幕}There's nothing I need to see.
+Dialogue: 0,0:41:15.95,0:41:17.85,Default,,0000,0000,0000,,关于安妮的\N{\r原文字幕}It's about Anne.
+Dialogue: 0,0:41:18.66,0:41:22.34,Default,,0000,0000,0000,,基勒很聪明 不会打出人种牌或女友牌\N{\r原文字幕}Keeler is too smart to play the race card or the girlfriend card.
+Dialogue: 0,0:41:22.55,0:41:25.15,Default,,0000,0000,0000,,不是你想的那样 所以我带来给你看看\N{\r原文字幕}It's not the one of those which is why I'm bringing this to you.
+Dialogue: 0,0:41:27.82,0:41:30.42,Default,,0000,0000,0000,,是她一些我们不知道的事情\N{\r原文字幕}It's something that we didn't know about her.
+Dialogue: 0,0:41:31.13,0:41:34.63,Default,,0000,0000,0000,,如果是真的...\N{\r原文字幕}Something that, if true, could...
+Dialogue: 0,0:41:36.45,0:41:39.35,Default,,0000,0000,0000,,大卫 会毁了我们大家\N{\r原文字幕}David, it could damage all of us.
+Dialogue: 0,0:41:39.74,0:41:42.44,Default,,0000,0000,0000,,看看吧\N{\r原文字幕}Just take a look at it.
+Dialogue: 0,0:42:21.37,0:42:22.07,Default,,0000,0000,0000,,喂\N{\r原文字幕}Yeah.
+Dialogue: 0,0:42:22.17,0:42:24.07,Default,,0000,0000,0000,,给我最新情况\N{\r原文字幕}Give me an update.
+Dialogue: 0,0:42:24.33,0:42:25.63,Default,,0000,0000,0000,,凯尔还在家里\N{\r原文字幕}Kyle is still in his house.
+Dialogue: 0,0:42:25.73,0:42:27.03,Default,,0000,0000,0000,,货呢?\N{\r原文字幕}What about the package?
+Dialogue: 0,0:42:27.23,0:42:28.31,Default,,0000,0000,0000,,他手上\N{\r原文字幕}It's with him.
+Dialogue: 0,0:42:28.41,0:42:29.31,Default,,0000,0000,0000,,拉姆呢?\N{\r原文字幕}And Ramon?
+Dialogue: 0,0:42:29.68,0:42:31.28,Default,,0000,0000,0000,,正等着回家呢\N{\r原文字幕}Just waiting to come home.
+Dialogue: 0,0:42:31.43,0:42:32.53,Default,,0000,0000,0000,,很好\N{\r原文字幕}Good.
+Dialogue: 0,0:43:05.04,0:43:06.88,Default,,0000,0000,0000,,盖尔 你在这儿\N{\r原文字幕}Gael, there you are.
+Dialogue: 0,0:43:06.91,0:43:08.51,Default,,0000,0000,0000,,克萝伊在找你\N{\r原文字幕}Chloe has been looking for you.
+Dialogue: 0,0:43:08.53,0:43:09.23,Default,,0000,0000,0000,,她在哪儿?\N{\r原文字幕}Where is she?
+Dialogue: 0,0:43:09.26,0:43:10.36,Default,,0000,0000,0000,,她在资讯部\N{\r原文字幕}She's in I.T.
+Dialogue: 0,0:43:10.38,0:43:11.18,Default,,0000,0000,0000,,很好\N{\r原文字幕}All right.
